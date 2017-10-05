@@ -9,27 +9,33 @@ import org.ucb.c5.semiprotocol.model.Semiprotocol;
 import org.ucb.c5.utils.FileUtils;
 
 /**
- * This is the executable that would run the TaskDesigner and than
+ * This is the executable that would run the TaskDesigner and then
  * instantiate the PipetteAid and update the Inventory
  * 
- * It is not needed for the project at hand, so it is not implemented
+ * It is not needed for the project at hand, so it is not fully implemented
+ * 
+ * You do not need to work on this class
  * 
  * @author J. Christopher Anderson
  */
 public class TaskMaster {
-    public static final String path = "Insert path to WorkList directory";
+    
+    public static final String path = "Insert path to Dropbox WorkList directory";
     
     public static void main(String[] args) throws Exception {
         ParseConstructionFile parser = new ParseConstructionFile();
         parser.initiate();
         
-        //Parse the construction files in the "worklist" directory
-        File dir = new File(path);
+        //Parse the construction files in the "worklist" directory containing Experiments
+        File worklist = new File(path);
         List<ConstructionFile> cfiles = new ArrayList<>();
-        for(File afile : dir.listFiles()) {
-            String data = FileUtils.readFile(afile.getAbsolutePath());
-            ConstructionFile constf = parser.run(data);
-            cfiles.add(constf);
+        for(File afile : worklist.listFiles()) {
+            File constDir = new File(afile.getAbsoluteFile() + "/construction");
+            for(File cfile : constDir.listFiles()) {
+                String data = FileUtils.readFile(cfile.getAbsolutePath());
+                ConstructionFile constf = parser.run(data);
+                cfiles.add(constf);
+            }
         }
         
         //Run TaskDesigner
