@@ -1,13 +1,12 @@
 package org.ucb.bio134.taskmaster;
 
+import java.io.File;
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Map;
-import java.util.Set;
+import org.ucb.c5.constructionfile.ParseConstructionFile;
 import org.ucb.c5.constructionfile.model.ConstructionFile;
 import org.ucb.c5.semiprotocol.model.Semiprotocol;
+import org.ucb.c5.utils.FileUtils;
 
 /**
  * This is the executable that would run the TaskDesigner and than
@@ -18,9 +17,20 @@ import org.ucb.c5.semiprotocol.model.Semiprotocol;
  * @author J. Christopher Anderson
  */
 public class TaskMaster {
+    public static final String path = "Insert path to WorkList directory";
+    
     public static void main(String[] args) throws Exception {
+        ParseConstructionFile parser = new ParseConstructionFile();
+        parser.initiate();
+        
         //Parse the construction files in the "worklist" directory
+        File dir = new File(path);
         List<ConstructionFile> cfiles = new ArrayList<>();
+        for(File afile : dir.listFiles()) {
+            String data = FileUtils.readFile(afile.getAbsolutePath());
+            ConstructionFile constf = parser.run(data);
+            cfiles.add(constf);
+        }
         
         //Run TaskDesigner
         TaskDesigner designer = new TaskDesigner();

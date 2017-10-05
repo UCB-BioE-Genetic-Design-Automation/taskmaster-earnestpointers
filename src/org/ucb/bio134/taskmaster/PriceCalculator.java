@@ -1,15 +1,10 @@
 package org.ucb.bio134.taskmaster;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.List;
 import java.util.Map;
-import java.util.Set;
 import org.ucb.bio134.taskmaster.model.Tip;
 import org.ucb.c5.semiprotocol.model.Container;
 import org.ucb.c5.semiprotocol.model.Reagent;
-import org.ucb.c5.semiprotocol.model.Semiprotocol;
 
 /**
  *
@@ -19,6 +14,11 @@ public class PriceCalculator {
 
     public void initiate() throws Exception {
         //TODO:  Write me
+        
+        /*JCA I recommend putting TSV files for price of goods in
+            org.ucb.c5.semiprotocol.data
+          And then parsing it here
+        */
     }
 
     public double run(Map<Reagent, Integer> reagentCount,
@@ -26,7 +26,8 @@ public class PriceCalculator {
                       Map<Tip, Integer> tipCount) throws Exception {
         
         //TODO:  Write me
-        return 3;
+        
+        return 0.0;
     }
     
     public static void main(String[] args) throws Exception {
@@ -52,6 +53,6 @@ public class PriceCalculator {
         tipCount.put(Tip.P1000, 6);
         
         double price = calc.run(reagentCount, tubeCount, tipCount);
-        System.out.println(price);
+        System.out.println("$" + price);
     }
 }
