@@ -1,0 +1,11 @@
+=========Construct pKD908F===========
+-->Blunt out NotI site of pKD908b for pKD908n (Vent/NotI)
+PCR 581F/583R on pAC-flp	(1787 bp, BsmBI)
+Sub into pKD908n		(BamHI/EcoRI)
+Product is pKD908f
+=======Construct pAC-SalTnp912b======
+-->Blunt out BamHI site of pAC-SalTnp912      (vent/BamHI)
+-------------------------------------
+PCR 792/791 on pAC-SalSer912b	(3145 bp, NotI/EcoRI)
+Sub into pKD908f		(NotI/EcoRI)
+Product is pKD-tnp

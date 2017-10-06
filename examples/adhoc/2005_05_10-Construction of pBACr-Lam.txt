@@ -1,0 +1,8 @@
+PCR ca896F/R on Lambda gen.	(2953 bp, NotI/BamHI)
+Sub into pBAC874t		(NotI/BamHI)
+Product is pBACr-Lam
+------------------------------------------------
+ca896F	Forward NotI oligo for Lambda/Cro switch
+GGTATGCGGCCGcAATGCTTCGTTTCGTATCAC
+ca896R	Reverse BamHI oligo for Lambda/Cro switch
+CACATggatccGATTCGTAGAGCCTCGTTGC

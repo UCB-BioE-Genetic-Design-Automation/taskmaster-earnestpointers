@@ -1,0 +1,6 @@
+PCR ca873F/ca606R on pBAc-PbadInv877	(3431 bp, NotI/EcoRI)
+Sub into pBAC671b			(NotI/EcoRI)
+Product is pBACn-Inv873
+-----------------------------------------------------
+PCR ca668F/R on pBACn-Inv873		(6000 bp, SacII)
+D/W of MC1061 or MC600

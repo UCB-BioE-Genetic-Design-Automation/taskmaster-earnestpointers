@@ -1,0 +1,32 @@
+EIPCRs:	730F/R
+	731R/732F
+	""  /733F
+	""  /734F
+	735R/736F	Dig. BsmBI
+	""  /737F
+	""  /738F
+	""  /739F
+---------------------------------------------------------------
+ca730F	Forward oligo for S170TAG of AraC	
+gagtccgtctcgCGAGTAGCTGCACCCTCCGATGGATAATC
+ca730R	Reverse mutagenic oligo to do amber at S170TAG of AraC	
+ccatccgtctcgCTCGTTAATCGCTTCCATGC
+
+ca731R	Reverse mutagenic oligo to do ambers at 237,238, and 240 of AraC	ccatccgtctcgTTCGCCTGGCTGATACGTTG
+ca732F	Forward oligo for 237TAG of AraC	
+gagtacgtctctCGAAGTAGCTTTTGAGCACCACCCGGATGCCTATCGCCAC
+ca733F	Forward oligo for 238TAG of AraC	
+gagtacgtctctCGAAGCTGTAGTTGAGCACCACCCGGATGCCTATCGCCAC
+ca734F	Forward oligo for 240TAG of AraC	
+gagtacgtctctCGAAGCTGCTTTTGTAGACCACCCGGATGCCTATCGCCAC
+
+ca735R	Reverse mutagenic oligoto do ambers at 7,8,9,10 of AraC	
+ccatccgtctcgTTTTGCGCTTCAGCCATAC
+ca736F	Forward oligo for 7TAG of AraC	
+gagtacgtctctAAAATTAGCCCCTGCTGCCGGGATACTCGTTTAATGCC
+ca737F	Forward oligo for 8TAG of AraC	
+gagtacgtctctAAAATGATTAGCTGCTGCCGGGATACTCGTTTAATGCC
+ca738F	Forward oligo for 9TAG of AraC	
+gagtacgtctctAAAATGATCCCTAGCTGCCGGGATACTCGTTTAATGCC
+ca739F	Forward oligo for 10TAG of AraC	
+gagtacgtctctAAAATGATCCCCTGTAGCCGGGATACTCGTTTAATGCC

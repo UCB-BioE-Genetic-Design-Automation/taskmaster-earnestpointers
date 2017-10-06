@@ -1,0 +1,10 @@
+PCR ca588F/R on E. coli genome	(1071 bp, BsaI) G
+PCR ca589F/R on pKD13		(1336 bp, BsaI)	I
+*old PCR ca581F/R on pPROTet.E	(143 bp, BsmBI)	A
+PCR ca590F/R on E. coli genome	(1059 bp, BsaI)	H
+Ligate G+I, PCR 588F/590R	(~2400 bp)
+Ligate A+H, PCR 581F/590R	(~1200 bp)
+Digest GI with BsaI
+Digest AH with BsmBI
+ligate, PCR ca588F/ca590R	(3527 bp)
+sub XhoI/EcoRI into pKD440-GFP

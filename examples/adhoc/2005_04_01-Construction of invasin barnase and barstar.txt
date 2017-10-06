@@ -1,0 +1,19 @@
+PCR ca870F/ca869R on B. am. gen.	(475 bp, BamHI/EcoRI)
+Sub into pBRXma				(BamHI/EcoRI)
+Product is pBR-Bar*, make competent cells
+--------------------------------------------------------
+PCR 868F/R on B. am. gen.		(440 bp, XhoI/EcoRI)
+PCR 869F/R on B. am. gen.		(352 bp, XhoI/EcoRI)
+Sub into pAC-HBs836			(XhoI/EcoRI)
+Products are pAC-InvBar868 and pAC-InvBar*869
+--------------------------------------------------------
+ca868F	Forward XhoI oligo for invasin-barnase	
+CGTCActcgagGCACAGGTTATCAACACGTTTG
+ca868R	Reverse EcoRI oligo for invasin-barnase	
+CCAAAGAATTCACCGATCAGAGTTTGAAG
+ca869F	Forward XhoI oligo for invasin-barstar	
+CCATActcgagATGAAAAAAGCAGTCATTAACGGGGAAC
+ca869R	Reverse EcoRI oligo for invasin-barstar	
+CGCAAGAATTCTCCAATCGGATAGCTGAGG
+ca870F	Forward BamHI for constitutive barstar	
+CCTTAggatccGTCCAATCTGCAGCCGTCCG

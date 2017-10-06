@@ -1,0 +1,61 @@
+LOCUS       New_DNA                  752 bp ds-DNA     linear       03-MAR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    742..747
+                     /label=EcoRI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    21..26
+                     /label=SpeI
+                     /ApEinfo_fwdcolor=#00ffff
+                     /ApEinfo_revcolor=#00ffff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    6..11
+                     /label=XhoI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(587..592,607..608)
+                     /label=AcuI/Eco57I
+                     /ApEinfo_fwdcolor=#d2d068
+                     /ApEinfo_revcolor=#d2d068
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(713..718,733..734)
+                     /label=AcuI/Eco57I(1)
+                     /ApEinfo_label=AcuI/Eco57I
+                     /ApEinfo_fwdcolor=#d2d068
+                     /ApEinfo_revcolor=#d2d068
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    64..741
+                     /label=mRFP1
+                     /ApEinfo_fwdcolor=#ff8699
+                     /ApEinfo_revcolor=#ff8699
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CAGTTCTCGA Gcgatcagat ACTAGTaacc aatataccaa ataaagagtt gaggacgtca
+       61 aggATGGCTT CCTCCGAAGA CGTTATCAAA GAGTTCATGC GTTTCAAAGT TCGTATGGAA
+      121 GGTTCCGTTA ACGGTCACGA GTTCGAAATC GAAGGTGAAG GTGAAGGTCG TCCGTACGAA
+      181 GGTACCCAGA CCGCTAAACT GAAAGTTACC AAAGGTGGTC CGCTGCCGTT CGCTTGGGAC
+      241 ATCCTGTCCC CGCAGTTCCA GTACGGTTCC AAGGCTTACG TTAAACACCC GGCTGACATC
+      301 CCGGACTACC TGAAACTGTC CTTCCCGGAA GGTTTCAAAT GGGAACGTGT TATGAACTTC
+      361 GAAGACGGTG GTGTTGTTAC CGTTACCCAG GATTCCTCCC TGCAAGACGG TGAGTTCATC
+      421 TACAAAGTTA AACTGCGTGG TACCAACTTC CCGTCCGACG GTCCGGTTAT GCAGAAAAAA
+      481 ACCATGGGTT GGGAGGCTTC CACCGAACGT ATGTACCCGG AAGACGGTGC TCTGAAAGGT
+      541 GAAATCAAAA TGCGTCTGAA ACTGAAAGAC GGTGGTCACT ACGACGCTGA AGTTAAAACC
+      601 ACCTACATGG CTAAAAAACC GGTTCAGCTG CCGGGTGCTT ACAAAACCGA CATCAAACTG
+      661 GACATCACCT CCCACAACGA AGACTACACC ATCGTTGAAC AGTACGAACG TGCTGAAGGT
+      721 CGTCACTCCA CCGGTGCTTA AGAATTCaaa cc  
+//

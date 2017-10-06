@@ -1,0 +1,14 @@
+PCR ca740F/R on MG1655 gen.	(1450 bp, BsaI)
+Sub into pGLN-fimTF689		(EcoRI/HindIII)
+Product is pHA-PhoA740, 4617 bp
+-----------------------------------------------
+PCR ca741F/ca740R on MG1655 gen.	(bp, BsaI)
+Sub into pGLNmychisA			(NcoI/HindIII)
+Product is pGLN-PhoA741, 4244 bp
+-----------------------------------------------
+ca740F	Forward BsaI to EcoRI oligo to fuse PhoA to fim	
+gagtaGGTCTCgAATTCAGGTGAAACAAAGCACTATTG
+ca740R	Reverse BsaI to HindIII PhoA mychis oligo	
+cagctGGTCTCaAGCTTTTTCAGACCCAGAGCGGCTTTCATGGTG
+ca741R	Forward BsaI to NcoI oligo to clone PhoA N-term	
+gagtaGGTCTCcCATGGTGAAACAAAGCACTATTG

@@ -1,0 +1,11 @@
+Gel purify oligos
+PCR ca622F/R on pBAC-ISceI585 (6923 bp)
+Digest BsmBI, lig and tran PRO116
+	*Note cuts once internally
+Isolate clone by spotting on atc
+Product is pBAC-ISceI622 (6908 bp)
+-----------------------------------------------------------
+ca622F	Forward BsmBI oligo to add I-SceI site
+	cgtaaCGTCTCgGATAACAGGGTAATATAGATCTGTTGTTTGTCGGTGAAC
+ca622R	Reverse BsmBI oligo to add I-SceI site
+	gtaccCGTCTCtTATCCCTAGCGTAACTATAAAACGAAAGGCCCAGTC

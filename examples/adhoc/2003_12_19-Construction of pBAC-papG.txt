@@ -1,0 +1,8 @@
+PCR ca594F/R on E. coli gen. (1331 bp)
+Sub BamHI/EcoRI into pBAC581
+Product is pBAc-papG (7462 bp)
+-----------------------------------------
+ca594F	Forward BamHI to clone papG
+	CACTTggatccCTAAATGAATAACTGTAATTAC
+ca594R	Reverse EcoRI to clone papG
+	CGCAAgaattcCAGTCATCCGGTAAACATCGAC

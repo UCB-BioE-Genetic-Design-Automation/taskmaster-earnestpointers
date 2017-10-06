@@ -1,0 +1,10 @@
+PCR ca623F/R on MC1061 gen. (1914 bp)
+Digest BsaI
+Ligate into pBAC568 (BamHI/EcoRI dig)
+Product is pBAC-tar (7550 bp)
+----------------------------------------------
+ca623F	Forward BsaI/BamHI oligo to clone tar 
+		with its own promoter
+	ctgaaGGTCTCggatcTGAAGTGGCGTAATTCTCCCG
+ca623R	Reverse BsaI/EcoRI oligo to clone tar
+	gagttGGTCTCGaattACGAATACGATTAAACATC

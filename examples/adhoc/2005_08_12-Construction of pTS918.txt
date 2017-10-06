@@ -1,0 +1,7 @@
+PCR 906F/905R on pInt80-649-4		(1155 bp, AlwNI)
+PCR 918F/606R on pAC-SalTnp912b		(2885 bp, DraIII)
+Ligate, pcr 906F/606R			(4021 bp, BamHI/EcoRI)
+Ligate into pG80ts871			(BamHI/EcoRI)
+Product is pTS918
+-------------------------------------------------------
+ca918F	Forward DraIII oligo for lig-PCR of SalTnp912b	cgagtCACGCAGTGGCGATCCCGCGAAGAACC

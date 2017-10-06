@@ -1,0 +1,8 @@
+PCR 680F/R on P. aeruginosa	(2294 bp, BsaI)
+Sub pG80-568			(BamHI/EcoRI)
+Product is pBAC-lasIR, 7930 bp
+-----------------------------------------------
+ca680F	Forward BsaI/BamHI oligo to clone LasIR	
+gagtaGGTCTCcGATCagcctgacgccgcgaggtcg
+ca680R	Reverse BsaI/EcoRI oligo to clone LasIR	
+gcagaGGTCTCcaattGGATGCCTGATAGCGAGTCC

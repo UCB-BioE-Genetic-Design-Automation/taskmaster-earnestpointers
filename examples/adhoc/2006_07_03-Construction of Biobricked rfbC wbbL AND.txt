@@ -1,0 +1,16 @@
+=====Basic parts:
+Q04121	[lacI][TT][P_Llac 0-1]	lacI inverter
+I14033	[P_cat]	Constitutive promoter from CmR
+Bca9014	[wbbL1]	wbbL from TetWbb
+
+=====Secondary Parts:
+pSB1A3-Q04121	[lacI][TT][P_Llac 0-1]
+
+=====Tertiary Composites:
+Bca9022	[P_cat][lacI][TT][P_Llac 0-1]	call [P_iptg]	I14033.Q04121
+
+=====Quaternary Composites:
+Bca9023	[P_iptg][wbbL1]
+
+
+******in progress

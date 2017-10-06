@@ -1,0 +1,8 @@
+=========doing hns-AraC without LVA====================
+
+PCR 789F/749R on pHA-hnsAraC[9TAG]LVA	(bp, BsaI)
+Ligate into pBAC/708			(BamHI/HindIII)
+Transform pMR-supD/pBR592/MC for CKA
+-------------------------------------------------------
+
+=========Confirming activity of pGLN-AraC787========= 

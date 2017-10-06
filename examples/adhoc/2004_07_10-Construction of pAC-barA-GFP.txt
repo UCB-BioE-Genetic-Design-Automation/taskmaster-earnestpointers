@@ -1,0 +1,8 @@
+PCR 726F/R on MG1655 gen.	(297 bp, BamHI/EcoRI)
+Sub pAC-GFP+			(BamHI/EcoRI)
+Product is pAC-barA-GFP, 3104 bp
+-------------------------------------------------
+ca726F	Forward BamHI to clone AirS 5' UTR	
+CACGTggatcCAGTTTTCCTGCGGCAATAATC
+ca726R	Reverse EcoRI to clone AirS 5' UTR	
+GTGCAGAATTCAATAAACCAATAAGGACGGTCG

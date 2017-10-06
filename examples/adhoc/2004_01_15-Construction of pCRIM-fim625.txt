@@ -1,0 +1,8 @@
+PCR ca525F/R on pBAC-fim592 (8085 bp)
+Digest BsaI
+Ligate into BamHI/EcoRI sites
+of CRIM plasmid
+Product is pCRIM-fim626
+
+
+***need to revise this with choice of crim

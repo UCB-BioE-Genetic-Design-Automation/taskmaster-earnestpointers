@@ -1,0 +1,5 @@
+PCR ca929F/R on pBACr-spv803	(2020 bp, NotI/BamHI)
+Sub into pBACr-nah899		(NotI/BamHI)
+Product is pBAC929
+-----------------------------------------------------
+Transfer spv929 into pBR581 with codA in Bam/Eco

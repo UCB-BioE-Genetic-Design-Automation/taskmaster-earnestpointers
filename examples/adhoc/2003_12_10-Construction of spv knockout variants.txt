@@ -1,0 +1,9 @@
+EIPCR ca565F/R on pHA-spv555 (5679 bp)
+Digest with BamHI, gp, lig, retrans
+Product is pHA-spv565
+
+EIPCR ca566F/R on pHA-spv554 (6628 bp)
+Digest with XbaI, gp, lig, retrans
+Product is pHA-spv566
+
+

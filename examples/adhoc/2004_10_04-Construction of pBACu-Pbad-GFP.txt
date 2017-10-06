@@ -1,0 +1,3 @@
+PCR 560F/583R on pBAD-GFP	(2409 bp, BsmBI)
+Ligate into pBAC750		(BamHI/EcoRI)
+Product is pBACu-Pbad-GFP, 8929 bp

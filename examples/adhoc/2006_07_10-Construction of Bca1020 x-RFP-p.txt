@@ -1,0 +1,8 @@
+PCR ca1020F/R on pSB1A2-I13521	(900bp, SpeI/PstI)
+Sub into pSB1A2-I13522		(SpeI/PstI)
+Product is pBca1020, will be an iGEM number ultimately
+---------------------------------------------
+ca1020F	Forward SpeI oligo for X-rbsRFP-P plasmid
+gcactACTAGTgaaagaggagaaatactagatggc
+ca1020R	Reverse PstI oligo for X-rbsRFP-P plasmid
+ccggactgcagcggccgcttctagtatataaacg

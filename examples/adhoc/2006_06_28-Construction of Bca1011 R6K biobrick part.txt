@@ -1,0 +1,8 @@
+PCR ca1011F/R on pG80ko		(445 bp, EcoRI/SpeI)
+Sub into pSB1A3-I13522		(EcoRI/SpeI)
+Product is Bca1011
+------------------------------------------
+ca1011F	Forward Biobricking of R6K
+GGACTgaattcgcggccgcttctagagtgattcgcacgggcccatg
+ca1011R	Reverse biobricking of R6K
+ccgctactagtaGCAGTTCAACCTGTTGATAG

@@ -1,0 +1,12 @@
+PCR ca815F/R on pBAC-TF626	(83 bp, BamHI/HindIII)
+Sub into pAC-inv800		(BamHI/HindIII)
+Product is pAC-inv815 (variant with inv-myc-TF)
+-----------------------------------------------
+PCR ca815F/R on pBAC-TF626	(83 bp, XhoI/EcoRI)
+Sub into pAC-inv784		(XhoI/EcoRI)
+Product is pAC-inv816 (variant with inv-TF)
+-----------------------------------------------
+ca815F	Forward oligo to move TF onto invasin	
+CAGTActcgagGGATCCATTGTTTGGCATCG
+ca816R	Reverse oligo to move TF onto invasin	
+CGTACAAGCTTGAATTCTTAAATACGAGAAGCAGGAGACC

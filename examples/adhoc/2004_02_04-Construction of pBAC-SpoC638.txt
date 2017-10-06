@@ -1,0 +1,5 @@
+EIPCR ca581R/ca638F on pBAC-Spo0A557 #3 (7089 bp, BamHI)
+EIPCR ca581R/ca627F on pBAC-Spo0A557 #3 (7089 bp, BamHI)
+(If PCR fails, do 638F/557R)
+Ligate, trans MC1061/pGLN-P2GFP
+Product is pBAC-SpoC638, 7062 bp

@@ -1,0 +1,10 @@
+PCR 581F/992R on pBAC-wbb903	(933 bp, BamHI/EcoRI)
+Sub into pBACr-cyoA		(BamHI/EcoRI)
+Product is pBACr-CyoWbb992
+-------------------------------------------------
+Dig pBACr-CyoWbb992 small frag	(1382 bp,NotI/BglII)
+Sub into pBACr-AraNeu		(NotI/BamHI)
+Product is pBACr-CWN
+-------------------------------------------------
+Put it into BO828/pAC-FluInv
+Test for serum resistance and anaer-inducible invasion

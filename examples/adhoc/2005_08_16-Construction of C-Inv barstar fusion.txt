@@ -1,0 +1,16 @@
+PCR 919F/R on pAC-TetInv	(614 bp, EcoRI/HindIII)
+Ligate into pBADko		(EcoRI/HindIII)
+Product is pBAD-CInv919
+--------------------------------------------------
+PCR 920F/R on pBR-Barstar	(289 bp, NcoI/EcoRI)
+Ligate into pBAD-CInv919	(NcoI/EcoRI)
+Product is pBAD-Bars920
+--------------------------------------------------
+ca919F	Forward EcoRI oligo to fuse C-terminus of invasin for expression
+GATGcGAATTCGATATCCCTATTCCCGGTACC
+ca919R	Reverse HindIII to fuse C-terminus, in frame with mychis
+CGAGTaagcttTATTGACAGCGCACAGAGC
+ca920F	Forward NcoI for barstar
+GATGCccATGgctAAAAAAGCAGTCATTAAC
+ca920R	Reverse EcoRI for barstar fused
+ggataGAATTCGAAAGTATGATGGTGATG

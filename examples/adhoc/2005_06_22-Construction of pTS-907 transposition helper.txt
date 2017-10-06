@@ -1,0 +1,15 @@
+PCR ca906F/905R on BW..pir116	(1155 bp, AlwNI)
+	*can use AraC-Pbad-pir116 forward 
+PCR ca907F/R on pCNB4		(1677 bp, DraIII)
+Ligate, PCR 906F/907R		(2813 bp, BamHI/EcoRI)
+sub into pG80ts871		(BamHI/EcoRI)
+Product is pTS907, Sc101ts, Ar
+---------------------------------------------------
+ca906F	Forward BamHI for pir116	
+CAGTGggatccATGAGTGGATAGTACGTTGC
+ca905R	Reverse AlwNI for pir-116	
+cctaaCAGTGCCTGGCGTTTAACCTCTGGCTTAC
+ca907F	Forward DraIII ligation PCR to clone tnp transposase	
+cgagtCACGCAGTGatttatcagggttattgtc
+ca907R	Reverse EcoRI to clone tnp transposase	
+CCATAgaattcCCGTCGACCGATCCCGTAC

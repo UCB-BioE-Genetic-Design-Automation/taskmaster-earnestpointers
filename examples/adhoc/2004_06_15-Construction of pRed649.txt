@@ -1,0 +1,16 @@
+PCR 648F/R on pKD46		(6363 bp, BglII/XbaI)
+PCR ca649F/R on BW23474 gen	(1154 bp, BamHI/XbaI)
+Ligate, product is pRed649, 7472 bp
+-----------------------------------------------------
+PCR 716F/716R on DH5aPRO gen	(1059 bp, XhoI/SpeI)
+PCR 649F/715R on pRed649	(7488 bp, XhoI/XbaI) 
+Ligate, Product is pRed, 8515 bp
+-----------------------------------------------------
+ca649F	Forward XbaI PCR of pir-116	
+CAGTGtctagaCATGAGTGGATAGTACGTTGC
+ca715R	Reverse XhoI oligo to PCR pRed715	
+GCATGctcgagCAAAGGGAAAACTGTCCATACC
+ca716F	Forward SpeI for TetR gene	
+ccactACTAGTaattaatgtaagttagcg
+ca716R	Reverse XhoI oligo to PCR tetR	
+CGAGActcgagTTAGTATAAAAAAGCTGAACGAG

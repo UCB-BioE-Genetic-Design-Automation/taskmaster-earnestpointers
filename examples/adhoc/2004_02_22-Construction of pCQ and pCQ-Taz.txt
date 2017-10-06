@@ -1,0 +1,6 @@
+PCR ca651F/R on pPROTet	(1851 bp, BamHI/EcoRI)
+Digest pGLN-Taz		(1543 bp, BamHI/EcoRI)
+Ligate, product is pCQ-Taz, 3372 bp
+-----------------------------------------
+Digest pGLN-(errr, some other with good NcoI/EcoRI spacing)
+Ligate with PCR product

@@ -1,0 +1,8 @@
+
+Digest pKD13		(2113 bp, (large) BamHI/SphI)
+Sub into pRL985	(BamHI/SphI)
+Product is pRL-RA
+------------------------------------------------
+Digest pKD705-Tet	(872 bp, BamHI/NcoI)
+Sub into pRL-RA	(BamHI/NcoI)
+Product is pRL-Tet

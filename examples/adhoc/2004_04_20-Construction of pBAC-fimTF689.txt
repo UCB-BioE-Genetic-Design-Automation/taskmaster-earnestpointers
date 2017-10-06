@@ -1,0 +1,24 @@
+PCR 689F/592R on pBAC-fimH597	(901 bp, EcoRI)
+PCR 605F/605R on pBAC-fimTF	(1141 bp, EcoRI)
+	Cuts as 863 + 278	(gp 278 bp)
+Ligate, PCR 597F/592R		(1069 bp, BsaI)
+Sub pBAC581			(BamHI/EcoRI)
+Product is pBAC-fimTF689, 7166 bp
+------------------------------------------------
+ca689F	Oligo to make prepro-TF-fullfimH
+gcataGAATTCAGTTCGCCTGTAAAACCGCCAATG
+
+
+
+
+new plan
+
+
+PCR 689F/592R on pBAC-fimH597	(901 bp, EcoRI)
+Digest pG80-fimTF#4		(EcoRI/BglII, 1117 bp)
+Ligate, PCR 597F/592R		(1069 bp, BsaI)
+Sub pBAC581			(BamHI/EcoRI)
+Product is pBAC-fimTF689, 7166 bp
+------------------------------------------------
+ca689F	Oligo to make prepro-TF-fullfimH
+gcataGAATTCAGTTCGCCTGTAAAACCGCCAATG

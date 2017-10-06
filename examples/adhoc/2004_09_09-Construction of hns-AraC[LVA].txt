@@ -1,0 +1,19 @@
+PCR 789F/R on MG1655 gen.	(703 bp, BsaI)
+PCR 749F/788R on pBAD-GFP[TAG]	(935 bp, EcoRI)
+Ligate
+PCR 789F/787R on ligation	(1633 bp, BamHI/HindIII)
+Sub into pAC708			(BamHI/HindIII)
+Product is pAC-hnsAraC[LVA], 3674 bp
+----------------------------------------------------
+PCR 789F/785R on pAC-hnsAraC[LVA]	(1825 bp, BsaI)
+Sub into pBAC750			(BamHI/EcoRI)
+Product is pBACu-hnsAraC[TAG], 8345 bp
+----------------------------------------------------
+ca787R	Reverse HindIII AraC[LVA] oligo part 2	
+GTCTCaagcTTATTAAGCTACTAAAGCGTAGTTTTCGTCGTTTGC
+ca788R	Reverse HindIII AraC[LVA] oligo part 1	
+AAGCGTAGTTTTCGTCGTTTGCAGCTGACAACTTGACGGCTACATC
+ca789F	Cloning hns 5' UTR	
+ctgaaGGTCTCggatccGAAATATAGCTGTGCCATCAG
+ca789R	Cloning hns 5' UTR	
+gagttGGTCTCGaattCGCACGAAGAGTACGGATGTTG

@@ -1,0 +1,10 @@
+PCR 818F/835R on pAC-HBs819	(4815 bp, XhoI)
+PCR 818F/836R on pAC-HBs819	(5326 bp, XhoI)
+Ligate, product is pAC-HBs835 and 836
+-----------------------------------------
+ca818F	Forward XhoI for preS1
+GCAAActcgagATGGGGCAGAATCTTTCCACC
+ca835R	Reverse oligo to EIPCR invasin at 625
+CGATACTCGAGCGACTCTAACGTGATGGTTGAAGCC
+ca836R	Reverse oligo to EIPCR invasin at 796
+CGATACTCGAGAGGTACCGGGAATAGGGATA

@@ -1,0 +1,8 @@
+PCR 722F/R on pGLN-fimH694s (or 713s)	(4085 bp, BsmBI)
+	!!Cuts once internal!!
+Ligate, Product is pGLN-fimH722s, 4057 bp
+-------------------------------------------------------
+ca722F	Forward BsmBI EIPCR to mutate fimH active site
+GCATACGTCTCTAGACCNNKAACTATAACAGCGATGATTTCC
+ca722R	Reverse BsmBI EIPCR to mutate fimH active site
+GAGTCCGTCTCGGTCTGTCGCAAAATAAGCACG

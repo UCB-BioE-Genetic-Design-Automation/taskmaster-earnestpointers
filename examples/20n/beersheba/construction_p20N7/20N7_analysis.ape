@@ -1,0 +1,48 @@
+LOCUS       New_DNA                  747 bp ds-DNA     linear       03-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    13..18
+                     /label=BglII
+                     /ApEinfo_fwdcolor=#00ff80
+                     /ApEinfo_revcolor=#00ff80
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    736..741
+                     /label=MfeI
+                     /ApEinfo_fwdcolor=#8fc2c1
+                     /ApEinfo_revcolor=#8fc2c1
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    7..12
+                     /label=HindIII
+                     /ApEinfo_fwdcolor=#a648ff
+                     /ApEinfo_revcolor=#a648ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    37..732
+                     /label=amilGFP
+                     /ApEinfo_fwdcolor=#ffef13
+                     /ApEinfo_revcolor=#ffef13
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 aGATCCaagc ttAGATCTaa ataggagaaa tactagATGT CTTATTCAAA GCATGGCATC
+       61 GTACAAGAAA TGAAGACGAA ATACCATATG GAAGGCAGTG TCAATGGCCA TGAATTTACG
+      121 ATCGAAGGTG TAGGAACTGG GTACCCTTAC GAAGGGAAAC AGATGTCCGA ATTAGTGATC
+      181 ATCAAGCCTG CGGGAAAACC CCTTCCATTC TCCTTTGACA TACTGTCATC AGTCTTTCAA
+      241 TATGGAAACC GTTGCTTCAC AAAGTACCCG GCAGACATGC CTGACTATTT CAAGCAAGCA
+      301 TTCCCAGATG GAATGTCATA TGAAAGGTCA TTTCTATTTG AGGATGGAGC AGTTGCTACA
+      361 GCCAGCTGGA ACATTCGACT CGAAGGAAAT TGCTTCATCC ACAAATCCAT CTTTCATGGC
+      421 GTAAACTTTC CCGCTGATGG ACCCGTAATG AAAAAGAAGA CCATTGACTG GGATAAGTCC
+      481 TTCGAAAAAA TGACTGTGTC TAAAGAGGTG CTAAGAGGTG ACGTGACTAT GTTTCTTATG
+      541 CTCGAAGGAG GTGGTTCTCA CAGATGCCAA TTTCACTCCA CTTACAAAAC AGAGAAGCCG
+      601 GTCACACTGC CCCCGAATCA TGTCGTAGAA CATCAAATTG TGAGGACCGA CCTTGGCCAA
+      661 AGTGCAAAAG GCTTTACAGT CAAGCTGGAA GCACATGCCG CGGCTCATGT TAACCCTTTG
+      721 AAGGTTAAAT AAtaaCAATT Ggaattg   
+//

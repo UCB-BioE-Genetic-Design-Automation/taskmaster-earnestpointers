@@ -1,0 +1,23 @@
+PCR 946F/R on Biobrick BBa_I12007 (pRM)		(106 bp, NotI/BamHI)
+Sub into pBR872					(NotI/BamHI)
+Product is pBR946 (pBR, AmpR, P_RM-GFP)
+-------------------------------------------------------------------
+PCR 945F/R on Biobrick BBa_Q04510 (cI)		(952 bp, BamHI/EcoRI)
+Sub into pBAC872s				(BamHI/EcoRI)
+Product is pBACr-cI945 (BACr, KanR, P_BAD-cI)
+
+Sub into pKD908b				(BamHI/EcoRI)
+Product is pKD-cI945 (no model made)
+-------------------------------------------------------------------
+PCR 945F/R on Biobrick BBa_Q0040 (tetR)		(862 bp, BamHI/EcoRI)
+Sub into pKD908b				(BamHI/EcoRI)
+Product is pKD-tet945 (no model made)
+-------------------------------------------------------------------
+ca945F	Forward BamHI oligo for tetR/cI inverter	
+cactcGGATCCAaagaggagaaatactagatg
+ca945R	Reverse EcoRI Oligo for tetR inverter	
+CTCACgaattcTATAAACGCAGAAAGGCCCAC
+ca946F	Forward NotI for pRM (activated)	
+GGTATGCGGCCGCGcaaccattatcaccgccag
+ca946R	Reverse BamHI for pRM (activated)	
+CACTGggatccACGTTAAATCTATCACCAC

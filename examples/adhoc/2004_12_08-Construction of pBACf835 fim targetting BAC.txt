@@ -1,0 +1,15 @@
+PCR ca598F/ca836R on pG80-fim600	(2763 bp, BsaI)
+Sub into pGLN				(BamHI/HindIII)
+Product is pHA836, AK, bp
+-------------------------------------------
+EIPCR ca835F/R on pBR836		(5430 bp, BamHI)
+Product is pHA835, A, bp
+-------------------------------------------
+Digest pBR835				(BamHI/EcoRI)
+Lig w/ 670F/R on pKD13			(2117 bp, BsaI)
+Product is pHA835K, AK, bp
+-------------------------------------------
+PCR ca598F/ca836R on pBR835K		(3546 bp, BsaI)
+Ligate into pBAC832			(BamHI/HindIII)
+Product is pBAC835, K, bp
+-------------------------------------------

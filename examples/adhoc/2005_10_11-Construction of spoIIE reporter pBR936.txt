@@ -1,0 +1,8 @@
+PCR ca936F/R on B. sub gen.	(813 bp, NotI/BamHI)
+Sub pBR872			(NotI/BamHI)
+Product is pBR936
+----------------------------------------------------
+ca936F	Forward NotI oligo to clone SpoIIE promoter
+cagaaGCGGCCGCGTCCGCAAGCCAGACCTAG
+ca936R	Reverse BamHI to clone SpoIIE promoter
+CTCAGggatccGTGAATGCAAATGATGAGTC

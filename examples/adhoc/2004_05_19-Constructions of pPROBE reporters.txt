@@ -1,0 +1,28 @@
+-->PCR off genomic DNA, sub BamHI/EcoRI
+	into pPROBE-GFP[LVA]
+Ag43/flu 	ca685F	ca698R
+csgBAC 		ca682F	ca699R
+csgD		ca683F	ca700R
+wca/cpsB 	ca684F	ca701R
+degP 		ca593F	ca702R
+cpxP		ca704F/R	
+lasB 		ca681F	ca703R
+----------------------------------------
+ca698R	Reverse EcoRI oligo for flu	
+CGTAGGAATTCAGGTATTCAGATGTCGTTTC
+ca699R	Reverse EcoRI oligo for csgB	
+CGTATGAATTCGCACCCAGTATTGTTAACATC
+ca700R	Reverse EcoRI oligo for csgD	
+ctcagGAATTCgaatactatggacttcattaaac
+ca701R	Reverse EcoRI oligo for wca	
+CGTGAGAATTCAATTTCATTTTGGATTTCATC
+ca702R	Reverse EcoRI oligo for degP	
+CGTATGAATTCGCCAGTGAACTCAGTGCTAATGTGG
+ca703R	Reverse EcoRI oligo for lasB	
+CGTATGAATTCAACAGGTCAAGCGTAGAAAC
+ca704F	Forward BamHI oligo for cpxP	
+gagtcggatcCTTCCATCTCGAGCAGCTCC
+ca704R	Reverse EcoRI oligo for cpxP	
+CGTACGAATTCGAACTGACTGCCAGCGTTGAG
+ca705F	Sequencing of pPROBE-GFP[LVA] over 5' UTR	
+caggacgcccgccataaactgcc

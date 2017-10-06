@@ -1,0 +1,4 @@
+PCR 979F/R on pCNB4		(508 bp, PstI/BamHI)
+PCR 980F/R on pCNB4		(508 bp, PstI/BamHI)
+Sub into pG80-972		(PstI/BamHI)
+Products are pG80-979 and pG80-980

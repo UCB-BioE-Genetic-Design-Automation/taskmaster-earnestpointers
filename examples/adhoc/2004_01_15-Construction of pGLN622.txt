@@ -1,0 +1,9 @@
+PCR ca622F/R on pGLNmychisA (~2930 bp)
+Sub BsmBI
+	*Note cuts once internally
+Product is pGLN622 (2906 bp)
+-----------------------------------------------------------
+ca622F	Forward BsmBI oligo to add I-SceI site
+	cgtaaCGTCTCgGATAACAGGGTAATATAGATCTGTTGTTTGTCGGTGAAC
+ca622R	Reverse BsmBI oligo to add I-SceI site
+	gtaccCGTCTCtTATCCCTAGCGTAACTATAAAACGAAAGGCCCAGTC

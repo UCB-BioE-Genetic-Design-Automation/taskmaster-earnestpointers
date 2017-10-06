@@ -1,0 +1,8 @@
+PCR 837F/R on pSupDlux		(1743 bp, NotI/BamHI)
+Sub into pAC-TetInv		(NotI/BamHI)
+Product is pAC-LuxInv, bp
+------------------------------------------------
+ca837F	Forward NotI oligo for lux	
+GGTATGCGGCCGCTTAATTTTTAAAGTATGGGCAATC
+ca837R	Reverse BamHI oligo for lux	
+CACTTggatccGTAATGACAGATAATTTTACTC

@@ -1,0 +1,9 @@
+PCR 687F/788R on pBAD-T4Lig	(936 bp)
+PCR 687F/787R on above		(959 bp, BamHI/HindIII)
+Sub into pGLN-comX		(BamHI/HindIII)
+Product is pHA-AraC787, 3692 bp
+------------------------------------------------------
+ca787R	Reverse HindIII AraC[LVA] oligo part 2
+GTCTCaagcTTATTAAGCTACTAAAGCGTAGTTTTCGTCGTTTGC
+ca788R	Reverse HindIII AraC[LVA] oligo part 1
+AAGCGTAGTTTTCGTCGTTTGCAGCTGACAACTTGACGGCTACATC

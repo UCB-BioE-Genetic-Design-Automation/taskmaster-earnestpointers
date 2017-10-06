@@ -1,0 +1,6 @@
+PCR 925F/606R on pBAC-AraC-4	(610 bp, BamHI/EcoRI)
+PCR 926F/606R on pBAC-AraC-4	(511 bp, BamHI/EcoRI)
+PCR 925F/606R on pBACr-dbTAG	(610 bp, BamHI/EcoRI)
+PCR 926F/606R on pBACr-dbTAG	(511 bp, BamHI/EcoRI)
+
+Sub into pBAC-mgrB, fdhF, 903.....

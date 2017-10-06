@@ -1,0 +1,8 @@
+PCR 749F/R on pBAD-GFP		(bp, BsaI)
+Sub into pAC708			(EcoRI/HindIII)
+Product is pAC749, 4135 bp
+-----------------------------------------------
+ca749F	Forward EcoRI oligo for AraC fusions	
+gcaatGGTCTCgaattcGCGGGAGTATGAAAAG
+ca749R	Reverse BsaI to HindIII oligo for AraC fusions	
+gagttGGTCTCtagcttTTATGACAACTTGACGGCTAC

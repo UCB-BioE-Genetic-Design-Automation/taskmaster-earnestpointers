@@ -1,0 +1,14 @@
+PCR 772F/R on MG1655 gen.	(2551 bp, EcoRI/HindIII)
+Sub into pGLN-fimTF689 clone 1	(EcoRI/HindIII)
+Product is pHA-TFflu772, 5731 bp
+--------------------------------------------------------
+PCR 773F/772R on MG1655 gen.	(2551 bp, XhoI/XbaI)
+Sub into pMH4T7			(XhoI/XbaI)
+Product is pMH-flu773, 6539 bp
+--------------------------------------------------------
+ca772F	Forward oligo to clone Ag43 into TF peptide	
+CcaaaGAATTCAGTCTAACGGTGATACCGGGCAGTTTG
+ca772R	Reverse XbaI and HindIII oligo to clone Ag43	
+gacttTCTAGAAGCTTGTCAGAAGGTCACATTCAGTG
+ca773F	Forward XhoI oligo to clone AG43 into pMH4T7	
+CCAGActcgagCTCTAACGGTGATACCGGGCAGTTTG

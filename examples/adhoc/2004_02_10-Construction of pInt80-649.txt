@@ -1,0 +1,3 @@
+PCR ca648F/R on pAH123		(~5200 bp, BglII/XbaI)
+PCR ca649F/R on BW23474 gen	(1154 bp, BamHI/XbaI)
+Ligate, product is pInt80-649	(6335 bp)

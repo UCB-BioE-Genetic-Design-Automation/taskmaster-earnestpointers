@@ -1,0 +1,6 @@
+Digest pPbad-GFP692	(EcoRI/ExoI)
+Ligate, Product is pPbad-GFP692D
+-------------------------------------
+PCR 692F/641R on pPbad-GFP692D	(3130 bp, XhoI/EcoRI)
+Digest pSC101			(XhoI/EcoRI)
+Ligate, Product is pSC692

@@ -1,0 +1,8 @@
+PCR ca883F/ca642R on CFT073 gen.	(3290 bp, BamHI/BsmBI)
+Sub into pBACr-873			(BamHI/EcoRI)
+Product is pBACr-lacZ
+----------------------------------------------------
+ca883F	Forward BamHI oligo for lacZ of cft073
+GTGAGCggatccAATTTCACACAGG
+ca642R	Reverse BsaI-->EcoRI oligo to do lacZ fusions
+ggagaCGTCTCgaattcGTTGATGTCATGTAGCCAAATC

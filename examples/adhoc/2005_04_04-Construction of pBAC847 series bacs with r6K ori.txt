@@ -1,0 +1,17 @@
+PCR ca605F/ca874R on pBAC832	(2311 bp, BamHI/BsaI)
+	!!Cuts once internal!!
+Sub into pG80-568		(BamHI/EcoRI)
+Product is pBAC874, KrAr pUC
+-----------------------------------------------------
+PCR 581F/R on pBAC583		(~2kb, BsmBI)
+Sub into pBAC874		(BamHI/EcoRI)
+Product is pBAC874t KrArG pUC
+-----------------------------------------------------
+PCR 581F/875R on pBAC583	(3687 bp, BsmBI/EcoRI)
+Sub into pBAC874		(BamHI/EcoRI)
+Product is pBAC874n KrArG pUC
+-----------------------------------------------------
+ca874R	Reverse BsaI to EcoRI for R6K
+gactgAATTggagaccGCTTGCGCAAGATCCGGCCACG
+ca875R	Reverse EcoRI/NotI oligo for R6K
+GTATCgaattcGCGGCCGcGTTCACCGACAAACAACAG

@@ -1,0 +1,3 @@
+PCR 604F/R on pG80-IIGAraC #2	(1208 bp, BamHI/EcoRI)
+Sub into pBAC750-1		(BamHI/EcoRI)
+Product is pBACu-IIGAraC

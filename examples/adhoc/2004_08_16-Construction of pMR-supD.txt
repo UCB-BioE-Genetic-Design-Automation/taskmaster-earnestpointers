@@ -1,0 +1,3 @@
+Digest pPROBE-GFP[LVA]	(EcoRV/HindIII)
+Digest pSupDmychis	(i. BamHI/Pfu, ii. HindIII)
+Ligate, product is pMR-supD

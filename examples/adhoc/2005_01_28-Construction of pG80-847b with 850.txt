@@ -1,0 +1,8 @@
+PCR ca696R/ca850R on pKD13	(1355 bp, BamHI/EcoRI)
+Sub into pG80-846		(BamHI/EcoRI)
+Product is pG80-847b
+-----------------------------------------------------
+ca850R	Reverse EcoRI for FRT-Kan-Frt at P1
+cacttGAATTCgtgtaggctggagctgcttc
+ca696R	msbB P4 DW oligo for pKD13
+GAATATTCTGAAGCAAACTTGAACTTATCATCAGGCGAAGATTCCGGGGATCCGTCGACC

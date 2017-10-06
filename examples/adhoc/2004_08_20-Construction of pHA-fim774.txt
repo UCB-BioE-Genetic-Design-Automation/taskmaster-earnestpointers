@@ -1,0 +1,6 @@
+PCR 625F/774R on pHA689.5	(777 bp, BsaI)
+Sub into pGLNmychisA		(BamHI/EcoRI)
+Product is pHA-fim774, 3504 bp
+---------------------------------------------
+ca774R	Reverse oligo to clone adhesin domain only of fimH	
+gagttGGTCTCgAATTCGAGCCGCCAGTGGGCACCACC

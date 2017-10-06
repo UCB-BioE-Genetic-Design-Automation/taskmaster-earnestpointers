@@ -1,0 +1,6 @@
+PCR 877F/606R on pAC-TetInv		(3049 bp, BamHI/EcoRI)
+Sub into pBAC872			(BamHI/EcoRI)
+Library is 872/877 lib
+---------------------------------------------------------
+ca877F	RBS library for invasin
+gagttGGATCCNNNGGAGNNNNNNRTGNTGGTTTTCCAGCCAATCAGTG

@@ -1,0 +1,8 @@
+PCR ca894F/R on MG1655 gen.	(580 bp, NotI/BamHI)
+Sub into pBAC874t		(NotI/BamHI)
+Product is pBACr-cyoA, KrAr, pUC low density green
+-----------------------------------------------
+ca893F	Forward NotI oligo for cyoA	
+GGTATGCGGCCGcggtttgctggattatctggc
+ca893R	Reverse BamHI oligo for cyoA	
+CACATggatCCTGCAAATAATGACAACC

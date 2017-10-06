@@ -1,0 +1,2 @@
+PCR 878F/606R on pBAC-TetAra		(967 bp, BamHI/EcoRI)
+Sub into ??????????			(BamHI/EcoRI)

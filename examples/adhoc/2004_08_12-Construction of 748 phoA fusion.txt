@@ -1,0 +1,6 @@
+PCR 748F/740R on MG1655 gen.	(1386 bp, BsaI)
+Sub into pGLN-fimTF689		(EcoRI/HindIII)
+Product is pHA-PhoA748, 4554 bp
+-----------------------------------------------
+ca748F	Forward oligo for phoA active peptide fusion
+gagtaGGTCTCgAATTCAGCGGACACCAGAAATGCCTGTTC

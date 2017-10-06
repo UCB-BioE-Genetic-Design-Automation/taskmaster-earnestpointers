@@ -1,0 +1,6 @@
+PCR 804F/817R on A. hyp. gen.	(860 bp, XhoI/EcoRI)
+Sub into pAC-inv784		(XhoI/EcoRI)
+Product is pAC-pna817, bp
+---------------------------------------------------
+ca817R	Reverse oligo with stop for PNA	
+CAGGTGAATTCCAAATCATGCACTTGCCATATTC

@@ -1,0 +1,53 @@
+LOCUS       tetD1_ca4126_201        1000 bp ds-DNA     linear       19-JUN-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     >tetD1_ca4126_2016-06-19_A07
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    139..147
+                     /label=NNKNNKNNK
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             79..138
+                     /label=tetR
+                     /ApEinfo_fwdcolor=Gold
+                     /ApEinfo_revcolor=Gold
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     primer_bind     complement(754..775)
+                     /label=CA998
+                     /ApEinfo_fwdcolor=#9bd1f9
+                     /ApEinfo_revcolor=#9bd1f9
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             148..705
+                     /label=tetR(1)
+                     /ApEinfo_label=tetR
+                     /ApEinfo_fwdcolor=Gold
+                     /ApEinfo_revcolor=Gold
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 AAATTGCTAT GTATTGACTG TACAGAGGAT CTAAAATAAC TCTAtcaatg atagagtgtc
+       61 aacaaaaatt aggaattaAT GATGAGTAGA TTAGATAAAA GTAAAGTGAT TAACAGCGCA
+      121 TTAGAGCTGC TTAATGAGGG TACTTGGGAA GGTTTAAAAA CCCGTAAACT CGCCCAGAAA
+      181 CTTGGTGTAG AGCAGCCTAC ATTGTATTGG CATGTAAAAA ATAAGCGGGC TTTGCTCGAC
+      241 GCCTTAGCCA TTGAGATGTT AGATAGGCAC CATACTCACT TTTGCCCTTT AGAAGGGGAA
+      301 AGCTGGCAAG ATTTTTTACG TAATAACGCT AAAAGTTTTA GATGTGCTTT ACTAAGTCAT
+      361 CGCGATGGAG CAAAAGTACA TTTAGGTACA CGGCCTACAG AAAAACAGTA TGAAACTCTC
+      421 GAAAATCAAT TAGCCTTTTT ATGCCAACAA GGTTTTTCAC TAGAGAATGC ATTATATGCA
+      481 CTCAGCGCTG TGGGGCATTT TACTTTAGGT TGCGTATTGG AAGATCAAGA GCATCAAGTC
+      541 GCTAAAGAAG AAAGGGAAAC ACCTACTACT GATAGTATGC CGGCATTATT ACGACAAGCT
+      601 ATCGAATTAT TTGAACACCA AGGTGCAGAG CCAGCCTTCT TATTCGGCCT TGAATTGATC
+      661 ATATGCGGAT TAGAAAAACA ACTTAAATGT GAAAGTGGGT CTTAAcAATT Cagcaagaaa
+      721 tcatccttag cgaaagctaa ggattttttt tatctgaaat tctgcctcgt gatacGCCTA
+      781 TTTTTATAGG TTAATGTCAT GATAATAATG GTTTCTTAGA CGTCAGGTGG CACTTTTCGG
+      841 GGAAATGTGC GCGGAACCCC TATTTGTTTA TTTTTCTAAA TACATTCAAA TATGTATCCG
+      901 CTCATGAGAC AATAACCCTG ATAAATGCTT CAATAATATT GAAAAAGGAA GAGTATGAGT
+      961 ATTCAACATT TCCGTGTCGC CCTTATTCCC TTTTTTGCGG  
+//

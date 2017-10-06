@@ -1,0 +1,8 @@
+EIPCR 744F/R on pKQ-GFPuv	(3236 bp, BsmBI)
+Ligate, transform
+Product is pKQ-GFP744, 3208 bp
+-------------------------------------------
+ca744F	5' EIPCR oligo to make GFP S56TAG seryl amber suppression reporter	
+gagttCGTCTCgTTTCtagTATGGTGTTCAATGCTTTTCC
+ca744R	3' EIPCR oligo to make GFP S56TAG seryl amber suppression reporter	
+cagctCGTCTCtGAAAGTAGTGACAAGTGTTGG

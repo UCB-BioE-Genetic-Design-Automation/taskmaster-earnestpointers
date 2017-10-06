@@ -1,0 +1,4 @@
+PCR 605F/R on pBAC-TF626	(623 bp, BamHI)
+PCR 689F/663R on pGLN-fimH711D	(4046 bp, BamHI)
+Ligate, PCR 689F/605R		(4548 bp, EcoRI)
+Ligate, Product is pGLN-fimTF689, 4082 bp

@@ -1,0 +1,8 @@
+PCR 721F/R on Vibrio fisheri gen.	(1956 bp, BamHI/EcoRI)
+Sub into pAC708				(BamHI/EcoRI)
+Product is pAC-luxIR, 4010 bp
+--------------------------------------------------------------
+ca721F	Forward BamHI oligo for luxIR	
+CACTTggatccGTCGACCTTCCTGGTTCAGAG
+ca721R	Reverse EcoRI oligo for luxIR	
+CACTGgaattcGTAATGACAGATAATTTTACTC

@@ -1,0 +1,9 @@
+att	Marker		Name		Derivation
+Phi80	Gent		pG80ko		from pAH153
+HK023	Zeocin		pZHKko		By PCR
+Lambda	Spectinomycin	pSplamko	By PCR
+
+--> pZHK (2342 bp)
+PCR 609F/610R on pAH145 	(1367 bp, BsmBI)
+PCR 611F/611R on pPIZZalpha	(1021 bp, BsaI)
+Ligate, PCR 611F/610R		(2360 bp, NotI)

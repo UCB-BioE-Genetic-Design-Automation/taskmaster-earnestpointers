@@ -1,0 +1,42 @@
+LOCUS       New_DNA                  739 bp ds-DNA     linear       20-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     CDS             30..725
+                     /label=amilGFP
+                     /ApEinfo_fwdcolor=#ffef13
+                     /ApEinfo_revcolor=#ffef13
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site729..734
+                     /label=EcoRI
+                     /ApEinfo_fwdcolor=lime
+                     /ApEinfo_revcolor=lime
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site6..11
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 ccataGGATC Caaataggag aaatactagA TGTCTTATTC AAAGCATGGC ATCGTACAAG
+       61 AAATGAAGAC GAAATACCAT ATGGAAGGCA GTGTCAATGG CCATGAATTT ACGATCGAAG
+      121 GTGTAGGAAC TGGGTACCCT TACGAAGGGA AACAGATGTC CGAATTAGTG ATCATCAAGC
+      181 CTGCGGGAAA ACCCCTTCCA TTCTCCTTTG ACATACTGTC ATCAGTCTTT CAATATGGAA
+      241 ACCGTTGCTT CACAAAGTAC CCGGCAGACA TGCCTGACTA TTTCAAGCAA GCATTCCCAG
+      301 ATGGAATGTC ATATGAAAGG TCATTTCTAT TTGAGGATGG AGCAGTTGCT ACAGCCAGCT
+      361 GGAACATTCG ACTCGAAGGA AATTGCTTCA TCCACAAATC CATCTTTCAT GGCGTAAACT
+      421 TTCCCGCTGA TGGACCCGTA ATGAAAAAGA AGACCATTGA CTGGGATAAG TCCTTCGAAA
+      481 AAATGACTGT GTCTAAAGAG GTGCTAAGAG GTGACGTGAC TATGTTTCTT ATGCTCGAAG
+      541 GAGGTGGTTC TCACAGATGC CAATTTCACT CCACTTACAA AACAGAGAAG CCGGTCACAC
+      601 TGCCCCCGAA TCATGTCGTA GAACATCAAA TTGTGAGGAC CGACCTTGGC CAAAGTGCAA
+      661 AAGGCTTTAC AGTCAAGCTG GAAGCACATG CCGCGGCTCA TGTTAACCCT TTGAAGGTTA
+      721 AATAAtaaGA ATTCtactg    
+//

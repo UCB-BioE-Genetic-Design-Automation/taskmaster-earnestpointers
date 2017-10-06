@@ -1,0 +1,8 @@
+PCR 775F/R on pGLN-fimTF689	(83 bp, BglI)
+Sub into fUSE55			(BglI)
+Product is fUSE-TF775
+---------------------------------------------
+ca775F	Forward BglI oligo to transfer TF peptide into fUSE5	
+cacttgGCCGACGGGGCtATTGTTTGGCATCGTTGG
+ca775R	Reverse BglI oligo to transfer TF peptide into fUSE5	
+ggtttaGCCCCAGAGGCCCCAATACGAGAAGCAGGAG

@@ -1,0 +1,8 @@
+PCR KB001/ca1021R on pSB1A2-J01022	(250 bp, EcoRI/XbaI)  ***REDO CONSTRUCTION
+sub into pSB1A2-E0040(GFP;DNA-1-5H)	(EcoRI/XbaI)
+Product is pBca1021-E0040
+------------------------------------------------
+ca1021R	Reverse b0034 XbaI
+AGCCATCTAGAATTTCTCCTCTTTCTCTAG
+KB001	Forward EcoRI to construct Ptet part-making biobrick plasmid
+ttctggaattcgcggccgcaactagagccaggcatc

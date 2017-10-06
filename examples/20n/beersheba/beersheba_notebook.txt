@@ -1,0 +1,81 @@
+>2016_04_03	Project description:  beersheba
+The beersheba project is to start building up assembly vectors for E. coli. The big picture of the cloning scheme is to have a set of assembly vectors for BsaI or BseRI golden gate for 3 bins and 1 vector.  Each vector has unique XhoI/SpeI sites for cloning in a promoter, then EcoRI/BamHI sites for cloning in an rbs.cds part. In both cases, the cloning destroys the restriction sites and should be doable as a one pot digestion/ligation.
+
+In beersheba, I am creating 4 constructs:
+
+p20N1  -  the promoter and orf-free assembly vector for bin A
+p20N2  -  p20N1 with a terminator/promoter part of high strength (J23119)
+p20N3  -  p20N1 with a terminator/promoter part of med strength (J23101)
+p20N4  -  p20N2 or p20N3 with 4ABH
+
+
+>2016_04_03	Construction of p20N1
+Construction of p20N1 gave one correctly-mapping colony of 8 mini'd, but it sequenced correctly.  The others present had no insert.  Looks like PCR plasmid closure.
+
+I tried twice to make p20N2 and p20N3, in both cases got very few colonies, all white with lots of satellites.  The first time, I tried doing it one-pot.  The second time I did separate digests, cleaned them up, ligated, transformed.  Didn't matter.  I suspect SalI is just crappy for this.  Going to redesign.
+
+>2016_04_03	Design of p20N5
+p20N5  -  p20N1 with BsaI site removed from Bla
+
+While I think through the restriction sites, I'm going ahead and removing the BsaI site so I don't run into issues of that mutation not present later.  This is a simple EIPCR with BsmBI closure, so this should be fine.
+
+>2016_04_03	Design of p20N6
+p20N6  -  p20N5 with full restriction sites around amilCP and RFP
+
+This puts in place slots for dropping in promoters or orfs in either ordering.  p20N6 is expected to be purple (red + blue)
+
+>2016_04_03	Design of p20N7
+p20N7  -  This is a test construct for transfer of a gblock by Eco/Bam transfer into Kan/pUC plasmid
+
+The gene being synthesized as a gblock is amilGFP, a strong yellow chromoprotein.  It was from the Registry at:  http://parts.igem.org/Part:BBa_K592010.  p20N7 is expected to give green cells (yellow + blue)
+
+>2016_04_05	Construction of p20N5
+EIPCR went smoothly, got lots of colonies, grew and mini'd 4.  Mapped Xhoi/BsaI.  p20N1 would be 3 bands, p20N5 is 2 bands.  All 4 clones map correctly.  The concentration on A is poor, so proceeding with clone B and C, will sequence both.
+
+>2016_04_06	Sequencing of p20N5
+Both clones B and C match the analysis region, keeping clone B, will assemble p20N6 on this clone
+
+>2016_04_14	Cloning of p20N9
+I'm testing a PCR-cut-and-paste of a genomic promoter into p20N6 to make p20N9.  Did the PCR at 50uL scale, phusion, on the intragenic upstream region of lpp, feature called TPlpp.  Zymo'd the pcr, digested all of it at 120 uL in NEB2 with 1uL XbaI/BamHI, then zymo'd and eluted 40 uL water.  p20N6 was digested 100 uL scale on 10 uL miniprep with 1 uL SpeI/BamHI for 2 hrs, then zymo'd, eluted 20 uL (2x dilution).  Ligated 1 uL of each at 10uL scale with NEB2+ATP with 0.5 uL T4L and 0.3 uL SpeI.  Benchtop incubate 30 min, trans 50uL Zymo10B, plated all on Carb.
+
+>2016_04_17	Results of p20N9, cloning p20N27
+p20N9 was a mixed bag...there are lots of colonies, about 5000, and the extreme majority are white.  There are maybe 100 blue specs, which would be the parent vector, so parent vector bleedthrough is not an issue with the XbaI/BamHI-->SpeI/BamHI cloning with SpeI background subtraction.  That's good.  Bad news is they aren't red.  Growing and mini'ing 2 clones, A and B, did not show any pinkness at all.  Wtf.  Will sequence them tmrw.  
+
+I don't have a good mapping strategy for p20N9, so in the meantime, I'm trying out p20N27, which is like p20N7 in that it is from the g_amilGFP gblock, but want to see some phenotype in this vector before proceeding. Trying that on both clones A and B.  I did that subclone as a traditional cut and paste, with large-volumes of digestion, zymo's before ligation with ligase.  I am not doing background subtraction due to the inclusion of BamHI and EcoRI in the gblock.  I think that could get messy, and want to rethink including so much polylinker in future for CDS parts.  Volumes described in the construction file for p20N27.
+
+>2016_04_18	Results of p20N27 subclone
+Not so hot.  Got a good colony yield, that's fine, but everything's white.  I'm sequencing p20N9, perhaps something other than TP_lpp got cloned, or maybe I'm super unlucky with my FP genes.  The main issue is the BseRI site in all the Registry sequences due to use of b0034.  I haven't been able to find a chromoprotein sequence that is confirmed to have phenotype and lacks restriction sites.  Plan is to first confirm (or refute) p20N9.  If I cloned a different sequence, then I can switch to Expand PCR kit, which I've ordered.  If p20N9 is right, it means either that promoter sequence is a dud, which I doubt, or the FP rbs's are bad.  Or otherwise.
+
+>2016_04_19	Results of sequencing p20N9 and p20N27 plates
+I got sequencing back for p20N9 clones A and B.  Both are perfect.  I tossed clone B.  After another day sitting at room temp, I see some strong yellow colonies on the p20N27 plates from clone A and B.  I grew up 2 from clone A.  So, I think this confirms that the TP_lpp part is fine.  It confirms that the amilGFP is fine (though I'll sequence that too).  The cloning method for promoter parts seems fine.  The cloning of the CDS parts as done here is not so fine.  It's at best 1% yellow colonies, looks like a sea of parent vector.  It will require background subtraction.  That will not be a problem moving forward, but was problematic for the amilGFP part due to the inclusion of terminal Eco?Bam sites.  Those won't be present in future constructs.  So, my current conclusion:  TP_lpp fine, amilGFP fine, RFP in all my vectors is a dud.  I'll need to incorporate a different RFP, and will put it under a Pcon.
+
+>2016_04_20	FLx800 fluorescent plate reader
+I put 100 uL of yellow cells, blue cells, and 2YT into a plate, read with imicrobes microplate fluorescence reader. Looks perfect. Got:
+
+p20N27 (yellow): 37807
+p20N10 (blue):	154
+2YT: 117
+
+The settings are:
+Excitation:  485/20
+Emission:  528/20
+Location:  bottom
+
+>2016_04_26	p20N16, p20N17, p20N18 confirmed; p20N11 aborted
+Sequencing is correct for the cocistronic assembly vectors p20N16, p20N17, p20N18.  p20N11 had a strong yellow phenotype on plates, but sequencing reveals a recombination event.  Also, p20N12 and p20N13 subcloning gave only blahish blue colonies and rare only yellows.  No colonies had correct phenotype.  TPlpp appears to be too strong here, so I'm aborting this series.
+
+>2016_04_26	Attempt at DW with transient lambda red
+I did 3 pcrs on pKD46 as described in construction_g20N28 and amplifed a dapD ko cassette (::kan). I saved "lin" linear material after the first zymo of the pKD46 cassette at 1x.  I did BamHI/BglII/Ligase on the remainder, eluted at 1x.  The KO is 2x from zymo.  I set up 2 series of transformations, each with HIGH, MED, and LOW Pcons driving the lambda red.  In one series, I premix 1 uL each of the KO and the lambda red on ice, then added 20 uL cells, 6 min on ice, then rescue with DAP/2YT.  The second has a 30 min stagger between addition of 1 uL lambda red and the 1 uL of KO cassette.  Both sets rescued >45 min, plated on DAP/Kan.
+
+>2016_04_29	p20N21, p20N22, p20N23
+I did a first round of sequencing on a single clone of each.  Each has one side or the other wrong.  I did colony pcrs on 8 of each and mapped with BseRI or uncut.  Images in the folder.  The expected sizes are just under 1500 and 1000 each.  Most are fine on the 1000, which is the BseRI site on the 5' (SpeI) end, but most are too big on the 3' end suggesting that the EcoRI-side BseRI site is missing.  That is consistant with the sequences of p20N22 and p20N23...they too are screwy on the 3' end.  There are a few clones in here that are more consistant with the fragment sizes, so growing those up to mini and seq.
+
+>2016_05_03	p20N21F and p20N22C
+Only these two clones of the ones from colony pcr were blue and fluorescent upon growth.  I mini'd them, but they looked a little mixed in the pellet.  I mapped them (see gel image 21f22c.jpg).  The first four after marker are p20N21F digs, the last four are p20N22C digs.  The order in each goes BseRI, BsaI, EcoRI/SpeI, EcoRI/BamHI.  All look reasonable.  Sending for ca998/G00101 sequencing.  I also retransformed a 25x dilution 0.5 uL into 10 uL zymo20B.  I'll get a cleaner colony from that (these looked messy in the pellet) for stocks and minis.
+
+>2016_05_04	Sequencing of p20N21F and p20N22C
+They are  very close to right, but not.  The 5' BseRI/BsaI site is screwy in the same way in each.  The 3' site is fine.  The amil region between EcoRI and SpeI is fine.  Both can be fixed by EIPCR, so that is what I will do.
+
+>2016_05_11	TPcon2 and TPcon3
+TPcon2 is the experiment where I make the other 6 TPcons that had G initiation sites over again as A sites.  That went fine, using the original wobble route.  Not great colony yield, but fine.  TPcon3 is the experiment of doing EIPCR to make promoter strength variants.  I did it for two of the high TPcons.  One set I did with a BamHI closure, and the other with a BsmBI closure.  Because ligation and cutting can be done simultaneously with BsmBI, it is one less zymo, which helps a lot.  The oligos can also be shorter, but two are required for each mutant, one for each of the -35 and -10 region.  I also got cleaner and more comprehensible plates out of this.  The yellow intensity followed the expected trend, with the J23119 variant an empty plate.  One of the BamHI's also gave a clean plate, but I think it was the wrong one.  There was a lot of phenotype diversity on the plates.  BsmBI is clearly the way to go.  I do the closure with these numbers on thermocycler run GG2:
+5	per rxn1	DNA0.5	NEB30.5	ATP0.166	BsmBI0.166	Ligase0.166	DpnI2.502	water

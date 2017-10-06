@@ -1,0 +1,19 @@
+EIPCR ca908F/R on pKD455-GFP		(4464 bp, BglII)
+Ligate, product is pKD908, R6K, Kr, Ar, check for transposition
+---------------------------------------------------
+PCR ca792/909R on pAC581		(1671 bp, BamHI/XhoI)
+Sub into pKD908				(BamHI/XhoI)
+Product is pKD908b, R6K, Kr, Ar, check for transposition
+---------------------------------------------------
+Digest pAC-TetInv			(BamHI/ECoRI)
+Sub into pKD908b			(BamHI/EcoRI)
+Product is pKD908-Inv, R6K, Kr, Ar, check for transposition
+---------------------------------------------------
+ca908F	Forward BglII EIPCR of pKD455-GFP
+cttgttcagatcttgatcc
+ca908R	Reverse BglII EIPCR of pKD455-GFP	
+CGATAagatctCAGGATGAGGATCGTTTCGC
+ca783F	Forward BamHI to clone invasin	
+CTGAAggatccGTTTGACGTATGACAGGTATGC
+ca909R	Reverse XhoI for TrrnB 	
+GTCTCctcgagTTCACCGACAAACAACAG

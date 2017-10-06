@@ -1,0 +1,73 @@
+LOCUS       New_DNA                  760 bp ds-DNA     linear       03-MAR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    737..742
+                     /label=EcoRI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    16..21
+                     /label=SpeI
+                     /ApEinfo_fwdcolor=#00ffff
+                     /ApEinfo_revcolor=#00ffff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    1..6
+                     /label=XhoI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(582..587,602..603)
+                     /label=AcuI/Eco57I
+                     /ApEinfo_fwdcolor=#d2d068
+                     /ApEinfo_revcolor=#d2d068
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(708..713,728..729)
+                     /label=AcuI/Eco57I(1)
+                     /ApEinfo_label=AcuI/Eco57I
+                     /ApEinfo_fwdcolor=#d2d068
+                     /ApEinfo_revcolor=#d2d068
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(join(743..746,748..753))
+                     /label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(join(745..746,755..760))
+                     /label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    59..736
+                     /label=mRFP1
+                     /ApEinfo_fwdcolor=#ff8699
+                     /ApEinfo_revcolor=#ff8699
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CTCGAGcgat cagatACTAG Taaccaatat accaaataaa gagttgagga cgtcaaggAT
+       61 GGCTTCCTCC GAAGACGTTA TCAAAGAGTT CATGCGTTTC AAAGTTCGTA TGGAAGGTTC
+      121 CGTTAACGGT CACGAGTTCG AAATCGAAGG TGAAGGTGAA GGTCGTCCGT ACGAAGGTAC
+      181 CCAGACCGCT AAACTGAAAG TTACCAAAGG TGGTCCGCTG CCGTTCGCTT GGGACATCCT
+      241 GTCCCCGCAG TTCCAGTACG GTTCCAAGGC TTACGTTAAA CACCCGGCTG ACATCCCGGA
+      301 CTACCTGAAA CTGTCCTTCC CGGAAGGTTT CAAATGGGAA CGTGTTATGA ACTTCGAAGA
+      361 CGGTGGTGTT GTTACCGTTA CCCAGGATTC CTCCCTGCAA GACGGTGAGT TCATCTACAA
+      421 AGTTAAACTG CGTGGTACCA ACTTCCCGTC CGACGGTCCG GTTATGCAGA AAAAAACCAT
+      481 GGGTTGGGAG GCTTCCACCG AACGTATGTA CCCGGAAGAC GGTGCTCTGA AAGGTGAAAT
+      541 CAAAATGCGT CTGAAACTGA AAGACGGTGG TCACTACGAC GCTGAAGTTA AAACCACCTA
+      601 CATGGCTAAA AAACCGGTTC AGCTGCCGGG TGCTTACAAA ACCGACATCA AACTGGACAT
+      661 CACCTCCCAC AACGAAGACT ACACCATCGT TGAACAGTAC GAACGTGCTG AAGGTCGTCA
+      721 CTCCACCGGT GCTTAAGAAT TCccctAGAG ACCCCTCCTC  
+//

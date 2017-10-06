@@ -1,0 +1,26 @@
+-->Pre-BAC variant with a silent EcoRI site in KanR:
+PCR ca567F/R on pBAC562 (~7470 bp)
+Digest EcoRI, lig, trans
+Product is pBAC567
+
+-->Pre-BAC variant with a silent EcoRI site bet/ KanR and Bla:
+PCR ca568F/R on pBAC562 (~7470 bp)
+Digest EcoRI, lig, trans
+Product is pBAC568
+
+-->Pre-BAC variant C-term KanR deletion:
+PCR ca567F/ca568R on pBAC562 (~7370 bp)
+Digest EcoRI, lig, trans
+Product is pBAC567ko
+
+-->Construction of high copy splice-into plasmid
+PCR ca569/ca567R on pBAC562 (154 bp)
+Digest with XhoI/EcoRI
+Digest pGFPuv with XhoI/EcoRI
+	300 + 3000, save 3000
+Ligate, look for white cfu
+Product is pUC569 (3177 bp)
+
+Isolate a clone, try combining BamHI/EcoRI frag of PUC569 
+with that of pBAC567ko and getting KanR cfu's with single 
+copy plas, ampS

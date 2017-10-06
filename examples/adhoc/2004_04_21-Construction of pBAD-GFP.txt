@@ -1,0 +1,17 @@
+Digest pPROBE-GFP[LVA]	(EcoRI/HindIII)
+Cuts as 51, 804, 6527 	(gp 804)
+Digest pBAD30x		(EcoRI/HindIII)
+Cuts as 4878, 45	(gp 4878)
+Ligate, product is pBAD-GFP, 5676 bp
+---------------------------------------
+Digest EcoRV/XhoI, Blunt, Ligate
+Cuts as 323, 5355	(gp 5355)
+Product is pPbad-GFP[LVA], 5357 bp
+
+
+
+
+pPROBE is KanR
+pBAD30X is AmpR
+
+Products are AmpR

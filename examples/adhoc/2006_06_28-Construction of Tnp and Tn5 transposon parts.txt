@@ -1,0 +1,17 @@
+Wobble ca1010F/ca1012R		(59 bp, EcoRI/SpeI)
+Wobble ca1010F/ca1013R		(59 bp, EcoRI/SpeI)
+Sub into pSB1A3			(EcoRI/SpeI)
+Products are Bca1012 and Bca1013
+-----------------------------------------------
+PCR ca1014F/R on pRL27		(1763 bp, EcoRI/SpeI)
+Sub into pSB1A3			(EcoRI/SpeI)
+Product is Bca1014  *internal PstI and NotI sites
+-----------------------------------------------
+ca1012R	Forward SpeI oligo for forward Tn5
+ctgatactagtaAGATGTGTATAAGAGACAGctctagaagcggccgcg
+ca1013R	Reverse SpeI oligo for reverse Tn5
+ctgatactagtaCTGTCTCTTATACACATCTctctagaagcggccgcg
+ca1014F	Forward EcoRI/XbaI for Tnp biobrick
+gcaatGAATTCTCTAGAATGATTCTCCGCCAG
+ca1014R	Reverse SpeI for Tnp biobrick
+cctatactagtCGACGGATCAGATCTTGATC

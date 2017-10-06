@@ -1,0 +1,18 @@
+====Reconstruction of pSupDmychis====
+Sub pACsupD		(NcoI/SphI)
+into pGLNmychisA	(NcoI/SphI)
+Product is pSupDmychis
+********Confirm activity with pREP2YC-JYCUA
+
+====Construction of pAC-supDb========
+Digest pSupDmychis	(BamHI/HindIII)
+Sub into pBAC/708	(BamHI/HindIII)
+Product is pAC-supDb
+********Confirm activity with pBLAM or pLASC-lacZ(TAG)
+
+====Construction of pSupD-Lux========
+PCR 742F/721R on lux	(1741 bp, BamHI/EcoRI)
+Sub into pAC-supDb	(BamHI/EcoRI)
+Product is pSupD-Lux
+********Confirm activity with pBLAM or pLASC-lacZ(TAG)
+********Confirm activity with a high-copy GFP construct

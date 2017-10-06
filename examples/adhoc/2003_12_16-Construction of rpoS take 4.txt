@@ -1,0 +1,8 @@
+PCR 581F/583R on pBAC-comX596 (1685 bp, BsmBI)
+	*above is from pG80-Tet construction
+PCR 589R/553F on pKD455-GFP (bp, )
+Ligate together, transform, isolate single clone.
+
+PCR 589F/581R		(1429 bp, BsaI/BsmBI)
+Ligate with pKD455-rpoS PCR
+Product is pKD455-rpoSKO, 6975 bp

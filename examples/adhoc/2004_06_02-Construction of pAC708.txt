@@ -1,0 +1,10 @@
+PCR 708F/R on pAC382		(2079 bp, DpnI)
+Blunt ligate with pBAC-T4L/GH
+Product is pAC708b		(BamHI/HindIII)
+PCR 279/509 on pKQ-Ph510	(1183 bp, BamHI/HindIII)
+Lig, product is pAC708, 3240 bp
+-------------------------------------------------------
+ca708F	Forward BamHI oligo to make pAC with pGLN	
+ccataGGATCCgacttcaggtgctacatttg
+ca708R	Reverse HindIII oligo to make pAC with pGLN	
+GCTACaagcttGACATAAGCGGCTATTTAACG

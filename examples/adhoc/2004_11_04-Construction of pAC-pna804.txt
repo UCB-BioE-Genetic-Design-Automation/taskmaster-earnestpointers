@@ -1,0 +1,8 @@
+PCR 804F/R on A. hypogaea gen.	(861 bp, XhoI/EcoRI)
+Sub into pAC-inv784		(XhoI/EcoRI)
+Product is pAC-pna804, bp
+---------------------------------------------------
+ca804F	Forward Oligo to clone PNA
+CGATActcgagTCCCACTGCACCATGAAACCA
+ca804R	Reverse Oligo to clone PNA
+gcactGAATTCCCAAATGATGCACTTGCCATATTC

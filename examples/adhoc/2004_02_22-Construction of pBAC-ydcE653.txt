@@ -1,0 +1,8 @@
+PCR 560F/630R on pBADmychisA	(1260 bp, BsaI)
+PCR 653F/632R on BS gen		(710 bp, BsaI)
+Ligate, 560F/632R		(1948 bp, BsmBI/EcoRI)
+Sub pG80-568			(EcoRI/BamHI)
+Product is pBAC-ydcE653, 7590 bp
+----------------------------------------------------
+ca653F	Forward BsaI for ydcD/E	
+	ctgaaGGTCTCgagcgCGTATCCGTAAGTTTGGTGG

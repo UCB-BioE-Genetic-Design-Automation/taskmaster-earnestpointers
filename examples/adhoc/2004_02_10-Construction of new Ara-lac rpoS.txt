@@ -1,0 +1,9 @@
+PCR 646F/589R on pKD13	(~3450 bp, BsaI)
+PCR 647F/R on pZE24	(239 bp, BsaI)
+Ligate together, product is pKD646 (3644 bp)
+----------------------------------------
+PCR 590F/588R on pKD455-rpoS	(5602 bp, BsaI)
+PCR 589F/647R on pKD646		(1547 bp, BsaI)
+Ligate together, product is pKD647-rpoS (7093 bp)
+----------------------------------------
+PCR 591F/R for DW	(3599 bp)

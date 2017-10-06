@@ -1,0 +1,13 @@
+CA560F/R on pBAD-T7RNAP (4380 bp)
+Digest BsmBI (generates EcoRI/BamHI)
+Sub into pAH153 CRIM plasmid
+	2.3kb
+	Gentamicin resitance
+	Phi80 Integration
+	R6K
+Product = 6666 bp
+
+ca560F	Forward BsmBI to BamHI oligo to make pG80-T7560	
+GGAGACGTCTCGGATCCATAATGTGCCTGTCAAATG		
+ca560R	Reverse BsmBI to EcoRI oligo to make pG80-T7560	
+CGTTACGTCTCGAATTCTCAGGAGAGCGTTCACCGAC		

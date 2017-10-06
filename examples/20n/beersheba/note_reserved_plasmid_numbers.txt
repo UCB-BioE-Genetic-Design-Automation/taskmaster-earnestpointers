@@ -1,0 +1,23 @@
+Assembly vectors, TPlpp style:
+p20N11
+p20N12
+p20N13
+p20N14
+p20N15
+
+Assembly vectors, cocistronic style:
+p20N16
+p20N17
+p20N18
+p20N19
+p20N20
+
+Recipient backbones:
+p20N21
+p20N22
+p20N23
+p20N24
+p20N25
+
+Omitted, could repurpose cautiously
+p20N58

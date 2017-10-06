@@ -1,0 +1,20 @@
+Starts with pAC-AraC787
+------------Construction of hns-----------------
+PCR 789F/R on MG1655 gen.	(703 bp, BsaI)
+PCR 749F/745R on pAC-AraC787	(989 bp, EcoRI)
+Ligate
+PCR 789F/745R on ligation	(1664 bp, BamHI/HindIII)
+Sub into pGLNmychisA		(BamHI/HindIII)
+Product is pHA-hnsAraC[9TAG]LVA, 4359 bp
+---------------------------------------------
+PCR 645/560R on pHA-hnsAraC[9TAG]LVA	(2019 bp, BamHI/BsaI)
+Sub into pG80-568			(BamHI/EcoRI)
+Product is pBAC-hnsAraC, 7651 bp
+----------------------------------------------------
+ca789F	Cloning hns 5' UTR	
+ctgaaGGTCTCggatccGAAATATAGCTGTGCCATCAG
+ca789R	Cloning hns 5' UTR	
+gagttGGTCTCGaattCGCACGAAGAGTACGGATGTTG
+
+
+I think that's the final scheme.

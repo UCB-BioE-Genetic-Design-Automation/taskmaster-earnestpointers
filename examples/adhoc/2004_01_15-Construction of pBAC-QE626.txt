@@ -1,0 +1,13 @@
+PCR ca626F/R on pQE-9	(2208 bp)
+Digest BamHI/EcoRI
+Ligate into pBAC568 (BamHI/EcoRI)
+Isolate a KanR/CmR clone
+Product is pBAC-QE626	(7856 bp)
+Midi prep and sequence
+Digest with BamHI/EcoRI
+	2193 + 5648, isolate smaller
+--------------------------------------------------------------------------------
+ca626F	Forward BamHI/5'TF/BsmBI
+	CACGTGGATCCATTGTTTGGCATCGTTGGTATGCTTGGTCGAGACGTTACGGCTGAGCTTGGACTCCTGTTG
+ca626R	Reverse EcoRI/3'TF/BsmBI
+	GACTTGAATTCCAATACGAGAAGCAGGAGACCAAGAGACGGGTACGATAATCTCATGACCAAAATC

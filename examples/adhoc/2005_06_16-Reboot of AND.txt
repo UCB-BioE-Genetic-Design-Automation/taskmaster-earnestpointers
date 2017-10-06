@@ -1,0 +1,21 @@
+========Construction of nahR p15A plasmid========
+PCR ca899F/R on pLC113		(1281 bp, NotI/BamHI)
+Sub into pAC581			(NotI/BamHI)
+Product is pAC899, p15A, Cr
+
+-------------------------------------------------
+========Construction of mgrB p15A plasmid========
+PCR ca901F/R on MG1655 gen.	(632 bp, NotI/BamHI)
+Sub into pAC581			(NotI/BamHI)
+Product is pAC901, p15A, Cr
+
+-------------------------------------------------
+========Construction of Ser2(CUA) library========
+Wobble ca900F/R			(120 bp, BamHI/EcoRI)
+Sub into pAC899 and pAC902	(BamHI/EcoRI)
+Product is pAC-NahSer900 and pAC-MgrSer900 library
+
+Positive select with Salicylate or LB in MC::n=Inv783/pBACr-AraC(9TAG,238Ser)
+Negative select without salicylate or with Mg
+
+

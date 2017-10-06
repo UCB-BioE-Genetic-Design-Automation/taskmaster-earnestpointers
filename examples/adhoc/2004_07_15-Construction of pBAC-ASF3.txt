@@ -1,0 +1,3 @@
+PCR ca597F/ca592R on pGLN-ASF3	(1498 bp, BsaI)
+Paste into pBAC581 		(BamHI/EcoRI)
+Product is pBAC-ASF3, 7595 bp

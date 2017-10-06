@@ -1,0 +1,8 @@
+PCR 687F/688R on pBADmychislacZ		( bp, BamHI/EcoRI)
+Sub pBAC581				(BamHI/EcoRI)
+Product is pBAC-AraC687, 7035 bp
+---------------------------------------------------------
+ca687F	Forward BamHI oligo for Ptet-AraC	
+CGTAggatcCTCTGAATGGCGGGAGTATG
+ca688R	Reverse EcoRI oligo clone AraC	
+CGAAAgaattcTTATGACAACTTGACGGCTAC

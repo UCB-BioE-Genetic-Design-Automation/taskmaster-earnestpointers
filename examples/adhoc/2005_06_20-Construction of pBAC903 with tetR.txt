@@ -1,0 +1,15 @@
+=======Construction of pKQ902 (TetR)========
+PCR ca902F/R on DH5aPRO gen.	(959 bp, BsaI/EcoRI)
+Sub into pKQ			(NcoI/EcoRI)
+Product is pKQ902
+--------------------------------------------
+PCR 903F/902R on pKQ902		(1034 bp, NotI)
+Sub into pBAC874t		(NotI/CIP)
+Product is pBAC903
+--------------------------------------------
+ca902F	Forward BsaI to NcoI for pKQ-tetR
+ctgaaGGTCTCgCATGtctagattagataaaag
+ca902R	Reverse BamHI oligo for Ptet/tetR
+CCATAgaattcGCGGCCGCAGTGACCTGTTCGTTGCAAC
+ca903F	Forward NotI oligo for Pgln-tetR
+gtgaaGCGGCCGCCTCGGGAGTTGTCAGCCTG

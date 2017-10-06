@@ -1,0 +1,27 @@
+-->AraC/Pbad cassette:
+PCR 560F/630R on pBADmychisA	(1260 bp, BsaI)
+
+-->pBAC-kid631
+PCR 631F/R on pKG510 (Gerdes)	(477 bp,  BsaI)
+Ligate to AraC cassette
+PCR 560F/631R		(1709 bp, BsmBI/EcoRI)
+Ligate in pBAC581, Product is 7834 bp
+
+-->pBAC-ydcE632
+PCR 631F/R on Bs Gen.	(455 bp,  BsaI)
+Ligate to AraC cassette
+PCR 560F/632R		(1687 bp, BsmBI/EcoRI)
+Ligate in pBAC581, Product is 7812 bp
+-----------------------------------------------
+ca560F	Forward BsmBI to BamHI oligo to make pG80-T7560
+	GGAGACGTCTCGGATCCATAATGTGCCTGTCAAATG
+ca630R	Reverse BsaI AraC/pBAD BamHI fusion
+	ctgaaGGTCTCgCGCTAATCTTATGGATAAAAATG
+ca631F	Forward BsaI/lig PCR oligo to clone Kid with Pbad
+	ctgaaGGTCTCgagcgCTGAGCTACTGGCACAGTGTG
+ca631R	Reverse EcoRI oligo to clone Kid with Pbad
+	GACATgaattcGTTGCCCCTCAAACCCCATG
+ca632F	Forward BsaI/lig PCR oligo to clone ydcE with Pbad
+	ctgaaGGTCTCgagcgTTTGCGGAGTGCGAGGCTG
+ca632R	Reverse EcoRI oligo to clone ydcE with Pbad
+	GACATgaattcGAGCAACCTGCAAATATGTC

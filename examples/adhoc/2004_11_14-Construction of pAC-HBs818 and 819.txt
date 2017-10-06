@@ -1,0 +1,12 @@
+PCR ca818F/R on pHT1.1		(348 bp, XhoI/EcoRI)
+PCR ca818F/819R on pHT1.1	(349 bp, XhoI/EcoRI)
+Sub into pAC-inv784		(XhoI/EcoRI)
+Products are	pAC-HBs818 (with myc)
+		pAC-HBs819 (with stop)
+-----------------------------------------------
+ca818F	Forward XhoI for preS1	
+GCAAActcgagATGGGGCAGAATCTTTCCACC
+ca818R	Reverse EcoRI for preS1 with myc	
+GATCTGAATTCGAGGCCTGAGGATGAGTGTTTCTC
+ca819R	Reverse EcoRI for preS1 with stop	
+GATCTGAATTCTTAGGCCTGAGGATGAGTGTTTCTC

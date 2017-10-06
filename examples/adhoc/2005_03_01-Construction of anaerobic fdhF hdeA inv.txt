@@ -1,0 +1,13 @@
+PCR ca853F/R on MG1655 gen.	(288 bp, NotI/BamHI)
+PCR ca854F/R on MG1655 gen.	(337 bp, NotI/BamHI)
+Sub into pAC-TetInv		(NotI/BamHI)
+Products are pAC-fdhFInv and pAC-hdeAinv
+------------------------------------------------
+ca853F	Forward NotI to clone fdhF promoter	
+GGTATGCGGCCGCgggtatcaggcaggtcc
+ca853R	Reverse BamHI to clone fdhF promoter	
+CACTTggatccAATAGGGGCAAACCGTGACGAC
+ca854F	Forward NotI to clone hdeA promoter	
+GGTATGCGGCCGCttcaaaattgttgccttatc
+ca854R	Reverse BamHI to clone hdeA promoter	
+CACTTggatccAAGAATAACGCCTAATAC

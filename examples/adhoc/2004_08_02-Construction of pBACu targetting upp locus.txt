@@ -1,0 +1,33 @@
+PCR 750F/R on GHFu10	(1411 bp, BsaI)
+Paste into pBAC/708	(BamHI/HindIII)
+Product is pAC750, 3446 bp
+-----------------------------------------
+PCR 751F/R on pAC750		(2728 bp, BamHI/EcoRI)
+Lig w/ pAH145			(BamHI/EcoRI)
+Product is pTriHK/751, 4646 bp
+-----------------------------------------
+Dig pTriHK/751			(Larger, BamHI/EcoRI)
+Lig w/ 670F/R on pKD13		(2117 bp, BsaI)
+Product is pAC751, 4802 bp
+-----------------------------------------
+750F/R on pAC751	(2767 bp, BsaI)
+Sub pBAC568		(BamHI/HindIII)
+Product is pBAC750, 7342 bp
+-----------------------------------------
+Paste in pG80ko for pG80-750
+-----------------------------------------
+750F/R on pTriHK/751	(2611 bp, i. XhoI/Pfu ii. BsaI)
+Sub pBAC568		(i. EcoRI/Pfu ii. BamHI)
+Product is pTriHK/750, 8254 bp
+-----------------------------------------
+ca750F	Forward oligo to clone upp region, transfer cassettes	
+gcaatGGTCTCGgatcGTTCCAACCAGAGCATTACCCG
+ca750R	Reverse oligo to clone upp region, transfer cassettes	
+gagttGGTCTCGagctGCGACTTCATACCCTAACGG
+ca751F	Forward EcoRI oligo to open up upp region	
+CACAGgaattcGAGTAAAGCGCCTATAACAC
+ca751R	Reverse BamHI oligo to open up upp region	
+CACGAggatccAATATTCTTTTCGTTGACTTTAGTC
+-----------------------------------------
+Choice of BamHI site from promoter noted in Cheng et al.
+JOURNAL OF BACTERIOLOGY, Jan. 2001, p. 221–228

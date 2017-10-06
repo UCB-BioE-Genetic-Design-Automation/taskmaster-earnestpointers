@@ -1,0 +1,14 @@
+PCR ca696R/ca842R on pKD13		(1275 bp, XhoI)
+PCR ca843F/ca795R on MG1655 gen.	(1044 bp, XhoI)
+Ligate, PCR ca696R/ca795R		(2303 bp, BamHI/BsaI)
+Ligate into pBAC832			(BamHI/EcoRI)
+Product is pBACg842, KrGrUs
+------------------------------------------------------------
+ca696R	msbB P4 DW oligo for pKD13	
+GAATATTCTGAAGCAAACTTGAACTTATCATCAGGCGAAGATTCCGGGGATCCGTCGACC
+ca842R	Reverse PCR of kan from pKD13	
+ctgaaCTCGAGttagaagaattcgtcaagaagg
+ca843F	Forward PCR of upp	
+CTGAActcGAGGAATTAACCATGGCTGCCCCTCAAAGGAG
+ca795R	Reverse BsaI/EcoRI oligo to transfer upp-TriHK-upp into pBAC568	
+gagtaGGTCTCCaattGCGACTTCATACCCTAACGG

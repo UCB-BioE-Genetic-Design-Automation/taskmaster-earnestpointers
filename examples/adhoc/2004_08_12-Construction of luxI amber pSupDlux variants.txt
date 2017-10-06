@@ -1,0 +1,14 @@
+PCR 755R/756F on pSupDlux  (3939 bp)
+    " "  757F
+    " "  758F
+    " "  759F
+    " "  760F sub AlwNI
+    " "  761F
+    " "  762F
+
+PCR 763R/764F on pSupDlux  (3935 bp)
+    " "  765F
+    " "  766F
+    " "  767F sub XhoI
+    " "  768F
+    " "  769F

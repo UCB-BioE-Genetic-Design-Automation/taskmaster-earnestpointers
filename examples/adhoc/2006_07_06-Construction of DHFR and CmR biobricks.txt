@@ -1,0 +1,13 @@
+PCR ca1015F/R on pAH145		(644 bp, EcoRI/SpeI)
+PCR ca1016F/R on pKD3		(934 bp, EcoRI/SpeI)
+Sub into pSB1A3-I13522		(EcoRI/SpeI)
+Products are Bca1015 and Bca1016
+---------------------------------------
+ca1015F	Forward EcoRI to biobrick DHFR (TriR) of pAH145
+gacttgaattcgcggccgcttctagacacgaacccagttgacataag
+ca1015R	Reverse SpeI to biobrick DHFR (TriR) of pAH145
+ccgctactagtccgcttaggccacacgttc
+ca1016F	Forward EcoRI to biobrick CAT of pKD3
+gacttgaattcgcggccgcttctagaggaataggaacttcatttaaatg
+ca1016R	Reverse SpeI to biobrick CAT of pKD3
+ccgctactagtggcgcgcctacctgtgacgg

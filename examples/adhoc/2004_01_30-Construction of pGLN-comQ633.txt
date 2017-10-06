@@ -1,0 +1,3 @@
+PCR ca633F/R on pED318	(924 bp, BsaI/EcoRI)
+Ligate into pGLNmychisA	(NcoI/EcoRI)
+Product is pGLN-comQ633	(3735 bp)

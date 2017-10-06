@@ -1,0 +1,16 @@
+=====Basic parts:
+J01003	[OriTR]
+Bca1011	[R6K]
+P1001	[tetR]
+Bca1014	[Tnp1] with PstI and NotI
+I13522	[OnRFP]
+
+=====Secondary Composites:
+Bca9009	[OriTR][R6K]	J01003.Bca1011
+Bca9010	[Tet][Tnp1]	P1001.Bca1014	*watch out for PstI site
+
+=====Tertiary Composites:
+Bca9011	[OriTR][R6K][Tet][Tnp1]	Bca9009.Bca9010	*watch out for PstI site
+
+=====Quaternary Composites:
+Bca9012	-[OriTR][R6K][Tet][Tnp1]-[OnRFP]- Bca9011.I13521

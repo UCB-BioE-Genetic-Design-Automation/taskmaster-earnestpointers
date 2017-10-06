@@ -1,0 +1,3 @@
+PCR ca581F/ca606R on pAC581	(1317 bp, i. BsmBI[55,neb3] ii. EcoRI/DpnI[37,neb3])
+Sub into pKQ902			(BamHI/EcoRI)
+Product is pKQ581

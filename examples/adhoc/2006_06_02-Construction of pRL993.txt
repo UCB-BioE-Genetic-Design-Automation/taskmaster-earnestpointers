@@ -1,0 +1,6 @@
+PCR 605F/993R on pBAC834	(3222 bp, BamHI/SphI)
+Sub into pRL985			(BamHI/SphI)
+Product is pRL993, trans Pro116
+------------------------------------------------
+ca993R	Reverse SphI for R6K/genR pRL derivative
+cctaaGCATGCAGGCGCCCACGAACCCAGTTG

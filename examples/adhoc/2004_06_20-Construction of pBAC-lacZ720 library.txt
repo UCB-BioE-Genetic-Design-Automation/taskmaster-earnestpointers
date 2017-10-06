@@ -1,0 +1,8 @@
+PCR 719F/720R on pBADmychisLacZ		(4647 bp, BsaI)
+Sub into pBAC568			(BamHI/EcoRI)
+Ligate, product is pBAC-lacZ720 library
+------------------------------------------------------
+ca719F	Forward BsmBI to BamHI oligo to make pG80-T7560 AraC	
+GGAGAGGTCTCGGATCCATAATGTGCCTGTCAAATG
+ca720R	Reverse NNK library for lacZ	
+cctaaGGTCTCgaattAMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNGTCGACGGCGCTATTCAGATC

@@ -1,0 +1,7 @@
+PCR 750F/795R on pTriHK/751	(2611 bp, BsaI)
+	!!Cuts once internal!!
+Paste into pBAC568		(BamHI/EcoRI)
+Product is pTriHK-795 (Kr/TriR), 8247 bp
+-----------------------------------------------
+ca795R	Reverse BsaI/EcoRI oligo to transfer upp-TriHK-upp into pBAC568
+gagtaGGTCTCCaattGCGACTTCATACCCTAACGG

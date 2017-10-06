@@ -1,0 +1,22 @@
+PCR 776F/R on pGEX-4T1		(283 bp, BamHI/EcoRI)
+Sub into pAC-SupDb		(BamHI/EcoRI)
+Product is pAC-SupD776, 2455 bp
+-----------------------------------------------------
+PCR 776F/745R on pAC-supD776	(445 bp, BsaI)
+	**Cuts once internal**
+Sub into pG80-671		(BamHI/EcoRI)
+Product is pBACn-supD776, 7349 bp
+-----------------------------------------------------
+Confirm activity, transfer into genome
+-----------------------------------------------------
+ca776F	Forward BsaI/BamHI oligo to clone Ptac	
+gagttGGTCTCggatccGTTATCGACTGCACGGTGC
+ca776R	Reverse EcoRI oligo to clone Ptac	
+CCAGAgaattcGAATACTGTTTCCTGTGTG
+
+
+
+
+PCR 776F/641R on pMAL-C2X	(~4kb, BamHI/EcoRI)
+Sub into pAC_SupDb		(BamHI/EcoRI)
+Product is pAC-supD776b

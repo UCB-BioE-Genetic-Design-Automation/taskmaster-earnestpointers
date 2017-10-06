@@ -1,0 +1,11 @@
+PCR 681F/R on P. aeruginosa gen	(334 bp, BsaI)
+PCR 553F/552R on pHA-spv555 	(932 bp, BsaI)
+	!cuts once internal!
+Ligate, PCR ca681F/ca559R 	(1238 bp, BamHI/EcoRI)
+Sub pGLNmychisA			(BamHI/EcoRI)
+Product is pGLN-lasB-GFP, 3976 bp
+----------------------------------------------
+ca681F	Forward BamHI oligo to make lasB reporters
+GAGTAggatccGTCCACATGGCCCCTCGCTGAG
+ca681R	Reverse BsaI lig PCR oligo for lasB reporters
+gcagaGGTCTCcTCATCTTGTTCAGTTCTCCTGG

@@ -1,0 +1,38 @@
+LOCUS       New_DNA                  138 bp ds-DNA     linear       24-JUN-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     promoter        54..127
+                     /label=P_tet
+                     /ApEinfo_fwdcolor=Khaki
+                     /ApEinfo_revcolor=Khaki
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     terminator      12..53
+                     /label=T_p22t22
+                     /ApEinfo_fwdcolor=Crimson
+                     /ApEinfo_revcolor=Crimson
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site128..133
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site6..11
+                     /label=XbaI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 ccataTCTAG Aaaataaagc cctgagttta accgctcggg gctttttgcg tttTCCCTAT
+       61 CAGTGATAGA GATTGACATC CCTATCAGTG ATAGAGATAC TGAGCACATC AGCAGGACGC
+      121 ACTGACCgga tcctacag    
+//

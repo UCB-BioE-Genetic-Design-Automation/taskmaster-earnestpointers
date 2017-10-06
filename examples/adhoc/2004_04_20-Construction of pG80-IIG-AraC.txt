@@ -1,0 +1,12 @@
+PCR 686F/563R on BS gen.	(460 bp, BsmBI)
+PCR 688F/R on pBADmychislacZ	(891 bp, BsaI)
+Ligate, 686F/688R		(1338 bp, BamHI/EcoRI)
+Sub pG80-581 (small)		(BamHI/EcoRI)
+Product is pG80-IIG-AraC, 3630 bp
+--------------------------------------------------
+ca686F	5' BsaI/BamHI oligo to replace 563F for spoIIG	
+gagttGGTCTCggatccgatttagatgcaacgtttac
+ca688F	Forward BsaI oligo to clone AraC for transciptional fusions	
+CGTAGGGTCTCtATGAgTGAAGCGCAAAATGATCCCCTGC
+ca688R	Reverse EcoRI oligo clone AraC	
+CGAAAgaattcTTATGACAACTTGACGGCTAC

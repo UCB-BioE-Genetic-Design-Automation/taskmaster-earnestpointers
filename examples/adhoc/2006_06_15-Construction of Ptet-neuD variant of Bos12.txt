@@ -1,0 +1,59 @@
+PCR ca1003F/R on Bos12 gen.	(1143 bp, BsaI/EcoRI)
+Sub into pGLN			(BamHI/EcoRI)
+Product is pGLN1003
+---------------------------------------
+EIPCR ca1004F/R on pGLN1003	(2923 bp, XbaI/PstI)
+sub in pSB1A2-Bca9001		(1199 bp, XbaI/PstI)
+Product is pGLN-Bca1004
+neu-X-[F-Cm-F][TT][P_tet]-B-neuD-E
+---------------------------------------
+PCR 279/ca1006R on pGLN-Bca1004	(bp, DpnI)
+Do D/W of Bos12/pKD46
+---------------------------------------
+ca1003F	Forward BsaI to BamHI for neuD
+gagttGGTCTCTgatcttctggcatgaggtcaagg
+ca1003R	Reverse BsaI to EcoRI for neuD
+cctaaGAATTCTCTGCCTTAGGTGCAATAGC
+ca1004F	Forward PstI EIPCR oligo for neuD
+CGTATctgcagGGATCCATATTTAACTGAGACATATC
+ca1004R	Reverse XbaI EIPCR oligo for neuD
+CAGTTtctagaCTCAGTTAAATATTTTCAAGG
+ca1006R	Reverse constant oligo for neuD
+CAGCAACTACAACATTACTTG
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GARBAGE
+PCR ca1005F/R on pKD3		(1066 bp, EcoRI/PstI)///axe that
+sub into pSB1A2			(EcoRI/PstI)///axe that
+product is pSB1A2-Bca1005///axe that
+
+Construct biobrick part:
+Bca9005	[FRT][CmR][FRT]	Bca1010.Bca9002
+[F-Cm-F]
+
+---------------------------------------
+Digest pSB1A2-Bca1005		(AlwNI/SpeI, large-2552bp)
+Sub into pSB1A2-S03155		(AlwNI/XbaI, small-754)
+Product is pSB1A2-Bca9001
+[F-Cm-F][TT][P_tet]

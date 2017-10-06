@@ -1,0 +1,72 @@
+LOCUS       New_DNA                 1443 bp ds-DNA     linear       19-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     CDS             37..1419
+                     /label=4ABH
+                     /ApEinfo_fwdcolor=#b1ff85
+                     /ApEinfo_revcolor=#b1ff85
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitecomplement(join(1426..1429,1431..1436))
+                     /label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitecomplement(join(1428..1429,1438..1443))
+                     /label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site406..416
+                     /label=AarI
+                     /ApEinfo_fwdcolor=red
+                     /ApEinfo_revcolor=red
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site7..12
+                     /label=BglII
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site1..6
+                     /label=HindIII
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 AAGCTTAGAT CTACTtCAGT TAAGGAGGTA AAAAAAATGT CTCAGCAGGA ACGTACCCGT
+       61 GTTGCTATCG TTGGTGCTGG TATCGTTGGT CTGACCCTGG CTATCGCTCT GAACGCTTTC
+      121 GACAAAGAAC GTAAACTGGC TATCGACATC TACGAAAACG CTTCTGAACT GGCTGAAATC
+      181 GGTGCTGGTA TCAACGTTTG GCCGCGTACC CTGGCTATCT TCAAACAGAT CGGTGTTGAA
+      241 GACGCTCTGA TCCCGCTGCT GGACCACATC CCGGACCTGG AACCGCGTAT CATCTTCGGT
+      301 ATCCGTAAAG GTGACGAAAA AAACGGTTAC CAGGTTTACG ACACCATGAA CAACGGTGGT
+      361 GCTCTGCGTG TTCACCGTGC TCACCTCCAG AACACCCTGA TCCAGCACCT GCCGCTGCCG
+      421 GGTTCTAAAG TTACCGAAAT CAACTCTATC TGCGGTTTCC ACCTGGGTCA CAACCTGATC
+      481 GACTACTCTC ACCACTCTTC TTCTGGTCAG GGTCCGCTGA CCCTGCACTT CTCTGACGGT
+      541 AAACCGTCcC GTACCTGCGA CATCCTGGTT GGTGCTGACG GTATCAAATC TACCCTGCGT
+      601 CACCTGTTCC TGCCGCGTCT GCCGAACCCG GAAAAATACC TGAACTGCTA CGAACCGAAA
+      661 TGGAAAGGTC TGCTGGCTTA CCGTGGTCTG GTTCCGAAAG AAAAACTGGA AGCTGTTTCT
+      721 CCGGGTCACC GTGCTCTGAC CCACCCGGGT CTGATGTACT CTGGTAAATC TGCTTACGCT
+      781 GTTGTTTACC CGGTTTCTAA CGGTAAATTC ATCAACGTTG TTGCTATCGT TCACGACAAC
+      841 CCGACCAACT CTACCGTTTG GCCGGGTCCG TGGCGTATGG ACGTTACCCA GTCTGAGTTC
+      901 TTCGAAGTTT ACAAAGGTTG GGACGAAGAA GTTCTGGACC TGATCCGTTG CGTTGACAAA
+      961 CCGACCAAAT GGGCTCTGCA CGCTCTGGAC CACCTGGACG TTTACGCTAA GGGCCGTGTG
+     1021 TTCCTGATGG GGGACGCTGC TCACGCTATG CTGCCGCACC TGGGTGCTGG TGCTCACGTT
+     1081 GGTATGGAAG ACGCTTACAT CCTGGCTTCT CTGATCACCC ACTCTTCTAC CCCGATCTGG
+     1141 CCGTCTACCC AGCACGTTTC TGAAATCGCT AACATCTACA ACACCATGCG TATCCCACGT
+     1201 GCTGTGAGCA TGTCTAACTC TACCGACGAA GCTGGTTACC TGTGCAACCT GGAAAACCCG
+     1261 GGTCTGGAAG AGTTCAAAGT TGGTGACCAC ATCCCGAAAG AACTGCTGAT CCAGACCGCT
+     1321 CGTACCATGG AAAAAAAATG GGCTTGGACC ACCACCTACG CTGACGAAGA CCGTATCAAA
+     1381 GCTATCTCTC TGCTGGAAGG TCCGCGTGCT GTTCTGTAAC AATTCccctA GAGACCCCTC
+     1441 CTC     
+//

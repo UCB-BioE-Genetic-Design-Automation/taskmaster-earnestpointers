@@ -1,0 +1,14 @@
+PCR 904F/875R on pKD13		(1644 bp, AlwNI)
+PCR 905F/R on BW25141 gen.	(1084 bp, AlwNI)
+Ligate, PCR 904F/905R		(2709 bp, BamHI/EcoRI)
+Sub into pBAC872		(BamHI/EcoRI)
+Product is pBAC905
+-----------------------------------------------
+ca904F	Forward AlwNI R6K and Bla oligo for pBAC905	
+cgagtCAGGCACTGcactggattgcgaggctttg
+ca875R	Reverse EcoRI/NotI oligo for R6K
+GTATCgaattcGCGGCCGcGTTCACCGACAAACAACAG
+ca905F	Forward BamHI oligo for pir-116/Bla/R6K
+CATGCggatccGAATGATGAGGTTTTTTTATG
+ca905R	Reverse AlwNI for pir-116
+cctaaCAGTGCCTGGCGTTTAACCTCTGGCTTAC

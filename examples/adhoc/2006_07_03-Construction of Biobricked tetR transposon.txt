@@ -1,0 +1,29 @@
+==========Basic Parts:
+Bca1015	[TriR]
+Bca1010	[FRT]
+Bca1011	[R6K]
+Bca1012	[Tn5-for]
+Bca1013	[Tn5-rev]
+P0340	[wkRBS][tetR][TT]
+P0440	[stRBS][tetR][TT]
+J01001	[oriTR]
+
+==========Secondary Composites:
+Bca9002	[TriR][FRT]	Bca1015.Bca1010
+Bca9004	[FRT][R6K]	Bca1010.Bca1011
+
+Bca9018	[TnFor][wkRBS][tetR][TT]	Bca1012.P0340
+Bca9019	[TnFor][stRBS][tetR][TT]	Bca1012.P0440
+
+Bca9021	[TnRev][OriTR]	Bca1013.J01003
+
+
+==========Tertiary Composites:
+Bca9006	[FRT][R6K][TriR][FRT]	Bca9004.Bca9002
+
+==========Quaturnary Composites:
+Bca9020	[FRT][R6K][TriR][FRT][TnRev][OriTR]	Bca9006.Bca9021
+
+==========Penturnary Composites:
+Bca9016	[TnFor][wkRBS][tetR][TT][FRT][R6K][TriR][FRT][TnRev][OriTR]	Bca9018.Bca9020
+Bca9017	[TnFor][stRBS][tetR][TT][FRT][R6K][TriR][FRT][TnRev][OriTR]	Bca9019.Bca9020

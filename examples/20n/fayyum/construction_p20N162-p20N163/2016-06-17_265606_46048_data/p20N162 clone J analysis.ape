@@ -1,0 +1,77 @@
+LOCUS       p20N162_clone_J_        1435 bp ds-DNA     linear       18-JUN-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     CDS             42..1424
+                     /label=4ABH
+                     /ApEinfo_fwdcolor=#b1ff85
+                     /ApEinfo_revcolor=#b1ff85
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             42..1424
+                     /label=Ab_4ABH-1
+                     /ApEinfo_fwdcolor=#b1ff85
+                     /ApEinfo_revcolor=#b1ff85
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site411..421
+                     /label=AarI
+                     /ApEinfo_fwdcolor=red
+                     /ApEinfo_revcolor=red
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site1425..1430
+                     /label=MfeI
+                     /ApEinfo_fwdcolor=lime
+                     /ApEinfo_revcolor=lime
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site12..17
+                     /label=BglII
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site6..11
+                     /label=HindIII
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    73..731
+                     /label=ca4116 confirmed
+                     /ApEinfo_fwdcolor=#748dff
+                     /ApEinfo_revcolor=#748dff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 cagtaAAGCT TAGATCTACT tCAGTTAAGG AGGTAAAAAA AATGTCTCAG CAGGAACGTA
+       61 CCCGTGTTGC TATCGTTGGT GCTGGTATCG TTGGTCTGAC CCTGGCTATC GCTCTGAACG
+      121 CTTTCGACAA AGAACGTAAA CTGGCTATCG ACATCTACGA AAACGCTTCT GAACTGGCTG
+      181 AAATCGGTGC TGGTATCAAC GTTTGGCCGC GTACCCTGGC TATCTTCAAA CAGATCGGTG
+      241 TTGAAGACGC TCTGATCCCG CTGCTGGACC ACATCCCGGA CCTGGAACCG CGTATCATCT
+      301 TCGGTATCCG TAAAGGTGAC GAAAAAAACG GTTACCAGGT TTACGACACC ATGAACAACG
+      361 GTGGTGCTCT GCGTGTTCAC CGTGCTCACC TCCAGAACAC CCTGATCCAG CACCTGCCGC
+      421 TGCCGGGTTC TAAAGTTACC GAAATCAACT CTATCTGCGG TTTCCACCTG GGTCACAACC
+      481 TGATCGACTA CTCTCACCAC TCTTCTTCTG GTCAGGGTCC GCTGACCCTG CACTTCTCTG
+      541 ACGGTAAACC GTCcCGTACC TGCGACATCC TGGTTGGTGC TGACGGTATC AAATCTACCC
+      601 TGCGTCACCT GTTCCTGCCG CGTCTGCCGA ACCCGGAAAA ATACCTGAAC TGCTACGAAC
+      661 CGAAATGGAA AGGTCTGCTG GCTTACCGTG GTCTGGTTCC GAAAGAAAAA CTGGAAGCTG
+      721 TTTCTCCGGG TCACCGTGCT CTGACCCACC CGGGTCTGAT GTACTCTGGT AAATCTGCTT
+      781 ACGCTGTTGT TTACCCGGTT TCTAACGGTA AATTCATCAA CGTTGTTGCT ATCGTTCACG
+      841 ACAACCCGAC CAACTCTACC GTTTGGCCGG GTCCGTGGCG TATGGACGTT ACCCAGTCTG
+      901 AGTTCTTCGA AGTTTACAAA GGTTGGGACG AAGAAGTTCT GGACCTGATC CGTTGCGTTG
+      961 ACAAACCGAC CAAATGGGCT CTGCACGCTC TGGACCACCT GGACGTTTAC GCTAAGGGCC
+     1021 GTGTGTTCCT GATGGGGGAC GCTGCTCACG CTATGCTGCC GCACCTGGGT GCTGGTGCTC
+     1081 ACGTTGGTAT GGAAGACGCT TACATCCTGG CTTCTCTGAT CACCCACTCT TCTACCCCGA
+     1141 TCTGGCCGTC TACCCAGCAC GTTTCTGAAA TCGCTAACAT CTACAACACC ATGCGTATCC
+     1201 CACGTGCTGT GAGCATGTCT AACTCTACCG ACGAAGCTGG TTACCTGTGC AACCTGGAAA
+     1261 ACCCGGGTCT GGAAGAGTTC AAAGTTGGTG ACCACATCCC GAAAGAACTG CTGATCCAGA
+     1321 CCGCTCGTAC CATGGAAAAA AAATGGGCTT GGACCACCAC CTACGCTGAC GAAGACCGTA
+     1381 TCAAAGCTAT CTCTCTGCTG GAAGGTCCGC GTGCTGTTCT GTAACAATTG tttGG
+//

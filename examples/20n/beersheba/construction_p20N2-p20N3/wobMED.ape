@@ -1,0 +1,56 @@
+LOCUS       wobMED                   139 bp ds-DNA     linear       03-MAR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    123..128
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    129..134
+                     /label=XbaI
+                     /ApEinfo_fwdcolor=#00ffff
+                     /ApEinfo_revcolor=#00ffff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(17..22,24..27)
+                     /label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(12..17,26..27)
+                     /label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(87..92,110..115,122..122)
+                     /label=Medium/High Promoter pattern J23101 - A
+                     /ApEinfo_fwdcolor=#6d74ff
+                     /ApEinfo_revcolor=#6d74ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    6..11
+                     /label=SalI
+                     /ApEinfo_fwdcolor=#bcff98
+                     /ApEinfo_revcolor=#bcff98
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    28..66
+                     /label=Terminator/Promoter TP1
+                     /ApEinfo_fwdcolor=#ff4d4e
+                     /ApEinfo_revcolor=#ff4d4e
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 gacttGTCGA CGAGGAGGTC TCAccagGTA AAAGTTAGGA CGCCGAAAGG CGTCTTTTGG
+       61 TACGCTGATG GCTGTGCTTG GAGCTATTTA CAaaaattgg tatatatgaT ATTATataat
+      121 cAggatccTC TAGAaatcc    
+//

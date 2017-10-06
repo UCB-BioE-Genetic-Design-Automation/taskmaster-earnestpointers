@@ -1,0 +1,12 @@
+PCR 714F/R on CFT073 gen		(783 bp, BsaI)
+PCR 655F/644R on pGLN-Taz		(913 bp, BsaI)
+Ligate, PCR 714F/715R			(1674 bp, BamHI/BsaI)
+Sub into pBACz581			(BamHI/EcoRI)
+Product is pBACz-fimZc, 7514 bp
+--------------------------------------------------------
+ca714F	Forward BamHI to clone fimC including rbs	
+CGTACggatccTAATGTGATAACAGGAACAGGAC
+ca714R	Reverse BsaI to make fimC/Taz chimera	
+GAGTCGGTCTCAGAGCACCGCTGCCTTCCATTACGCCCGTCATTTTGG
+ca715R	Reverse BsaI/EcoRI oligo to clone EnvZ	
+cctaaGGTCTCgaattcATTTACCCTTCTTTTGTCGTGCC

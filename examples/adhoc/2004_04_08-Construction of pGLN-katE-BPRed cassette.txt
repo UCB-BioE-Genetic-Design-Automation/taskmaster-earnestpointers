@@ -1,0 +1,7 @@
+--->Construction of katE-BPRed cassette:
+PCR ca628F/R on MC1061 Gen.	(233 bp, BsaI)
+PCR ca678F/ca562R on pBPRed	(3107 bp, BsaI)
+	!Cuts once internal!
+Lig/PCR with ca628F/ca562R	(3312 bp, XhoI/AlwNI)
+Sub into pGLN 			(XhoI/AlwNI)
+Product is pGLN-katE-BPRed

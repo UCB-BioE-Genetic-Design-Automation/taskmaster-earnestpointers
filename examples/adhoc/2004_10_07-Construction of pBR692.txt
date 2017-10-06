@@ -1,0 +1,3 @@
+Insert of pPbad-GFP692		(i. XhoI/Pfu, ii. HindIII)
+vector of pBRXma		(HindIII/EcoRV)
+Ligate, product is pBR692

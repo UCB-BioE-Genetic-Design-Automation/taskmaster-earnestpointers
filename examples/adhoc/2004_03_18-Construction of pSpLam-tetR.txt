@@ -1,0 +1,6 @@
+ca676F/608R on DH5aPro gen.	(841 bp, BamHI/BsmBI)
+Sub pSplam-581			(BamHI/EcoRI)
+Product is pSpLam-tetR, 3167 bp
+-----------------------------------------------------
+ca676F	Forward BamHI for TetR gene	ccactGGATCCaattaatgtaagttagcg
+ca608R	Reverse BsmBI to EcoRI for TetR gene	cgtaaCGTCTCgaattcTAGGCTACTCAGCTATCTAG

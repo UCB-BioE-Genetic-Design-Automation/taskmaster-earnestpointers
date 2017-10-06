@@ -1,0 +1,8 @@
+PCR 581F/712R on pBAC-fimH597		(1093 bp, BsaI)
+PCR 655F/644R on pGLN-Taz		(913 bp, BsaI)
+Ligate, PCR 581F/644R			(1978 bp, BsmBI/EcoRI)
+Sub into pAC708	and pBACt568		(BamHI/EcoRI)
+Product is pAC-fimZ and pBACt-fimZ
+--------------------------------------------------------
+ca712R	Reverse fusion oligo for fimH with Taz	
+gagtcGGTCTCaGAGCACCGCTGCCTTGATAAACAAAAGTCACGCC

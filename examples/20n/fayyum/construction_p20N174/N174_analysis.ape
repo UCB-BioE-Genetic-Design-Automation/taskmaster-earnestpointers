@@ -1,0 +1,129 @@
+LOCUS       New_DNA                  890 bp ds-DNA     linear       22-JUN-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     restriction_sitejoin(869..874,876..879)
+                     /label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitecomplement(join(12..15,17..22))
+                     /label=BsaI(1)
+                     /ApEinfo_label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitejoin(864..869,878..879)
+                     /label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitecomplement(join(14..15,24..29))
+                     /label=BseRI(1)
+                     /ApEinfo_label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitejoin(1..6,8..11)
+                     /label=BsmBI
+                     /ApEinfo_fwdcolor=#c959ff
+                     /ApEinfo_revcolor=#c959ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitecomplement(join(880..883,885..890))
+                     /label=BsmBI(1)
+                     /ApEinfo_label=BsmBI
+                     /ApEinfo_fwdcolor=#c959ff
+                     /ApEinfo_revcolor=#c959ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site863..863
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site30..30
+                     /label=SpeI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     terminator      join(57..64,66..78)
+                     /label=T11
+                     /ApEinfo_fwdcolor=DeepPink
+                     /ApEinfo_revcolor=DeepPink
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             159..836
+                     /label=amilGFP
+                     /ApEinfo_fwdcolor=#ffef13
+                     /ApEinfo_revcolor=#ffef13
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     promoter        join(99..104,122..127,134..134)
+                     /label=SLOW Promoter pattern J23109 - A
+                     /ApEinfo_fwdcolor=LightSteelBlue
+                     /ApEinfo_revcolor=LightSteelBlue
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             159..854
+                     /label=amilGFP(1)
+                     /ApEinfo_label=amilGFP
+                     /ApEinfo_fwdcolor=#ffef13
+                     /ApEinfo_revcolor=#ffef13
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     terminator      join(36..64,66..78)
+                     /label=T11(1)
+                     /ApEinfo_label=T11
+                     /ApEinfo_fwdcolor=DeepPink
+                     /ApEinfo_revcolor=DeepPink
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site135..140
+                     /label=BamHI(1)
+                     /ApEinfo_label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site858..862
+                     /label=BglII
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site31..35
+                     /label=SpeI(1)
+                     /ApEinfo_label=SpeI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CGTCTCACAA GccagAGAGA CCCCTCCTCA CTAGTCGAAT AACATTAGTC TCCTTCGGGA
+       61 GACTtTTTTT CATTTTACCA GCCACGTATC GCCAGATGtt tacatttaat gataatgtat
+      121 tgactgtaac agaAGGATCC aaataggaga aatactagAT GTCTTATTCA AAGCATGGCA
+      181 TCGTACAAGA AATGAAGACG AAATACCATA TGGAAGGCAG TGTCAATGGC CATGAATTTA
+      241 CGATCGAAGG TGTAGGAACT GGGTACCCTT ACGAAGGGAA ACAGATGTCC GAATTAGTGA
+      301 TCATCAAGCC TGCGGGAAAA CCCCTTCCAT TCTCCTTTGA CATACTGTCA TCAGTCTTTC
+      361 AATATGGAAA CCGTTGCTTC ACAAAGTACC CGGCAGACAT GCCTGACTAT TTCAAGCAAG
+      421 CATTCCCAGA TGGAATGTCA TATGAAAGGT CATTTCTATT TGAGGATGGA GCAGTTGCTA
+      481 CAGCCAGCTG GAACATTCGA CTCGAAGGAA ATTGCTTCAT CCACAAATCC ATCTTTCATG
+      541 GCGTAAACTT TCCCGCTGAT GGACCCGTAA TGAAAAAGAA GACCATTGAC TGGGATAAGT
+      601 CCTTCGAAAA AATGACTGTG TCTAAAGAGG TGCTAAGAGG TGACGTGACT ATGTTTCTTA
+      661 TGCTCGAAGG AGGTGGTTCT CACAGATGCC AATTTCACTC CACTTACAAA ACAGAGAAGC
+      721 CGGTCACACT GCCCCCGAAT CATGTCGTAG AACATCAAAT TGTGAGGACC GACCTTGGCC
+      781 AAAGTGCAAA AGGCTTTACA GTCAAGCTGG AAGCACATGC CGCGGCTCAT GTTAACCCTT
+      841 TGAAGGTTAA ATAAtaaAGA TCCGAGGAGG TCTCAgttcA CGTTGAGACG 
+//

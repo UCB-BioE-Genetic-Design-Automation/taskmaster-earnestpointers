@@ -1,0 +1,6 @@
+Extend ca1022R/ca1010F		(75 bp, EcoRI/SpeI)
+Paste into pBca1020-Bca9015	(EcoRI/SpeI)
+Product is Bca1022 library
+-------------------------------------------
+ca1022R	Reverse SpeI for promoter library
+gacttACTAGTAGCTAGCAYWRTMCCTAGGACTGAGCTAGCYRTMARCTCTAGAAGCGGCCGCGAA

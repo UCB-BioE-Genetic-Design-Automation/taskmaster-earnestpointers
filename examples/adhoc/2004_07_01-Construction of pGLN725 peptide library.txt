@@ -1,0 +1,8 @@
+EIPCR 725F/R on pGLNmychisA (and pKQ)	(2973 bp, NcoI)
+Ligate, expand over NcoI/AlwNI
+Library is pGLN725 and pKQ725
+-----------------------------------------------
+ca725F	Forward EIPCR random peptide library with NcoI internal	
+CACTGCCATGGNNKNNKNNKNNKNNKNNKNNKNNKNNKNNKNNKNNKNNKNNKNNKTAACTGCAGCTGGTACCATATGG
+ca725R	Reverse EIPCR random peptide library with NcoI internal	
+CAGTTCCATGGMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNMNNCATGGTTAATTCCTCAAAGCG

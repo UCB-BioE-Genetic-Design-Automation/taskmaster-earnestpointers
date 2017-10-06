@@ -1,0 +1,11 @@
+PCR 872F/R on pBAD860		(1306 bp, NotI/BamHI)
+PCR 872F/873R on PBAD860	(bp, NotI/BamHI)
+Sub into pBAC583		(NotI/BamHI)
+Products are pBAC872 and pBAC873
+------------------------------------------------
+ca872F	Forward NotI oligo for Pbad
+GGTATGCGGCCGcCATAATGTGCCTGTCAAATG
+ca872R	Reverse BamHI oligo for Pbad
+CGTCAggatccGGGTATGGAGAAACAGTAG
+ca873F	Forward Pbad without AraC
+GGTATGCGGCCGcGCTTCAGCCATACTTTTC

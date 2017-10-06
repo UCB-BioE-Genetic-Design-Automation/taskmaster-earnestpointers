@@ -1,0 +1,8 @@
+PCR 710F/R on pPICZalpha	(814 bp, HindIII/EcoRI)
+Digest pBAC568			(HindIII/EcoRI)
+Product is pBACz568, 7210 bp
+-------------------------------------------------------
+ca710F	Forward HindIII oligo from ZeoR	
+gagtaGAATTCgctcacatgttggtctccagc
+ca710R	Reverse EcoRI oligo for ZeoR	
+GGATCaagcttAATCTAAGGGGCGGTGTTGAC

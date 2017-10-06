@@ -1,0 +1,9 @@
+PCR 581F/583R on pBAC-comX596 (1685 bp, BsmBI)
+Sub into pG80KO (BamHI/EcoRI digest)
+Product is pG80-Tet (3971 bp)
+
+
+PCR 581F/583R on pBAC-Spo0A557 (2186 bp, BsmBI)
+	*Cuts once internal!
+Sub into pG80KO (BamHI/EcoRI digest)
+Product is pG80-Spo0A557 (4472 bp)

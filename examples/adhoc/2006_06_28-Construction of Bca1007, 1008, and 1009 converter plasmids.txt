@@ -1,0 +1,17 @@
+PCR ca1007F/R on J01064			(972 bp, EcoRI/SpeI)
+PCR ca1008F/ca1009R on J01064		(972 bp, EcoRI/SpeI)
+PCR ca1007F/ca1009R on J01064		(972 bp, EcoRI/SpeI)
+Sub into pSB1A3				(EcoRI/SpeI)
+Products are:
+	Bca1007	NotI/BamHI transfer
+	Bca1008	BamHI/EcoRI transfer
+	Bca1009	NotI/EcoRI transfer
+------------------------------------------------
+ca1007F	Forward EcoRI for 5' PspOM1 NotI converter
+ctctggaattcgcggccgcttctagagggccctccctatcagtgatagagattg
+ca1007R	Reverse SpeI for 3' BglII BamHI converter
+ccgctactagtagatcttataaacgcagaaaggcccac
+ca1008F	Forward EcoRI for 5' BglII BamHI converter
+ctctggaattcgcggccgcttctagaagatcttccctatcagtgatagagattg
+ca1009R	Reverse SpeI for 3' MfeI EcoRI converter
+ccgctactagtcaattgtataaacgcagaaaggcccac

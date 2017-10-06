@@ -1,0 +1,47 @@
+LOCUS       KnRnoRS                  958 bp ds-DNA     linear       19-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     CDS             127..942
+                     /label=KnR no RS
+                     /ApEinfo_fwdcolor=orange
+                     /ApEinfo_revcolor=orange
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitejoin(6..11,13..16)
+                     /label=BsmBI
+                     /ApEinfo_fwdcolor=#c959ff
+                     /ApEinfo_revcolor=#c959ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitecomplement(join(943..946,948..953))
+                     /label=BsmBI(1)
+                     /ApEinfo_label=BsmBI
+                     /ApEinfo_fwdcolor=#c959ff
+                     /ApEinfo_revcolor=#c959ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 ccataCGTCT CggtggAAAG CCACGTTGTG TCTCAAAATC TCTGATGTTA CATTGCACAA
+       61 GATAAAAATA TATCATCATG AACAATAAAA CTGTCTGCTT ACATAAACAG TAATACAAGG
+      121 GGTGTTATGA GCCATATTCA ACGGGAAACG TCTTGTTCGA GGCCGCGATT AAATTCCAAC
+      181 ATGGACGCTG ATTTATATGG GTATAAATGG GCTCGCGATA ATGTCGGGCA ATCAGGTGCG
+      241 ACAATCTATC GATTGTATGG GAAGCCCGAT GCGCCAGAGT TGTTTCTGAA ACATGGCAAA
+      301 GGTAGCGTTG CCAATGATGT TACAGATGAG ATGGTCAGAC TAAACTGGCT GACGGAATTT
+      361 ATGCCTCTTC CGACCATCAA GCATTTTATC CGTACTCCTG ATGATGCATG GTTACTCACC
+      421 ACTGCGATTC CGGGGAAAAC AGCATTCCAG GTATTAGAAG AATATCCTGA TTCAGGTGAA
+      481 AATATTGTTG ATGCGCTGGC AGTGTTCCTG CGCCGGTTGC ATTCGATTCC TGTTTGTAAT
+      541 TGTCCTTTTA ACAGCGATCG CGTATTTCGA CTCGCTCAGG CGCAATCACG AATGAATAAC
+      601 GGTTTGGTTG ATGCGAGTGA TTTTGATGAC GAGCGTAATG GCTGGCCTGT TGAACAAGTC
+      661 TGGAAAGAAA TGCATAAACT TTTGCCATTC TCACCGGATT CAGTCGTCAC TCATGGTGAT
+      721 TTCTCACTTG ATAACCTTAT TTTTGACGAG GGGAAATTAA TAGGTTGTAT TGATGTTGGA
+      781 CGAGTCGGAA TCGCAGACCG ATACCAGGAT CTTGCAATCC TATGGAACTG CCTCGGTGAG
+      841 TTTTCTCCTT CATTACAGAA ACGGCTTTTT CAAAAATATG GTATTGATAA TCCTGATATG
+      901 AATAAATTGC AGTTTCATTT GATGCTCGAT GAGTTTTTCT AActgatGAG ACGtactg
+//

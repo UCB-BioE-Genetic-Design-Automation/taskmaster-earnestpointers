@@ -1,0 +1,9 @@
+PCR ca621F/ca602R on BL21(DE3) gen. (3881 bp)
+	Digest BsaI
+paste into EcoRI/BamHI of pBAC568
+	1815 + 5664, keep large
+Product is pBAC-T7621 (9517 bp)
+------------------------------------------------
+ca621F	New forward BsaI-->BamHI oligo to clone
+	lac/T7 of BL21(DE3)
+	gagtaGGTCTCTgatcGCACGACAGGTTTCCCGACTGG

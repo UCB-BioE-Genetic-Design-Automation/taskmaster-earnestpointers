@@ -1,0 +1,8 @@
+PCR ca832F/R on pG80ko		(1249 bp, BsaI/EcoRI)
+Sub into pBAC568		(EcoRI/HindIII)
+Product is pBAC832, !!has Ori-pMB1!!
+------------------------------------------------
+ca832F	Forward EcoRI oligo for R6K	
+CACTGgaattctgattcgcacgggcccatg
+ca832R	Reverse BsaI to HindIII for GenR	
+cctaaGGTCTCtAGCTCAGGCGCCCACGAACCCAGTTG

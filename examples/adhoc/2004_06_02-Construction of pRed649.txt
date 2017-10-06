@@ -1,0 +1,3 @@
+PCR 648F/R on pKD46		(bp, BglII/XbaI)
+PCR ca649F/R on BW23474 gen	(1154 bp, BamHI/XbaI)
+Ligate, product is pRed649

@@ -1,0 +1,4 @@
+pSupDmychis		(1048 bp, HindIII)
+Dig pBR692		(HindIII/CIP)
+Product is pBR692S
+-------------------------------------------

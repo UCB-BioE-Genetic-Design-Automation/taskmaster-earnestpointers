@@ -1,0 +1,10 @@
+------------katE--------------------
+PCR 778F/785R on pAC-katE-supD		(598 bp, BsaI or blunt/BamHI/EcoRI)
+
+
+try blunting ecoRI in:
+-->katE supD
+-->Ptac supD
+-->luxIR supD
+
+then can transfer with BamHI/EcoRI

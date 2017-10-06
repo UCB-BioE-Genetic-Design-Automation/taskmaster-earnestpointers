@@ -1,0 +1,48 @@
+==============frr============================
+PCR 805F/806R on MG1655 gen.	(613 bp, AlwNI)
+PCR 806F/805R on MG1655 gen.	(550 bp, AlwNI)
+Ligate, PCR 805F/R		(1144 bp, BsaI)
+Sub into pG80KO			(BamHI/EcoRI)
+Product is pG80-frr805
+==============adding Kan cassette=============
+Digest pG80-814			(BamHI/EcoRI)
+Paste into pG80-frr805		(BamHI/EcoRI)
+Product is pG80-frr814
+
+==============plsC===========================
+PCR 808F/809R on MG1655 gen.	(541 bp, AlwNI)
+PCR 809F/808R on MG1655 gen.	(253 bp, AlwNI)
+Ligate, PCR 808F/R		(775 bp, BsaI)
+Sub into pG80KO			(BamHI/EcoRI)
+Product is pG80-plsC808
+---------------------------------------------
+rest same as above
+
+==============msbB===========================
+PCR 811F/812R on MG1655 gen.	(221 bp, AlwNI)
+PCR 812F/811R on MG1655 gen.	(374 bp, AlwNI)
+Ligate, PCR 811F/R		(575 bp, BsaI)
+Sub into pG80KO			(BamHI/EcoRI)
+Product is pG80-msbB811
+---------------------------------------------
+rest same as above
+
+----------------------------------------------
+ca805F	5' end of frr cassette	cctaaGGTCTCaGATCgcagaagctatcagcctgttg
+ca805R	3' end of frr cassette	gcactGGTCTCtaattTCCTGAGAACGGCGATCGTCG
+ca806F	EcoRI for frr	cctaaCAGTGCCTGgaattcCTGTCTGGTCTGACTGAGA
+ca806R	BamHI for frr	cgactCAGGCACTGggatccATATTACGGGTAATCGTCTG
+ca807F	frr external	gtaatgaacggcctggcaatg
+ca807R	frr external	CGAGCCCAGAATGGTGAGTTG
+		
+ca808F	5' end of plsC cassette	cctaaGGTCTCaGATCacctttaacgatctggtggc
+ca808R	3' end of plsC cassette	gcactGGTCTCtaattGTAGGTTTACGGCACTCAAC
+ca809F	EcoRI for plsC	cctaaCAGTGCCTGgaattcgtgacgtacaatgccagtctc
+ca809R	BamHI for plsC	cgactCAGGCACTGggatccGACGACTTAACGTTTCATC
+ca810F	plsC external	gtcgtagctatgccattgac
+ca810R	plsC external	GATTCACTACTTCCGCAATGG
+		
+ca811F	5' end of msbB cassette	cctaaGGTCTCaGATCgctccgatcgtcgcaaattcctggc
+ca811R	3' end of msbB cassette	gcactGGTCTCtaattGTTACGCCGGTGCACTTTG
+ca812F	EcoRI for msbB	cctaaCAGTGCCTGgaattctaagcgcaaagatctttatcc
+ca812R	BamHI for msbB	cgactCAGGCACTGggatccTGCTTTTCCAGTTTCGGATAAG

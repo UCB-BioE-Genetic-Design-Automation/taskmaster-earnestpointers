@@ -1,0 +1,3 @@
+Dig pBca1008	(NotI/BglII, 951 bp)
+Dig pBAC872s	(NotI/BamHI, 9714 bp)
+Product is pBACr-NES (NotI/EcoRI/SpeI converter), should be red in pir116

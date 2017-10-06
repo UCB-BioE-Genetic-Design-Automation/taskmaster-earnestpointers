@@ -1,0 +1,13 @@
+--> 3' Taz portion:--------
+ca655F/ca644R on pGLN-Taz	(~900 bp, BsaI)
+---------------------------
+--> 5' comP portions:------
+ca595F/ca656 on BS gen		(1834 bp, BsaI)
+	..			 
+      /ca661			
+---------------------------
+Ligate, PCR ca654F/644R		(1619 bp, BsaI/EcoRI)
+	..
+	6 total
+Sub pGLN-mychisA		(NcoI/EcoRI)
+Products are pGLN-comPZ6##

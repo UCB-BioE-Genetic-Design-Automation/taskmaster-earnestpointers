@@ -1,0 +1,8 @@
+PCR ca871F/R on pKD46	(2940 bp, BamHI/EcoRI)
+Sub into pG80-847b	(BamHI/EcoRI)
+Product is pG80ts871 ArGr
+----------------------------------------------
+ca871R	Reverse BamHI oligo for pTS
+GCGAAggatccGATGCAGGTGGCACTTTTC
+ca871F	Forward EcoRI oligo for pTS
+gcagaGAATTCATATGTAACGGTGAACAGTTG

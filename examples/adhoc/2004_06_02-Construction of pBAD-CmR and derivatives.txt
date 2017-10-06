@@ -1,0 +1,21 @@
+PCR 706F/R on pAC382		(745 bp, EcoRI/HindIII)
+Sub into pBAD30X		(4878 bp, EcoRI/HindIII)
+Product is pBAD-CmR, 5601 bp
+--------------------------------------------------------
+PCR 707F/R on pBAD-CmR		(1159 bp, BsaI)
+Paste into pG80ko or pG80581	(BamHI/EcoRI)
+Product is pG80-CmR707, 3445 bp
+--------------------------------------------------------
+ca707F	Forward BsaI to BamHI to move Pbad	
+gagtaGGTCTCtgatcgcttcagccatacttttc
+ca707R	Reverse BsaI to EcoRI to move Pbad	
+cctaaGGTCTCtaattGATTTAATCTGTATCAGGCTG
+ca708F	Forward BamHI oligo to make pAC with pGLN	
+ccataGGATCCgacttcaggtgctacatttg
+ca708R	Reverse HindIII oligo to make pAC with pGLN	
+GCTACaagcttGACATAAGCGGCTATTTAACG
+
+
+******note:  707F does delete AraC
+to confirm phenotype, will need to put in pbac-araC
+do expt in GH...go ahead and put pInt-G80 into GH if don't have already

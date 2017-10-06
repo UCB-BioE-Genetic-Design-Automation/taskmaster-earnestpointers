@@ -1,0 +1,7 @@
+PCR 605F/R on pBAC-AraC9TAG clone H2	(1.5kb, BamHI/EcoRI)
+Paste into pAC581			(BamHI/EcoRI)
+Product is pAC-9TAG, confirm activity in pMR-supD/pBR692
+-----------------------------------------------------------
+Blunt out pAC-9TAG			(EcoRI/Pfu)
+Product is pAC-9D, confirm activity in pMR-supD/pBR692
+-----------------------------------------------------------

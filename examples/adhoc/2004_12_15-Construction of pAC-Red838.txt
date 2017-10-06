@@ -1,0 +1,8 @@
+PCR 838F/R on pKD46	(3566 bp, BsaI)
+Sub into pBAC/708	(BamHI/EcoRI)
+Product is pAC-Red838, 5607 bp
+------------------------------------
+ca838F	Forward BsaI to BamHI to clone Pbad-Red into pAC708
+GGAGAGGTCTCGGATCCATATTATTGAAGCATTTATCAG
+ca838R	Reverse BsaI to EcoRI to clone Pbad-Red into pAC708
+cgaaaGGTCTCAgaattcCAAAGGGAAAACTGTCCATACC

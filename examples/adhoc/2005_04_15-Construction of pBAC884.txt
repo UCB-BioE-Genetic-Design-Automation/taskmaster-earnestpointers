@@ -1,0 +1,7 @@
+EIPCR ca884F/ca568R on pBAC874	(7959 bp, EcoRI)
+Product is pBAC884 KrAr pUC
+-----------------------------------------------
+ca884F	EIPCR to replace EcoRI with BamHI
+CACTGgaattcGGATCCtgattcgcacgggcccatg
+ca568R	Reverse oligo to introduce EcoRI site between KanR and Bla
+CTTCTGAATTCAAAAAGGAAGAGTATGAGTATTC

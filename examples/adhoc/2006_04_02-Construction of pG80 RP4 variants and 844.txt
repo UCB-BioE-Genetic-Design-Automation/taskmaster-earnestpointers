@@ -1,0 +1,7 @@
+PCR 972F/971R on MG1655 gen.		(~600bp, BsaI/BamHI)
+Sub into pG80-581				(BamHI/EcoRI)
+Product is pG80-972
+------------------------------------------------
+PCR ca976F/ca568R on pCNB4 (RP4)	(3064 bp, BglII/BamHI)
+Sub into pG80-972				(BamHI/CIP)
+Product is pG80-972RF and RR

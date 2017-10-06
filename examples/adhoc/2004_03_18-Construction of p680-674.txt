@@ -1,0 +1,14 @@
+PCR 672F/R on MC1061 gen	(972 bp, BsaI)
+Sub into pG80ko			(BamHI/EcoRI)
+Product is pG80-672, 3258 bp
+---------------------------------------------
+PCR 673F/R on pG80-672		(3264 bp, BamHI/EcoRI)
+PCR 670F/674R on pKD646		(1549 bp, BsaI)
+Product is pG80-674, 4780 bp
+---------------------------------------------
+ca672F	BsaI to BamHI to clone rpoS	gagtaGGTCTCTGATCAAGCCTGCACAAAATTCC
+ca672R	BsaI to EcoRI to clone rpoS	cctaaGGTCTCtAATTTTTACCACCAGACGCAAG
+ca673R	BamHI oligo to clone into rpoS	ccaatGGATCCCTTGACGGAACATTC
+ca673F	EcoRI oligo to clone into rpoS	CACTGgaattcACGGGTAGGAGCCACCTTATG
+ca670F	BsaI to BamHI to clone pKD13 by Kan end	gagtaGGTCTCtGATCgtgtaggctggagctgcttc
+ca674R	BsaI to EcoRI to clone Ara/lac	cctaaGGTCTCTaattGACTGTGTGAAATTGTTATC

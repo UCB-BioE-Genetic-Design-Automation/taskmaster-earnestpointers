@@ -1,0 +1,7 @@
+EIPCR 777F/R on pGLN-fimH711D	(4069 bp, EcoRI/ExoI)
+Product is pHA-fimH777 library, 4049 bp
+-----------------------------------------------------
+ca777F	FimH N-terminal linker peptide/lib	
+CCAAAGaattCNKNNKNNKNNKNNKNNKTTCGCCTGTAAAACCGCCAATG
+ca777R	FimH N-terminal linker peptide/lib	
+GCTATGaattCNNMNNMNNMNNMNNMNNTGACCAGGCATTTACCGACCAG

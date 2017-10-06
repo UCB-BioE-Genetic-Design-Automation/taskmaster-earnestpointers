@@ -1,0 +1,12 @@
+PCR 914F/R on four-base guys
+Sub into pSB1A2-Bca1008		(BglII/MfeI)
+
+
+ca914F	Forward oligo for BamHI/EcoRI supD	CACTAggatccAATTCGGAGAGATGCCGGAG
+ca914R	Reverse oligo for BamHI/EcoRI supD	GCTCTgaattcAGCTTAAAAAAAATCCTTAG
+
+
+probably not, better to resynthesize....err...hmmm, need terminators
+
+
+need things like pREP2-AGGA guys to assay activity

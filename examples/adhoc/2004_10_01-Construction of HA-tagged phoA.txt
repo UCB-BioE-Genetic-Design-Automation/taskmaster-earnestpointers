@@ -1,0 +1,6 @@
+A:   PCR 605F/782R on pHA-pho748-2	(251 bp)
+B:   PCR 605F/781R on A			(271 bp, BglII)
+C:   PCR 781F/740R on pHA-pho748-2	(1383 bp, BglII)
+Ligate B and C, PCR 711F/740R		(1812 bp, BsaI)
+Ligate into pGLNmychis			(BamHI/HindIII)
+Product is pHA-pho781, 4532 bp (AmpR)

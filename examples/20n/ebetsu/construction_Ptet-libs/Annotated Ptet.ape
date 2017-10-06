@@ -1,0 +1,63 @@
+LOCUS       Annotated_Ptet           149 bp ds-DNA     linear       12-JUL-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     promoter        70..143
+                     /label=P_tet
+                     /ApEinfo_fwdcolor=Khaki
+                     /ApEinfo_revcolor=Khaki
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     terminator      17..69
+                     /label=T_lamT0
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site144..149
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site1..6
+                     /label=XhoI
+                     /ApEinfo_fwdcolor=DarkSeaGreen
+                     /ApEinfo_revcolor=DarkSeaGreen
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    70..88
+                     /label=tetO
+                     /ApEinfo_fwdcolor=#b78bff
+                     /ApEinfo_revcolor=#b78bff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    95..113
+                     /label=tetO(1)
+                     /ApEinfo_label=tetO
+                     /ApEinfo_fwdcolor=#b9a4ff
+                     /ApEinfo_revcolor=#b9a4ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    89..94
+                     /label=-35
+                     /ApEinfo_fwdcolor=#242eff
+                     /ApEinfo_revcolor=#242eff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    112..117
+                     /label=-10
+                     /ApEinfo_fwdcolor=#3930ff
+                     /ApEinfo_revcolor=#3930ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CTCGAGccag ACTAGActgt aacagagcat tagcgcaagg tgatttttgt cttcttgcgc
+       61 taattttttT CCCTATCAGT GATAGAGATT GACATCCCTA TCAGTGATAG AGATACTGAG
+      121 CACATCAGCA GGACGCACTG ACCggatcc   
+//

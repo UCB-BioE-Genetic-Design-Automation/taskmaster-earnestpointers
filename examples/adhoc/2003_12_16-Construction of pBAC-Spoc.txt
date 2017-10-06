@@ -1,0 +1,10 @@
+PCR ca581F/ca587R on pCAV-PRO-Spoc
+Sub BsmBI/EcoRI
+Paste into pBAC568, BamHI/EcoRI
+	1815 + 5664, keep large
+Product is pBAC-Spoc
+-------------------------------------
+ca581F	Tet Promoter PCR
+	GGAGACGTCTCTgatcGCGGCCGCTCCCTATCAGTGATAGAG
+ca587R	Cloning TetP-C-Spo0A with EcoRI
+	GGAGACGTCTCTaattGGTCTAGGGCGGCGGATTTG

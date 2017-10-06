@@ -1,0 +1,29 @@
+====Construction of pSupD-LuxR====
+EIPCR 752F/747R on pSupD-Lux	(3397 bp, BglII)
+Product is pSupD-luxR, 3381 bp
+
+====Construction of pBACn-supDlux====
+PCR 742F/745R on pSupD-lux or D	(1903 bp, BamHI/BsaI)
+Sub into pG80-671		(BamHI/EcoRI)
+Product is pBACn-SupDlux or D, transfer into genome of MCPro
+------------------------------------------------
+ca745R	Reverse BsaI to EcoRI to transfer supD	
+gagttGGTCTCGaattGTTAAATAGCCGCTTATGTC
+ca752F	Forward oligo to delete luxI in pSupD-lux	
+GGTCAagatctGTATTGTCTATGCCTATTAATG
+
+
+
+
+
+
+
+
+
+
+
+
+====Construction of pBAC-AraC(TAG)====
+PCR 687F/688R with shuffling on pBAD-GFP amber variants
+Put into cells with pPbad-GFP### and ::nsupDluxD in genome
+Look for variants that need both atc and VAI-1

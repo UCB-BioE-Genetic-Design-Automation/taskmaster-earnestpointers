@@ -1,0 +1,29 @@
+Full length External: 882F/R, 6091 bp
+
+PCR 876F/881R on LT2 gen.	(596 bp, AlwNI)
+PCR 881F/876R on LT2 gen.	(933 bp, AlwNI)
+Ligate, PCR 876F/R		(1510 bp, BsaI)
+Sub into pG80-581		(BamHI/EcoRI)
+Product is pG80-876
+--------------------------------------------
+Sub KanR cassette into pG80-876 (BamHI/EcoRI)
+
+
+
+Full length cloning:
+PCR 876F/R on LT2 gen.		(5883 bp, BsaI)
+Sub into pBAC/708
+Product is pAC-csg876
+--------------------------------------------
+ca876F	Forward D/W oligo to KO curli of LT2
+gagttGGTCTCTGATCTCATTAATGTGCCGC
+ca876R	Reverse D/W oligo to KO curli of LT2
+cgaaaGGTCTCAAATTgCGGTATGCCTCTTCGAG
+ca881F	Forward internal D/W cassette for curli
+cctaaCAGTGCCTGgaattcggacggacaatcactgc
+ca881R	Reverse internal D/W csassette for curli
+cgactCAGGCACTGggATCCTGATGAATACGACAAAGCG
+ca882F	External oligos for LT2 curli
+CTCGGTAAAGTTGAAGCCCATG
+ca882R	External oligos for LT2 curli
+GTACTGATTGCCGGAAAAGC

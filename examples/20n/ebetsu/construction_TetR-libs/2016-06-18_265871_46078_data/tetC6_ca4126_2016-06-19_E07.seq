@@ -1,0 +1,67 @@
+LOCUS       tetC6_ca4126_201        1000 bp ds-DNA     linear       19-JUN-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     >tetC6_ca4126_2016-06-19_E07
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     primer_bind     complement(753..774)
+                     /label=CA998
+                     /ApEinfo_fwdcolor=#9bd1f9
+                     /ApEinfo_revcolor=#9bd1f9
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             223..704
+                     /label=tetR
+                     /ApEinfo_fwdcolor=Gold
+                     /ApEinfo_revcolor=Gold
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             78..123
+                     /label=tetR(1)
+                     /ApEinfo_label=tetR
+                     /ApEinfo_fwdcolor=Gold
+                     /ApEinfo_revcolor=Gold
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    138..146
+                     /label=NNKNNKNNK
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             124..137
+                     /label=tetR(2)
+                     /ApEinfo_label=tetR
+                     /ApEinfo_fwdcolor=Gold
+                     /ApEinfo_revcolor=Gold
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             147..222
+                     /label=tetR(3)
+                     /ApEinfo_label=tetR
+                     /ApEinfo_fwdcolor=Gold
+                     /ApEinfo_revcolor=Gold
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CCACGGAATG TATTGACTGT ACAGAGGATC TAAAATAACT CTATCAATGA Tagagtgtca
+       61 acaaaaatta ggaattaATG ATGAGTAGAT TAGATAAAAG TAAAGTGATT AACAGCGCAT
+      121 TAGAGCTGCT TAATGAGGCG CCTCGTGAAG GTTTAAAAAC CCGTAAACTC GCCCAGAAAC
+      181 TTGGTGTAGA GCAGCCTACA TTGTATTGGC ATGTAAAAAA TAAGCGGGCT TTGCTCGACG
+      241 CCTTAGCCAT TGAGATGTTA GATAGGCACC ATACTCACTT TTGCCCTTTA GAAGGGGAAA
+      301 GCTGGCAAGA TTTTTTACGT AATAACGCTA AAAGTTTTAG ATGTGCTTTA CTAAGTCATC
+      361 GCGATGGAGC AAAAGTACAT TTAGGTACAC GGCCTACAGA AAAACAGTAT GAAACTCTCG
+      421 AAAATCAATT AGCCTTTTTA TGCCAACAAG GTTTTTCACT AGAGAATGCA TTATATGCAC
+      481 TCAGCGCTGT GGGGCATTTT ACTTTAGGTT GCGTATTGGA AGATCAAGAG CATCAAGTCG
+      541 CTAAAGAAGA AAGGGAAACA CCTACTACTG ATAGTATGCC GGCATTATTA CGACAAGCTA
+      601 TCGAATTATT TGAACACCAA GGTGCAGAGC CAGCCTTCTT ATTCGGCCTT GAATTGATCA
+      661 TATGCGGATT AGAAAAACAA CTTAAATGTG AAAGTGGGTC TTAAcAATTC agcaagaaat
+      721 catccttagc gaaagctaag gatttttttt atctgaaatt ctgcctcgtg atacGCCTAT
+      781 TTTTATAGGT TAATGTCATG ATAATAATGG TTTCTTAGAC GTCAGGTGGC ACTTTTCGGG
+      841 GAAATGTGCG CGGAACCCCT ATTTGTTTAT TTTTCTAAAT ACATTCAAAT ATGTATCCGC
+      901 TCATGAGACA ATAACCCTGA TAAATGCTTC AATAATATTG AAAAAGGAAG AGTATGAGTA
+      961 TTCAACATTT CCGTGTCGCC CTTATTCCCT TTTTTGCGGC  
+//

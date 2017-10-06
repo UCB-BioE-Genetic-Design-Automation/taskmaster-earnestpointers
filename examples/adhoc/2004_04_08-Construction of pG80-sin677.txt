@@ -1,0 +1,7 @@
+PCR 677F/R on pG80-sin675	(3167 bp, XhoI)
+Product is pG80-sin677, 3153 bp
+-----------------------------------------
+ca677F	Forward XhoI oligo to knockout sinI
+ggtcctcgaggcagccagaagtcataccg
+ca677R	Reverse XhoI oligo to knockout sinI
+CTGCCTCGAGGACCAGGATGAGCAGAC

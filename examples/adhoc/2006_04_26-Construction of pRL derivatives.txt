@@ -1,0 +1,14 @@
+PCR 985F/R on pRL27			(4099 bp, BamHI)
+Product is pRL985
+-----------------------------------------
+Blunt pRL985				(EcoRI/Vent)
+Product is pRL985b
+-----------------------------------------
+PCR 581F/986R on pBACr-wbb903 #13	(1296 bp, BamHI/SpeI)
+Sub into pRL985b			(BamHI/SpeI)
+Product is pRL-wbb986
+Transpose into MG1655/pAC-TetInv
+-----------------------------------------
+ca985F	Forward  oligo to EIPCR pRL27	GAGTTggatccTCGAGTTactagtCCCATGTCAGCCGTTAAGTG
+ca985R	Reverse BamHI oligo to EIPCR pRL27	CTTGAggatccGCTCCAATTCATCGATGATGG
+ca986R	Reverse SpeI for TrrnB 	GTCTCactagtTTCACCGACAAACAACAG

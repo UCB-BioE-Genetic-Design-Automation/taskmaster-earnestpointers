@@ -1,0 +1,11 @@
+EIPCR 771F/R on pG80-IIGAraC	(~3400 bp, XhoI)
+Product is pG80-IIGAraC771 library
+-----------------------------------------------
+PCR 604F/R on library		(1214bp, BamHI/EcoRI)
+Ligate into pG80-568		(BamHI/EcoRI)
+Product is pBAC-IIGAraC771 library
+-----------------------------------------------
+ca771F	Forward XhoI oligo to EIPCR AraC fusions
+gagttGGTCTCctcgagNNNGGAGNNNNNNRTGAgTGAAGCGCAAAATGATCCCCTGC
+ca771R	Reverse XhoI oligo to EIPCR IIG-AraC	
+ccaaaCTCGAGCTTTCTTGCCTCACGCTGTTCC

@@ -1,0 +1,1 @@
+>name	construction_p20N52								>description	Pbad without restriction sites																	>>steps	operation	materials1	materials2	product	size_bp	barcode	status	date	note1	acquire	plasmid		v_pbad.amilCP			null		2	acquire	oligo		"ca4086,ca4087"			null		do as gblock

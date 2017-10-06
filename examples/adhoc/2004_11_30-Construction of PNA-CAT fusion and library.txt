@@ -1,0 +1,17 @@
+PCR 823F/R on pAC-pna817	(915 bp, BsaI/EcoRI)
+Sub into pKQCko2		(NcoI/EcoRI)
+Product is pKQC-pna823
+---------------------------------------------------
+Error-prone PCR 279/824		(985 bp, BamHI/EcoRI)
+Sub into pKQCko2		(BamHI/EcoRI)
+Library is pKQC-pna824
+---------------------------------------------------
+ca823F	Forward BsaI to NcoI to clone inv-PNA into pKQC
+gagtaGGTCTCccatgCCAAAcCGGTGGATATACGATGG
+ca823R	Reverse EcoRI Oligo to clone PNA for pKQC
+gcactGAATTCAAATGATGCACTTGCCATATTC
+ca824	Reverse Sequencing from CmR
+GCCTCAAAATGTTCTTTACGATG
+
+**Can use 279/804R to transfer hits into pGLN 
+for mychis expression (Bam/Eco)

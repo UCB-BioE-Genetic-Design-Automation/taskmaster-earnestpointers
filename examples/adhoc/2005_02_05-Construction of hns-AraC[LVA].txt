@@ -1,0 +1,5 @@
+PCR 705F/789R on pPROBE-hns		(1304 bp, BsaI)	***Try 789F and 708R with 789r (1920 bp)
+PCR 749F/605R on pBAC-AraC[9TAG]	(1374 bp, BsaI)
+Lig, PCR 789F/583R			(1978 bp, BamHI/BsmBI)
+Sub into pG80-568			(BamHI/EcoRI)
+Product is __trashy

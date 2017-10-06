@@ -1,0 +1,9 @@
+PCR 790F/R (8K45) on pAC-inv784-1	(5374 bp, BglII)
+Product is inv790 sublib
+----------------------------------
+Expand with i. BglII/ExoI ii. ???? maybe ecori, maybe bamHI, maybe afliii, not alwni
+----------------------------------
+ca790F	Forward C-term TF-biased library with BglII/Blunt
+CCTGAAgatcTGGTCCCCGNNKNNKNNKNNKNNKNNKtgagtttaaacggtctccagc
+ca790R	Reverse C-term TF-biased library with BglII/Blunt	
+GACATAgatcTGCATACCAMNNMNNMNNMNNMNNMNNGTCGACGGCGCTATTCAGATC

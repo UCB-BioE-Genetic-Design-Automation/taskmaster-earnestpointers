@@ -1,0 +1,5 @@
+PCR ca643F/R on MC1061 gen	(794 bp, BsaI)
+PCR ca644F/R on MC1061 gen	(715 bp, BsaI)
+Ligate, 643F/644R PCR		(1481 bp ,BsmBI/EcoRI)
+Ligate into pGLNmychisA (NcoI/EcoRI)
+Product is pGLN-Taz (4292 bp)

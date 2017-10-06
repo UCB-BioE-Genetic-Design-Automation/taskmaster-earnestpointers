@@ -1,0 +1,250 @@
+LOCUS       New_DNA                 2724 bp ds-DNA     linear       22-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          complement(1..616)
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+                     /label=source:Escherichia coli str. K-12 substr. MG1655
+                     /ApEinfo_fwdcolor=pink
+                     /ApEinfo_revcolor=pink
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     gene            2227..2724
+                     /gene="yaeI"
+                     /locus_tag="b0164"
+                     /gene_synonym="ECK0163; JW5014"
+                     /db_xref="EcoGene:EG12337"
+                     /db_xref="GeneID:945002"
+                     /label=yaeI
+                     /ApEinfo_fwdcolor=#ff797d
+                     /ApEinfo_revcolor=#ff102f
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             2227..2724
+                     /gene="yaeI"
+                     /locus_tag="b0164"
+                     /gene_synonym="ECK0163; JW5014"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phosphodiesterase with model substrate bis-pNPP"
+                     /protein_id="NP_414706.2"
+                     /db_xref="GI:90111094"
+                     /db_xref="ASAP:ABE-0000559"
+                     /db_xref="UniProtKB/Swiss-Prot:P37049"
+                     /db_xref="EcoGene:EG12337"
+                     /db_xref="GeneID:945002"
+                     /translation="MISRRRFLQATAATIATSSGFGYMHYCEPGWFELIRHRLAFFKD
+                     NAAPFKILFLADLHYSRFVPLSLISDAIALGIEQKPDLILLGGDYVLFDMSLNFSAFS
+                     DVLSPLAECAPTFACFGNHDRPVGTEKNHLIGETLKSAGITVLFNQATVIATPNRQFE
+                     LVGTGDLWAGQCKPPPASEANLPRLVLAHNPDSKEVMRDEPWDLMLCGHTHGGQLRVP
+                     LVGEPFAPVEDKRYVAGLNAFGERHIYTTRGVGSLYGLRLNCRPEVTMLELV"
+                     /label=phosphodiesterase with model substrate bis-pNPP
+                     /ApEinfo_fwdcolor=#3d8be4
+                     /ApEinfo_revcolor=#3d8be4
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     gene            1..586
+                     /gene="glnD"
+                     /locus_tag="b0167"
+                     /gene_synonym="ECK0165; JW0162"
+                     /db_xref="EcoGene:EG11411"
+                     /db_xref="GeneID:944863"
+                     /label=glnD
+                     /ApEinfo_fwdcolor=#ff797d
+                     /ApEinfo_revcolor=#ff102f
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             1..586
+                     /gene="glnD"
+                     /locus_tag="b0167"
+                     /gene_synonym="ECK0165; JW0162"
+                     /EC_number="2.7.7.59"
+                     /function="enzyme; Amino acid biosynthesis: Glutamine"
+                     /GO_component="GO:0005737 - cytoplasm"
+                     /GO_process="GO:0006542 - glutamine biosynthetic process;
+                     GO:0006807 - nitrogen compound metabolic process;
+                     GO:0006464 - protein modification process"
+                     /note="protein PII; uridylyltransferase acts on regulator
+                     of glnA"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="uridylyltransferase"
+                     /protein_id="NP_414709.1"
+                     /db_xref="GI:16128160"
+                     /db_xref="ASAP:ABE-0000568"
+                     /db_xref="UniProtKB/Swiss-Prot:P27249"
+                     /db_xref="EcoGene:EG11411"
+                     /db_xref="GeneID:944863"
+                     /translation="MNTLPEQYANTALPTLPGQPQNPCVWPRDELTVGGIKAHIDTFQ
+                     RWLGDAFDNGISAEQLIEARTEFIDQLLQRLWIEAGFSQIADLALVAVGGYGRGELHP
+                     LSDVDLLILSRKKLPDDQAQKVGELLTLLWDVKLEVGHSVRTLEECMLEGLSDLTVAT
+                     NLIESRLLIGDVALFLELQKHIFSEGFWPSDKFYAAKVEEQNQRHQRYHGTSYNLEPD
+                     IKSSPGGLRDIHTLQWVARRHFGATSLDEMVGFGFLTSAERAELNECLHILWRIRFAL
+                     HLVVSRYDNRLLFDRQLSVAQRLNYSGEGNEPVERMMKDYFRVTRRVSELNQMLLQLF
+                     DEAILALPADEKPRPIDDEFQLRGTLIDLRDETLFMRQPEAILRMFYTMVHNSAITGI
+                     YSTTLRQLRHARRHLQQPLCNIPEARKLFLSILRHPGAVRRGLLPMHRHSVLGAYMPQ
+                     WSHIVGQMQFDLFHAYTVDEHTIRVMLKLESFASEETRQRHPLCVDVWPRLPSTELIF
+                     IAALFHDIAKGRGGDHSILGAQDVVHFAELHGLNSRETQLVAWLVRQHLLMSVTAQRR
+                     DIQDPEVIKQFAEEVQTENRLRYLVCLTVADICATNETLWNSWKQSLLRELYFATEKQ
+                     LRRGMQNTPDMRERVRHHQLQALALLRMDNIDEEALHQIWSRCRANYFVRHSPNQLAW
+                     HARHLLQHDLSKPLVLLSPQATRGGTEIFIWSPDRPYLFAAVCAELDRRNLSVHDAQI
+                     FTTRDGMAMDTFIVLEPDGNPLSADRHEVIRFGLEQVLTQSSWQPPQPRRQPAKLRHF
+                     TVETEVTFLPTHTDRKSFLELIALDQPGLLARVGKIFADLGISLHGARITTIGERVED
+                     LFIIATADRRALNNELQQEVHQRLTEALNPNDKG"
+                     /label=uridylyltransferase
+                     /ApEinfo_fwdcolor=#3d8be4
+                     /ApEinfo_revcolor=#3d8be4
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     source          complement(2174..2724)
+                     /organism="Escherichia coli str. K-12 substr. MG1655"
+                     /mol_type="genomic DNA"
+                     /strain="K-12"
+                     /sub_strain="MG1655"
+                     /db_xref="taxon:511145"
+                     /label=source:Escherichia coli str. K-12 substr. MG1655(1)
+                     /ApEinfo_label=source:Escherichia coli str. K-12 substr.
+                     MG1655
+                     /ApEinfo_fwdcolor=pink
+                     /ApEinfo_revcolor=pink
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             1088..1879
+                     /label=Kan/neoR
+                     /ApEinfo_fwdcolor=yellow
+                     /ApEinfo_revcolor=yellow
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    692..697
+                     /label=XbaI
+                     /ApEinfo_fwdcolor=#00ffff
+                     /ApEinfo_revcolor=#00ffff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     primer_bind     657..676
+                     /label=Datsenko/Wanner P1
+                     /ApEinfo_fwdcolor=#ff9d9d
+                     /ApEinfo_revcolor=#ff9d9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_recomb     complement(677..710)
+                     /label=FRT
+                     /ApEinfo_fwdcolor=#800080
+                     /ApEinfo_revcolor=#800080
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_recomb     complement(2070..2103)
+                     /label=FRT(1)
+                     /ApEinfo_label=FRT
+                     /ApEinfo_fwdcolor=#800080
+                     /ApEinfo_revcolor=#800080
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             1085..1879
+                     /label=Kan/neoR(1)
+                     /ApEinfo_label=Kan/neoR
+                     /ApEinfo_fwdcolor=yellow
+                     /ApEinfo_revcolor=yellow
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site1049..1054
+                     /label=BglII
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site692..697
+                     /label=XbaI(1)
+                     /ApEinfo_label=XbaI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site2085..2090
+                     /label=XbaI(2)
+                     /ApEinfo_label=XbaI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site1262..1267
+                     /label=PstI
+                     /ApEinfo_fwdcolor=DarkSeaGreen
+                     /ApEinfo_revcolor=DarkSeaGreen
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site1614..1619
+                     /label=SphI
+                     /ApEinfo_fwdcolor=DarkSeaGreen
+                     /ApEinfo_revcolor=DarkSeaGreen
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    1..20
+                     /label=PCR for dapD KO cassette
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    2704..2724
+                     /label=Reverse amplification of KO cassette
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 ggtattgctt agcccgcagg ctacgcgtgg aggcaccgag atttttatct ggagcccgga
+       61 ccgcccttat ctgtttgccg ccgtctgtgc cgaattagac cgccgcaatt taagtgttca
+      121 cgacgcacaa attttcacca ctcgcgacgg tatggcgatg gataccttta tcgtgctgga
+      181 acccgatggc aacccgctgt ccgcagatcg tcatgaggtt attcggtttg gtctggagca
+      241 agtactgacg caaagtagct ggcagccacc gcagccccgt cgccaacccg ccaaattacg
+      301 ccattttact gttgaaaccg aagtaacgtt tttgccgacc cataccgacc gcaaatcgtt
+      361 cctcgaactg atcgccctcg accaacctgg actgctggcg cgagtcggga aaatttttgc
+      421 cgatctggga atttcgcttc atggtgcccg aattacaacc attggcgagc gagtagaaga
+      481 tttattcata attgccaccg ctgaccggcg tgcgcttaat aacgagttgc agcaggaagt
+      541 gcatcagcgg ttgacagagg ccctcaatcc aaacgataaa gggtgatgtg tttactgata
+      601 tgaaaagagt ttaacaATGC AGCAGTTACA GAACATTATT GAAACCGCTT TTGAACgtgt
+      661 aggctggagc tgcttcgaag ttcctatact ttctagagaa taggaacttc ggaataggaa
+      721 cttcaagatc ccctcacgct gccgcaagca ctcagggcgc aagggctgct aaaggaagcg
+      781 gaacacgtag aaagccagtc cgcagaaacg gtgctgaccc cggatgaatg tcagctactg
+      841 ggctatctgg acaagggaaa acgcaagcgc aaagagaaag caggtagctt gcagtgggct
+      901 tacatggcga tagctagact gggcggtttt atggacagca agcgaaccgg aattgccagc
+      961 tggggcgccc tctggtaagg ttgggaagcc ctgcaaagta aactggatgg ctttcttgcc
+     1021 gccaaggatc tgatggcgca ggggatcaag atctgatcaa gagacaggat gaggatcgtt
+     1081 tcgcatgatt gaacaagatg gattgcacgc aggttctccg gccgcttggg tggagaggct
+     1141 attcggctat gactgggcac aacagacaat cggctgctct gatgccgccg tgttccggct
+     1201 gtcagcgcag gggcgcccgg ttctttttgt caagaccgac ctgtccggtg ccctgaatga
+     1261 actgcaggac gaggcagcgc ggctatcgtg gctggccacg acgggcgttc cttgcgcagc
+     1321 tgtgctcgac gttgtcactg aagcgggaag ggactggctg ctattgggcg aagtgccggg
+     1381 gcaggatctc ctgtcatctc accttgctcc tgccgagaaa gtatccatca tggctgatgc
+     1441 aatgcggcgg ctgcatacgc ttgatccggc tacctgccca ttcgaccacc aagcgaaaca
+     1501 tcgcatcgag cgagcacgta ctcggatgga agccggtctt gtcgatcagg atgatctgga
+     1561 cgaagagcat caggggctcg cgccagccga actgttcgcc aggctcaagg cgcgcatgcc
+     1621 cgacggcgag gatctcgtcg tgacccatgg cgatgcctgc ttgccgaata tcatggtgga
+     1681 aaatggccgc ttttctggat tcatcgactg tggccggctg ggtgtggcgg accgctatca
+     1741 ggacatagcg ttggctaccc gtgatattgc tgaagagctt ggcggcgaat gggctgaccg
+     1801 cttcctcgtg ctttacggta tcgccgctcc cgattcgcag cgcatcgcct tctatcgcct
+     1861 tcttgacgag ttcttctgag cgggactctg gggttcgaaa tgaccgacca agcgacgccc
+     1921 aacctgccat cacgagattt cgattccacc gccgccttct atgaaaggtt gggcttcgga
+     1981 atcgttttcc gggacgccgg ctggatgatc ctccagcgcg gggatctcat gctggagttc
+     2041 ttcgcccacc ccagcttcaa aagcgctctg aagttcctat actttctaga gaataggaac
+     2101 ttcggaatag gaaCTAAGGA GGATATTCAT ATGCAAAGTC GGCATTAACG AACTGCTGCG
+     2161 TACCATCGAC TAAaagtatg cacacgggca gcacgacgct gcccgatttt tttgcaggga
+     2221 tgagcgatga tttcacgccg ccgatttttg caggctactg ccgcgacgat agccacgagc
+     2281 tcaggtttcg gttatatgca ttactgtgag ccaggctggt ttgaattaat ccgtcaccgc
+     2341 ctcgcctttt ttaaagacaa cgcagcacca ttcaaaattc tttttctggc cgatctccat
+     2401 tactctcgtt ttgttccttt aagcctgatt tctgacgcga ttgctcttgg catagaacaa
+     2461 aagcccgatt tgatattact gggcggcgat tacgtattat ttgatatgtc gctgaatttt
+     2521 tcggcgttta gtgacgtact ctcccccctt gccgaatgtg cgccgacgtt tgcctgcttc
+     2581 ggcaaccacg atcgccctgt tggtacagaa aaaaatcact taattggcga gacgttgaaa
+     2641 tcagcgggca tcacggtgtt gtttaaccag gctacggtga tcgccacgcc gaacaggcaa
+     2701 ttcgaactgg taggcactgg tgac   
+//

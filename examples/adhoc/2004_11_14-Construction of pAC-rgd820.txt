@@ -1,0 +1,7 @@
+PCR ca820F/R on pAC-inv784D	(5287 bp, BamHI)
+Product is pAC-rgd820
+-----------------------------------------
+ca820F	Forward BamHI EIPCR for inv-RGD	
+CCGATggatccCGAGGTGACtgagtttaaacggtctccag
+ca820R	Reverse BamHI EIPCR for inv-RGD	
+GCAAAGGATCCATCACCACGCGAATTCGATTGTCTGCTGGC

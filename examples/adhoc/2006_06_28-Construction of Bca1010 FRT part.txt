@@ -1,0 +1,8 @@
+Wobble ca1010F/R	(73 bp, EcoRI/SpeI)
+Sub into pSB1A3-I13522	(EcoRI/SpeI)
+Product is Bca1010
+-----------------------------------------
+ca1010F	Forward (universal biobrick) EcoRI for FRT
+GGACTgaattcgcggccgcttctagag
+ca1010R	Reverse SpeI oligo for FRT
+cctatactagtagaagttcctattctctaAaaagtataggaacttcctctagaagcggccgcg

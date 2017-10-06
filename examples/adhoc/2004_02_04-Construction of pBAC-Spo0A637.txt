@@ -1,0 +1,4 @@
+PCR ca637F/R on pBAC-Spo0A557 (7851 bp, BsaI)
+	*Cuts multiple time internally!
+Ligate, trans MC1061/pGLN-P2GFP
+Product is pBAC-Spo0A637, 7496 bp

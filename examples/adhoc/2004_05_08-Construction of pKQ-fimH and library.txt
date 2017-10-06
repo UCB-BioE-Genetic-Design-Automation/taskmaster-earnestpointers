@@ -1,0 +1,16 @@
+PCR 693F/R on MG1655 gen.	(920 bp, BsaI)
+Sub into pKQko3			(NcoI/EcoRI)
+Product is pKQ-fimH, 3132 bp
+----------------------------------------------
+PCR 694F/R on pKQ-fimH		(3190 bp, NcoI)
+Expand library with NcoI/AlwNI
+Library is pKQ-fimH694, 3180 bp
+----------------------------------------------
+ca693F	Forward BsaI to NcoI oligo to make pGLN-fimH	
+ctgaaGGTCTCgCATGAAACGAGTTATTACCCTG
+ca693R	Reverse BsaI to EcoRI oligo to make pGLN-fimH	
+gagttGGTCTCGaattATTGATAAACAAAAGTCACG
+ca694F	Forward NcoI K12 fimH library	
+CTAAGCCATGGNNKNNKNNKNNKNNKNNKtcttccactatcCCTATTGGCGGTGGC
+ca694R	Reverse NcoI K12 fimH library	
+CGATACCATGGMNNMNNMNNMNNMNNMNNTCTTCCATTGGCGGTTTTACAGGCG

@@ -1,0 +1,11 @@
+PCR ca841F/R on pWR100		(5866 bp, BamHI/BsaI)
+Ligate into pBAC/708		(BamHI/EcoRI)
+Product is pAC-virAG841
+-----------------------------------------------------
+ca841F	Forward BamHI/PstI oligo for virAG
+GACTAggatcCTGCAGCCTGTTTACCTCTTTCTCAG
+ca841R	Reverse BsaI/EcoRI oligo for virAG
+gactgAATTcgagaccCAGGAAGTTTAGTCTCCAGG
+
+
+==can then transfer into virF constructs with PstI/BsaI

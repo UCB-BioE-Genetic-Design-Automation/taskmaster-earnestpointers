@@ -1,0 +1,12 @@
+CA563F/R on Bs Genomic	(~215 bp, BsmBI)
+ca641F/R on pGLNmychisA	(1028 bp, BsaI)
+	*Cuts once internal!
+PCR 563F/641R on lig	(1221 bp, BamHI/EcoRI)
+Ligate into pG80ko	(BamHI/EcoRI)
+Product is pG80-IIGBla	(3519 bp)
+---------------------------------------
+CA563F/R on Bs Genomic	(~215 bp, BsmBI)
+ca642F/R on CFT073	(3263 bp, BsaI)
+	*Cuts once internal!
+PCR 563F/642R on lig	(3456 bp, BsmBI/BamHI)
+Product is pG80-IIGlacZ	(5754 bp)

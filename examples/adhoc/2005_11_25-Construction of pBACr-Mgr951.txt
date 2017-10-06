@@ -1,0 +1,4 @@
+PCR 279/951R on pBACr-Inv939	(5494 bp, NotI)
+Sub into pBACr-MgrT7940		(NotI,Vent)
+Product is pBACr-Mgr951
+------------------------------------------

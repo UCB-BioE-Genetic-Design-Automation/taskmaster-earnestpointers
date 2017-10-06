@@ -1,0 +1,54 @@
+LOCUS       New_DNA                  388 bp ds-DNA     linear       11-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     promoter        30..326
+                     /label=TP_lpp
+                     /ApEinfo_fwdcolor=salmon
+                     /ApEinfo_revcolor=salmon
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             376..388
+                     /label=mRFP1
+                     /ApEinfo_fwdcolor=#ff8699
+                     /ApEinfo_revcolor=#ff8699
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitejoin(13..18,20..23)
+                     /label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitejoin(8..13,22..23)
+                     /label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site327..332
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site1..6
+                     /label=XhoI
+                     /ApEinfo_fwdcolor=DarkSeaGreen
+                     /ApEinfo_revcolor=DarkSeaGreen
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CTCGAGtGAG GAGGTCTCAc cagACTAGAt attgcttttg tgaattaatt tgtatatcga
+       61 agcgccctga tgggcgcttt ttttatttaa tcgataacca gaagcaataa aaaatcaaat
+      121 cggatttcac tatataatct cactttatct aagatgaatc cgatggaagc atcctgtttt
+      181 ctctcaattt ttttatctaa aacccagcgt tcgatgcttc tttgagcgaa cgatcaaaaa
+      241 taagtgcctt cccatcaaaa aaatattctc aacataaaaa actttgtgta atacttgtaa
+      301 cgctacatgg agattaactc aatctaGGAT CCTCTAGTaa ccaatatacc aaataaagag
+      361 ttgaggacgt caaggATGGC TTCCTCCG   
+//

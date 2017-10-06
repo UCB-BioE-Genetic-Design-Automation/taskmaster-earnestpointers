@@ -1,0 +1,154 @@
+>2016_04_28	Project Description:  fayyum
+Project fayyum is for reconstituting the current best guess strain for acetaminophen in E. coli under Pcon promoters, and the single-stuffer variants for each ORF.
+
+In the first set, I'm shooting for the maximum my assembly can do, which is 6 orfs.  That gives me everything but some stuff between erythrose-4-P and chorismate. As for stuff below chorismate, I'm including only the two that are actively regulated, aroF and aroL.  AroL is under transcriptional control of tyrR, so that only requires a constitutive copy.  AroF is the allosterically controlled choke point, so that is a mutant suppressor.  It looks like I'm also doing aroA.  I think that is reported somewhere to be the next most substantial effect on the pathway somewhere.
+
+One confusion came up between aroK and aroL and a mix-up on sequence.  They are two coli enzymes with the same function:  http://biocyc.org/gene?orgid=META&id=AROL-MONOMER.  AroL sounds like the more active of the two.
+
+This paper talks about additional things overexpressed/knocked-out to juice chorismate: https://www.ncbi.nlm.nih.gov/pubmed/26362984
+
+>2016_06_16	Construction of 4ABH1 and aroL1 entry level constructs
+Having trouble making p20N162 and p20N163.  I put in the first batch of sequencing of 4 clones each.  Lots of primer dimers.  The colony yield was really good for this, so I'm somewhat surprised.  I think a gel purification will solve it, though.  The other issue is that the Gen9 plasmids have ROP, which I noticed, but didn't think about.  So, the copy number is medium.  It's not a deal breaker, but annoying.
+
+>2016_06_10	First attempt at fayyum operons
+Didn't go so well.  Seeing lots of the gen9 backbone inserted instead of the part.  The colony yield is hypervariable.  Got only about 25% yield, all results documented in spreadsheet fayyum_operons_wetlab.xlsx.  I did these as separate BamHI/EcoRI and BglII/MfeI digests, mixed, added ligase and ATP, transformed.  I also did that with the ebetsu tetR operons, and those came out really nice, so not sure why this is different.  The solution is to gel purify the digests and do as a more conventional ligation.  Operationally that isn't such a big deal, so that is what I will do, and repeat all these.
+
+>2016_06_13	Second attempt at Fayyum operons
+Went much better.  I did digests of the TPcon plasmids as 25 uL from TPcon-dil4x in 75 uL NEB2 EcoRI/BamHI reaction (1 uL each enzyme per well). Digested about 2 hrs, then did a flitrx zymo prep, eluted in 50 uL water.  I used that in ligations as 5 uL total reaction, 2 uL TPcon dig, 2 uL insert dig, 0.5 uL T4 DNA Ligase Buffer, 0.25 uL T4 DNA Ligase, 0.15 uL EcoRI, 0.1 uL water.  I made the inserts by digested single-tube spin minipreps as 15 uL into 30 uL reaction with BglII/MfeI, then gel purified, eluted in 20 uL water.  I made the ligations by single-tube distribution of the inserts (2 uL), then multichanneled in 2 uL of TPcon, then single channeled 1 uL of a premix of the enzymes and buffer.  Did in strips and tap-mixed and spun down each tube as it was made.  Incubated that at room temp for 30 min, then 24uL of zymo cells in each, 6 min at 2 degrees, plated on 100 mm dish with LB-kan.  The tab "batch 2" of of fayyum_operons_wetlab.xlsx describes the result.  Everything was pickable, but a few had really high backgorunds.  The aroF1 ones were the only ones showing a notable growth defect on the stronger promoters.  They were nevertheless pickable.  In general the white colonies on strong promoters were larger than those of strong promoter fluorescent colonies.
+
+>2016_06_14	4ABH and aroL take 2
+The new aroL clones E, F, and G are all fine (p20N163).  The 4ABH clone E matches what I see re-sequencing Tim's sequence, but does not match the map and has a BsmBI site.  I will need to repair p20N162-E by EIPCR, will name those I, J, K, L.
+
+>2016_06_16	Sequencing of fayyum operons, second attempt
+Set 2016-06-14_264792_45891_data.  Went much better.  All but 2 of the clone A's are perfect partials.  Read quality was average not great, and I only confirmed the promoter-orf junction and first ~50 bp of orf. It seems fine.  During the miniprep, I added chloroform after the clarification spin (25 uL per well).  That did work very nicely, all wells went clear and the column steps were very clean.  Only issue was I inverted the plate and the vapor pressure blew up and pushed the tape off some wells.  It is unclear whether it was a cross-contamination event, and the wells involved I think were outside of the "clone A" region.  The sequencing quality does not show evidence of contamination (there aren't overlapping signals) so I'm not worried about it. However, I'll need to work out a better clarification protocol for next time.
+
+>2016_06_22	4ABH C-termin confirmed
+I read p20N147-A and p20N154-A with ca998 to confirm the C-terminus.  Both are perfect.  This was due to that region of the entry plasmid p20N162-J being messy read.  I've now confirmed the entire sequence.
+
+>2016_06_22	Mapping of E-H clones of p20N133 and p20N140
+These two plasmids are 4ABH under MED and LOW, which gave duds on previous runs and are the only stragglers remaining.  I grew up 4 of each at 3mL, single-tube minis, digested about 15 min with BsaI, and got the gel N133 and N140 gel.jpg.  The gel has MED then LOW, each series is E,F,G,H.  The expected sizes are 2064+1539.  Looks like all the LOW's are correct, and F,G of the MED's are consistent.  These colonies are second-day growth, and were not the same phenotype as those picked in previous round.  Looks like significant growth affect.
+
+>2016_06_26	Cloning of Fayyum cassettes
+I have as complete a set of initial operons as I'm going to get, so did a run of cassette-level assembly.  I had different styles/concentrations of minipreps in the operons set, so I first estimated dilutions of 50 ng/uL into a dilution stock plate "fayyum_operons.txt".  I did 5 uL scale assemblies according to:
+
+GG Assembly:  operons to cassettes				35	4	per rxn	1	premix26.25	0.75	vector26.25	0.75	part126.25	0.75	part226.25	0.75	part314	0.4	CutSmart7	0.2	BsaI14	0.4	water61.25	3.6				*  1 hr at 37		*  30 min at room temp		*  15 min at 37		*  ligate as:			Assembly:  ligation	
+
+I first transferred .75 uL of each DNA into a PCR strip, doing 1 strip at a time.  Did those as single well transfers.  Didn't take a long time (did 31 of them) but was very tiring to do.  I then capped with flat caps, tap mixed, quick spun them all.  The composition of each is described in the spreadsheet "fayyum_cassettes.xlsx". I then added the BsaI and buffer as a 1uL mastermix, doing one strip at a time.  I incubated in 37 degree incubater for an hour, then did a ligase mastermix and added 1 uL of that.  Incubated at room temp 30 min, then 37 for 15 min, then 25 uL competent cells, plated on amp.  Got lots of blue background, and I definitely need to play witht he golden gate conditions and probably adjust concentrations.  However, it was clear that some things assembled just fine, and others looked to be toxic.  This is tabulated in the day 1, day 2, day 3 columns of the spreadsheet.  Those indicate the day in which colonies appeared pickable, unless it as an "s" in which case it means they were visible but not yet pickable.  I sequenced 6 of the constructs pickable on day 1.  Picked 2 more on day 2 (not yet sequenced), and picked the rest that were pickable on day 3.  Of the day 1 reads (see tab minis 1), 5 of 6 mapped correct in the sense that they end in a complete pabC, and start with the correct P_con driving AAT1.  The one clone that failed I suspect is just mixed.
+
+In general, I think I overshot the expression levels.  There is plenty of viable stuff in the "apap" cassette (AATI, pabABC1, 4ABH) but bad growth and some dead at the higher expression levels.  Far less was viable in the "chorismate" series.  Only F4 and F5, which are SLOW and OFF expression of aroF1 showed up on day 2 of picking.  Nothin was pickable on day 1.  A few more were maybe pickable on day 3, but we'll see tomorrow.
+
+The things I picked for day 1 I also set up growth tests in GMML as a sanity check and to see what is happening with producing.  A real comparison needs to include aroF1 stuff and be tested in BL21, which will likely be doable by end of next week.  I set those up as 4 mL GMML with 3 uL of the saturated culture (same culture I stocked and miniprepped).
+
+>2016_06_29	More Cloning of Fayyum cassettes
+Of the things that were late/small colonies I tried to grow up, very few of them grew.  The clones I was able to grow were:
+
+B2-A
+B2-B
+F3-C
+F4-A
+F4-B
+F5-A
+F5-B
+G1-D
+
+Somehow I think I botched the minipreps on the first go (little to no dna, sequencing failed), so regrew and mini'd these with TLC.  The gel is 2016_06_29-bsmbi.jpg, and lanes run in the order of the clones above.  Both B2-A and B2-B look fine, will sequence A.  Only F4-B and F5-B map correctly for the chorismate clones.  Others are low DNA conc, or map wrong.
+
+In parallel, I also regrew and reprepped (with TLC) these ones:
+
+A4-B
+B1-A
+B3-B
+C1-B
+C2-A
+C3-B
+D3-B
+D4-A
+D5-A
+
+These all showed above-background activity in the initial GMML growth/UV assay, and a few have been sequence-confirmed.  I will proceed with these into final construct assembly.
+
+>2016_07_03	First batch of megaplasmids
+I did all 20 permutations of the cassettes I have that sequence right or show activity.  Those are described in the previous notebook entries.  The composition of these is described in fayyum_megaplasmids.txt.  I did these as 10x diluted DNAs (vectors and inserts, all the above), setting up as 4 uL digests in BsmBI/NEB Buffer 3.1, with .25 uL of BsmBI.  I set those up by split-pool addition of 0.75 uL of each DNA, multichanneling in the paba cassettes in two transfers.  The other two plasmids were the backbone and p20N84, an amilGFP stuffer for the 3rd bsmbi bin.  So, two megamixes with F4 and F5, split, then multichannel in the last cassette.  I added the enzyme as 1 uL of a mastermix of buffer and enzyme.  I incubated at 55 for an hour, then cooled down, added the ATP and ligase, then ran GG2.  In practice I did about 1.5 runs of GG2.  Transformed 24 uL zymo10B, rescued, plated on 100 mm dishes.  Got insignificant background, typically around 50 colonies (mostly fluorescent).  I got colonies for all but 1 (I10), and only 2 on I9 and I8.  I grew up 4 of each in a 96-well block.  I also sub innoculated 3 mL cultures of H1-H4 and I1-I4 for sequencing with TLC.  Sequences set 2016-07-02_269029_46584_data shows that all 8 clones have amilGFP in the proper context in the ca998 read, and a TPcon driving AAT1 on the G00101 read.  So, all are consistant with expected.
+
+I did agar stabs in plate in plate plate_fayyum-mega-1, and 96-well flitrx minis on the whole batch in plate in plate plate_fayyum-mega-minis-1.  They are the same footprint.  I did the innoculation of the agar stabs by gridding with a pin tool into a pcr plate at 45 degrees with molten agar from the thermocycler.  I also pin-tooled into another 96-well block with GMML+Kan to grow for 2 days and test UV.
+
+>2016_07_03	TetR-Ptet variants on 4ABH and aroF1
+I made the following operon-level parts in the proper bins for the current architecture:
+
+   p20N175     TP_tet1-TetR(ts)D2     4ABH1   p20N176     TP_tet1                aroF1
+
+I'm doing just these two because the other orfs showed no apparent growth issues even on UBER.  These are both dicey.  aroF1 actually was viable on UBER, but slow growing, and also the main regulatory point of the pathway.  So, I put it under just Ptet without tetR, so p20N176 is constitutive, and indeed, it has a phenotype.  After 24 hrs sitting out on the bench (after a normal 30 degree plate incubation for 24 hrs), it was noticeably brown.  4ABH1 was lethal above LOW (or maybe it was MED, anyway HIGH and UBER are lethal).  So, I included tetR in that design to knock it down a bit.  I did these subclones with gp'd digested plasmid of both vector and insert, and got tons of happy colonies on each.  The TetR is the 4x hit D2 isolated in ebetsu.  I will assemble these with the best composition from the first set of designs to build up the next-gen constructs.
+
+>2016_07_10	Preparation of M9-ish media
+I'm made the following:
+
+200 mL 5x M9 salts (Sigma M6030-1KG; 11.28 g)
+200 mL 10% glucose (Amresco 0188-1KG; 20 g)
+100 mL 50% glucose (Amresco 0188-1KG; 50 g)
+200 mL Mg/Ca mix (1 mL of 2M MgSO4 + 100 uL of 1M CaCl2 in 200 mL H2O)
+400 mL Fe(II)Cl2 (didn't measure, tiny amount, in 1 L bottle)
+
+Once cool, those all get combined into the 1 L bottle
+
+>2016_07_11	Assay of megaplasmid H8
+The first batch of fayyum megaplasmid in BL21 assays are described in issue:
+https://github.com/20n/pipeline/issues/30
+
+H8 is the winner for "currbest", so I am trying some additional growth experiments.  I started a 200 mL overnight in 2YT in a baffled shake flask.  I pelleted the cells, dumped the supe, rinsed the flask with water, then put the cells and 250 mL of the M9-ish media back in.  I removed 2 mL slugs at 1 hr, 2 hr, and 3 hr after shaking at 37.  I pelleted out the cells and transferred supe into another 2 mL tube.  I saved those in the fayyum -20 box.  I checked all three with glucose test strips, and all three still have 2%+ glucose.  I also did preliminary UV's, and seems to be hitting 1 mM around 3 hrs in.  So, this implies that the assays done the other day are only seeing the initial rate, which is an interesting number too, but I need to focus on yield.  The best way to do that is to grow the cultures to glucose exhaustion. I will do it that way in the future.
+
+>2016_07_24	Second iteration of cassettes and megaplasmids
+I am documenting these constructs in the same places as the last batch.  The following gel is mapping from the first batch of J1-J4, and K2-K11 cassettes.  Tbe K's are screwed up because they came up the next day.  Most of what I picked was parent vector or weird stuff.  So ignore those.  The gel is:
+
+2016_07_22-gel1.jpg
+
+Gel is Fayyum, second round of cassettes digested with BsmBI and pcrs for ebetsu Ptet variants of p20N190.  The lanes go:
+
+J1-A
+J1-B
+J2-A
+J4-A
+K10-B
+K11-B
+marker
+Ptet pcr G
+Ptet pcr H
+
+The J1 ones are the only important thing here, and they look fine.
+
+>2016_07_26	More on second iteration
+I picked day 2 colonies of the K's, stocked 4 of them, mini'd 1 each.  I mapped them with BsmBI on gel:
+
+2016_07_26-K clones.jpg
+
+That gel goes:
+
+K2-C
+K3-C
+K4-C
+K5-C
+K6-C
+K7-E
+K8-E
+K9-D
+K10-D
+K11-D
+
+They all look good, at least they are all the same thing.  Sending out 2 for sequencing alongside J2-A.
+
+I had tried doing a round of megaplasmid assembly on these for:
+
+fym_J1K1fym_J1K2fym_J1K3fym_J1K4fym_J1K5fym_J1K6fym_J1K7fym_J1K8fym_J1K9fym_J1K10fym_J1K11
+
+The compositions are described on the megaplasmids sheet.  Got all blue colonies.  I might have made a systematic error, but I have no reason to suspect that except for the bad result.  May be that they are all toxic.  Will set up another round of assembly using the medium-copy origin and hopefully get better results back, or abort if it was the sequencing.
+
+>2016_07_28	Sequencing of second round cassettes
+The reads in 2016-07-26_273857_47385_data are forward and reverse of a sampling of cassettes.
+
+J1-A is a perfect partial on both ends.
+K2-C is also perfect partial on both ends
+K11-D is probably perfect partial, though the read is poor in the 3' BsmBI site
+
+It all looks fine to me.
+
+>2016_08_10	Second round megaplasmid testing
+The assembly went poorly.  Did it three times, notes in fayyum_megaplasmids.txt.  Lots of no colonies.  I only got the original H8 construct reassembled and N2, which is J1-A substituting for the chorismate->apap portion.  I'm testing those.  I picked 2 clones of N2, N2-A and N2-B from zymo10b subcloning.  They did not fully saturate, but mini'd and transformed BL21.  I also transformed p20N83 as a negative control for production, and reastreaked H8/BL21 from a plate.  All those colonies looked great.  I grew up 2 of each in 3 mL of 2YT+kan, which saturated normally overnight and have appropriate FP phenotypes.  I set up inductions as 10uL straight saturated culture into 3000 uL of coli_flask_medium_v1, which was made fresh at 100 mL scale, and added kan.  I also did 10 uL of washed cells, and also let the washed cells go.

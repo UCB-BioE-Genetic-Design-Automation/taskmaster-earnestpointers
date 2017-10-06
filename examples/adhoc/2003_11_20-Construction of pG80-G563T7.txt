@@ -1,0 +1,14 @@
+CA563F/R on Bs Genomic (~215 bp)
+CA564F/R on BL21(DE3) Genomic (~2670 bp)
+Digest with BsmBI, ligate together
+PCR CA563F/ca564R (2868 bp)
+Subclone BamHI/EcoRI into pAH153 (5166 bp)
+
+ca563F	Forward SpoIIG oligo, BamHI subclone	
+cagtaGGATCCgtggaaaaaaagctgccgtcattg		
+ca563R	Reverse SpoIIG fusion oligo with BsmBI	
+CGTTACGTCTCGTCATatctgactcctttctttcttgcc		
+ca564F	Forward T7RNAP fusion oligo with BsmBI	
+CATAGCGTCTCTatgaacacgattaacatcgctaagaacg		
+ca564R	Reverse T7RNAP oligo, EcoRI subclone
+CGTTACGTCTCGAATTCttaTgcgaacgcgaagtccgactc		

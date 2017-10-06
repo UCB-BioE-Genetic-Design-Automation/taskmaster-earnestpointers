@@ -1,0 +1,10 @@
+PCR 551F/641F on pHA-spv555	(5045 bp, XhoI/BsaI)
+Sub pGLN-KatE-BPRed		(XhoI/BsaI, gp 2232)
+	!!Cuts internal, internal sub site!!
+Product is pHAR-spv555, 6528 bp
+----------------------------------------------------
+PCR 628F/553F on pHAR-spv555	(4553 bp, BsaI)
+	!!Cuts internal, multiple times!!
+PCR 551F/554R on Salmonella LT2	(2968 bp, BsaI)
+Ligate, PCR 628F/551F		(7497 bp, XhoI)
+Product is pHAR-spv554, 7481 bp

@@ -1,0 +1,14 @@
+557F/637R on BS gen	(524 bp, BsaI)
+637F/557R on BS gen	(1207 bp, BsaI)
+Lig, 639F/557R PCR	(1393 bp, BsaI/BamHI)
+Sub pBAC581		(BamHI/EcoRI)
+Product is pBAC-Spo0A637b, 7518 bp
+---------------------------------------------
+ca637F	5' Mutagenic oligo to saturate D56 of Spo0A	
+	ggagaGGTCTCcGTATTANNKATTATTATGCCGCATCTAGACG
+ca637R	3' Constant oligo to saturate D56 of Spo0A	
+	ctgaaGGTCTCaATACGAGCACATCGGGATC
+ca638F	Constant RBS oligo similar to 627F	
+	GCAAAggatccGCTTTGAGGAATTAACCATGAGCAGCCAGCCTGAACCAAAGAAG
+ca639F	BamHI oligo to truncate Spo0A 5' UTR	
+	CGAAAggATCCTGTTAACTACATTTGG

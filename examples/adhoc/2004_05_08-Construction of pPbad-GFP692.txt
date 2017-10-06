@@ -1,0 +1,7 @@
+PCR 692F/R on pBAD-GFP		(~4800 bp, XhoI)
+Ligate, Product is pPbad-GFP692, 4783 bp
+-------------------------------------------
+ca692F	Forward XhoI EIPCR to delete AraC in pBAD-GFP	
+cagtgCTCGAGcgcttcagccatacttttc
+ca692R	Reverse XhoI EIPCR to delete AraC in pBAD-GFP	
+CAATTGACGGCTCGAGGGAGTAG

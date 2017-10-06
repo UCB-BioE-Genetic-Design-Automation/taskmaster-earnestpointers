@@ -1,0 +1,9 @@
+PCR 793F/R on pAC-inv784-1	(5374 bp, PstI)
+Ligate, product is inv793 prelib
+------------------------------------------
+Expand as i. PstI/Mung/Pfu/Exo, ii. NotI
+------------------------------------------
+ca793F	Forward C-term TF-biased library with BglII/Blunt	
+CCTGACtgcaGTGGTCCCCGNNKNNKNNKNNKNNKNNKtgagtttaaacggtctccagc
+ca793R	Reverse C-term TF-biased library with BglII/Blunt	
+GACATCtgcaGCATACCAMNNMNNMNNMNNMNNMNNGTCGACGGCGCTATTCAGATC

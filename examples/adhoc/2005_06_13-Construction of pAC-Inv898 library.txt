@@ -1,0 +1,11 @@
+Wobble overlap ca898F/R		(97 bp, XhoI/EcoRI)
+Sub into pAC-HBs836		(XhoI/EcoRI)
+Library is pAC-Inv898Pre
+---------------------------------------------------
+Expand over BamHI/PstI		(2793, 2586)
+Library is pAC-Inv898Exp
+---------------------------------------------------
+ca898F	Forward constant for random peptide lib
+GCATGCTCGAGAGTGGATGC
+ca898R	Reverse random peptide library
+CTGACGAATTCTTAMNNMNNMNNMNNMNNMNNMNNMNNMNNWCTGCAGNNMNNMNNMNNMNNMNNMNNMNNMNNMNNGCATCCACTCTCGAGCATGC

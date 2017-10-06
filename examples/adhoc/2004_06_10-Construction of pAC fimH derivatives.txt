@@ -1,0 +1,19 @@
+===== Goal make 4 variants of fimH's with pAC708 =====
+
+-->K12 variant, NcoI fused
+PCR 693F/R on MG1655 gen.	(920 bp, BsaI)
+Sub into pAC708			(NcoI/EcoRI)
+Product is pAC-fimH693
+
+-->CFT073 variant, NcoI fused
+PCR 695F/592R on CFT073 gen.	(bp, BsaI)
+Sub into pAC708			(NcoI/EcoRI)
+Product is pAC-fimH695
+
+
+-->CFT073 variant, Pet
+PCR 625F/592R on pBAC-fimH597	(1119 bp, BsaI)
+Sub into pAC708			(BamHI/EcoRI)
+Product is pAC-fimH592
+
+-->K12 variant, Ptet

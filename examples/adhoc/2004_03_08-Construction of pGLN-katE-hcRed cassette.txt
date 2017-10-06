@@ -1,0 +1,21 @@
+--->Construction of katE-YFP cassette:
+PCR ca628F/R on MC1061 Gen.	(233 bp, BsaI)
+PCR ca667F/ca562R on pHcRed1	(3049 bp, BsaI)
+	*May be 562F, whichever has BamHI
+	*Cuts once internally!
+Lig/PCR with ca628F/ca562F	(3254 bp, XhoI/AlwNI)
+	*AlwNI cuts once internal
+Sub into pGLN (XhoI/AlwNI)
+	Cuts as 961 + 1913, keep smaller
+Product is pGLN-katE-hcRed	(3678 bp)
+----------------------------------------------------
+*********************recheck the rest of this****************************
+
+
+--->Construction of dual FP SPV variants:
+Isolate the katE-YFP cassette as
+XhoI/SphI dig. of pGln-katE-YFP
+	Cuts as 3594 + 106, keep larger
+PCR 551F/552R on pHA-spv### clones	(XhoI/SphI)
+Ligate, products are pHAY-spv###
+---------------------------------------------------

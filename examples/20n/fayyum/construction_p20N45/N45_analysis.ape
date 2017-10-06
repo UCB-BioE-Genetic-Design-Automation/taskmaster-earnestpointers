@@ -1,0 +1,75 @@
+LOCUS       N45_analysis             721 bp ds-DNA     linear       08-MAY-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    173..697
+                     /label=aroL
+                     /ApEinfo_fwdcolor=#5147ff
+                     /ApEinfo_revcolor=#5147ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     promoter        join(92..97,115..120,127..127)
+                     /label=MED Promoter pattern J23101 - A
+                     /ApEinfo_fwdcolor=DodgerBlue
+                     /ApEinfo_revcolor=DodgerBlue
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             173..697
+                     /label=Ec_aroL-1
+                     /ApEinfo_fwdcolor=Moccasin
+                     /ApEinfo_revcolor=Moccasin
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitejoin(13..18,20..23)
+                     /label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitecomplement(join(704..707,709..714))
+                     /label=BsaI(1)
+                     /ApEinfo_label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitejoin(8..13,22..23)
+                     /label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_sitecomplement(join(706..707,716..721))
+                     /label=BseRI(1)
+                     /ApEinfo_label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site1..6
+                     /label=XhoI
+                     /ApEinfo_fwdcolor=DarkSeaGreen
+                     /ApEinfo_revcolor=DarkSeaGreen
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CTCGAGtGAG GAGGTCTCAc cctACTAGAG CATAAGTTGA GGACTCCTTC GGGAGTCCTT
+       61 TTTTATTTTC CCAGGTGGTA TGGAAGCTAT Ctttacatct tcagtattat gtggtattat
+      121 cgagtcAGGA TCTggctttc gccgcattgc gacctattgg ggaaaaccca cgATGACACA
+      181 ACCTCTTTTT CTGATCGGGC CTCGGGGCTG TGGTAAAACA ACGGTCGGAA TGGCCCTTGC
+      241 CGATTCGCTT AACCGTCGGT TTGTCGATAC CGATCAGTGG TTGCAATCAC AGCTCAATAT
+      301 GACGGTCGCG GAGATCGTCG AAAGGGAAGA GTGGGCGGGA TTTCGCGCCA GAGAAACGGC
+      361 GGCGCTGGAA GCGGTAACTG CGCCATCCAC CGTTATCGCT ACAGGCGGCG GCATTATTCT
+      421 GACGGAATTT AATCGTCACT TCATGCAAAA TAACGGGATC GTGGTTTATT TGTGTGCGCC
+      481 AGTATCAGTC CTGGTTAACC GACTGCAAGC TGCACCGGAA GAAGATTTAC GGCCAACCTT
+      541 AACGGGAAAA CCGCTGAGCG AAGAAGTTCA GGAAGTGCTG GAAGAACGCG ATGCGCTATA
+      601 TCGCGAAGTT GCGCATATTA TCATCGACGC AACAAACGAA CCCAGCCAGG TGATTTCTGA
+      661 AATTCGCAGC GCCCTGGCAC AGACGATTAA TTGTTAACAA TTCagcaAGA GACCCCTCCT
+      721 C     
+//

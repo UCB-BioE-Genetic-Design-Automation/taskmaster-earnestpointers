@@ -1,0 +1,9 @@
+PCR ca597F/ca592R on CFT073 gen. (1009 bp)
+Digest BsaI
+Paste into pBAC581 (BamHI/EcoRI)
+Product is pBAC-fimH597 (7128 bp)
+------------------------------------------
+ca597F	Forward BsaI to BamHI oligo to clone fimH into pBAC581
+	gagttGGTCTCTgatcGCATCACCTATACCTACAGCTG
+ca592R	Cloning fim operon
+	cgaaaGGTCTCAaattAGTACCTGCATTAGCAATGCCCTGTGATTTC

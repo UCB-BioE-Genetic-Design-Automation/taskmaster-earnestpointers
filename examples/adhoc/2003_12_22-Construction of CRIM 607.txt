@@ -1,0 +1,5 @@
+PCR ca607F/R on pKG[LVA]-559 (1064 bp)
+PCR ca608F/R on DH5aPRO gen. (848 bp)
+Digest each with BsmBI, ligate (1982 bp)
+PCR ca607F/ca608R, sub BsmBI
+into EcoRI/BamHI of CRIM plasmid and into pBAC568

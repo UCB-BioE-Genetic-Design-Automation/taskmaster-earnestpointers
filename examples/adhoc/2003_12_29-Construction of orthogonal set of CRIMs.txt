@@ -1,0 +1,51 @@
+att	Marker		Name		Derivation
+Phi80	Gent		pG80ko		from pAH153
+HK023	Trim		pTriHKko	from pAH145
+P21	Zeocin		pZ21ko		By PCR
+Lambda	Spectinomycin	pSplko		By PCR
+
+--> pTriHKko (~2250 bp)
+Digest pG80ko BamHI/EcoRI
+	Prep insert (~500 bp)
+Paste into pAH145 BamHI/EcoRI Digest
+
+--> pZ21ko (~2940 bp)
+PCR ca609F/R on pG80ko (~920 bp)
+	Digest BsmBI
+	!!Cuts in 2 pieces!!
+PCR ca610F/R on pAH95 (1070 bp)
+	Digest BsaI
+PCR ca611F/R on pPICZa (1021 bp)
+	Digest BsaI
+Triple ligation, PCR ca611F/ca610R (~2950 bp)
+	Digest NotI
+Ligate, trans, plate on Zeocin
+
+--> pSplko (~2655 bp)
+*PCR ca609F/R on pG80ko (920 bp)
+	Digest BsmBI
+	!!Cuts in 2 pieces!!
+PCR ca610F/R on pCAH63 (1070 bp)
+	Digest BsaI
+PCR ca612F/R on DH5aPRO gen. (919 bp)
+	Digest BsaI
+Triple ligation, PCR ca612F/ca610R (~2670 bp)
+	Digest NotI
+Ligate, trans, plate on Spec
+-----------------------------------------------
+ca609F	rgnB-MCS-tL3 region (BsmBI)
+	ggactCGTCTCgtggcccccgatggtagtgtgg
+ca609R	rgnB-MCS-tL3 region (BsmBI)
+	cgtaaCGTCTCgAACCTGATTCCAATTTGAGC
+ca610F	att-R6K region (BsaI)
+	gagtaGGTCTCTggtttgtgccaataccagtag
+ca610R	att-R6K region (NotI)
+	GGTATGCGGCCGCTAAGATCCAGTCACGATGCGTCC
+ca611F	Forward NotI oligo for ZeoR
+	gtgaaGCGGCCGCaCTTGCAAATTAAAGCCTTCG
+ca611R	Reverse BsaI oligo for ZeoR
+	gagtaGGTCTCtGCCACCGCCTCGTTTCTTTTTCTTCG
+ca612F	Forward NotI oligo for SpecR
+	gtgaaGCGGCCGCgtccaagcgagctcgatatc
+ca612R	Reverse BsaI oligo for SpecR
+	gagtaGGTCTCtGCCACAGCAACGATGTTACGCAGC

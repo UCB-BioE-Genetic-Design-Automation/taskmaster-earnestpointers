@@ -1,0 +1,15 @@
+EIPCR 781F/782R on pHA-phoA748		(4532 bp)
+EIPCR 781F/R on part 1			(4552 bp, BglII)
+Product is pHA-pho781, 4536 bp				
+---------------------Ag43---------------------
+PCR 772F/R on MG1655 gen.	(2556 bp, EcoRI/HindIII)
+Paste into pHA-pho781		(EcoRI/HindIII)
+Product is pHA-flu781, 5704 bp
+----------------------------------------------
+ca781F	Forward phoA FLAG-tag oligo	
+CGTATAGATCTctCAGCGGACACCAGAAATGCCTGTTC
+ca781R	Reverse phoA FLAG-tag oligo part 2	
+CCTAGAGATCTGAATTCCAAGAGCGTAATCTGGAACATCG
+ca782R	Reverse phoA FLAG-tag oligo part 1	
+GAGCGTAATCTGGAACATCGTATGGGTACATTGACCAGGCATTTACCGACCAG
+

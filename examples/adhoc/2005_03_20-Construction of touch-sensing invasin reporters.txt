@@ -1,0 +1,24 @@
+cpxR	ca861F/704F	MG1655	(295, NotI/BamHI)	pAC-cpxRInv
+cpxP	ca862F/R	MG1655	(295, NotI/BamHI)	pAC-cpxPInv
+barA	ca863F/R	MG1655	(299, NotI/BamHI)	pAC-barAInv
+degP	ca864F/R	MG1655	(230, NotI/BamHI)	pAC-degPInv
+flu	ca865F/R	MG1655	(481, NotI/BamHI)	pAC-fluInv
+csgD	ca866F/682F	MG1655	(1176, NotI/BamHI)	pAC-csgDInv
+-------------------------------------------------------------------
+ca861F	Forward NotI oligo for cpxR	GGTATGCGGCCGcGAACTGACTGCCAGCGTTGAG
+ca704F	Forward BamHI oligo for cpxP	gagtcggatcCTTCCATCTCGAGCAGCTCC
+
+ca862F	Forward NotI oligo for cpxP	GGTATGCGGCCGcTTCCATCTCGAGCAGCTCC
+ca862R	Reverse BamHI oligo for cpxP	GAGTCggatccGAACTGACTGCCAGCGTTGAG
+
+ca863F	Forward NotI oligo for barA	GGTATGCGGCCGcAGTTTTCCTGCGGCAATAATC
+ca863R	Reverse BamHI oligo for barA	GAGTCggatccAATAAACCAATAAGGACGGTCG
+
+ca864F	Forward NotI oligo for degP	GGTATGCGGCCGctgggatgaataccgacgtc
+ca864R	Reverse BamHI oligo for degP	GAGTCggatccAGAGCCAGTGCACTCAGTG
+
+ca865F	Forward NotI oligo for flu	GGTATGCGGCCGcGGAGAGCGTCTGTATTG
+ca865R	Reverse BamHI oligo for flu	GAGTCggatccGTAGCAGGTATTCAGATGTCG
+
+ca866F	Forward NotI oligo for csgD	GGTATGCGGCCGcTTTGCCCGGTTGCTACTAC
+ca682F	Forward BamHI oligo for csgBAC 	cgttaGGATCCtgaagagatatcgtccag

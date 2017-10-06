@@ -1,0 +1,23 @@
+668F/R on MC1061 gen	(2137 bp, BsaI)
+Sub into pGLN		(BamHI/EcoRI)
+Product is pGLN668, 4864 bp
+-----------------------------------------
+669F/R on pGLN668	(~3800 bp, BamHI/EcoRI)
+670F/R on pKD13		(2117 bp, BsaI)
+Trans non-pir host
+Product is pGLN670, 5877 bp
+-----------------------------------------
+668F/671R on pGLN670	(3150 bp, BsaI)
+Sub pBAC562		(BamHI/HindIII)
+Product is pBAC671, 7726 bp
+-----------------------------------------
+Can put in pG80 into BamHI/EcoRI
+And get pG80-671
+-----------------------------------------
+ca668F	BsaI to BamHI oligo to clone nfsA	gagtaGGTCTCTgatcaggcgtccagattttc
+ca668R	BsaI to EcoRI oligo to clone nfsA	cctaaGGTCTCtAATTGGAACGAAAATCGCCCTC
+ca669R	BamHI oligo to clone into nfsA	CACTAggatcctCTCAGGCAGCGACAGGGAG
+ca669F	EcoRI oligo to clone into nfsA	gcttaGAATTCtattcactacaaaggccg
+ca670F	BsaI to BamHI to clone pKD13 by Kan end	gagtaGGTCTCtGATCgtgtaggctggagctgcttc
+ca670R	BsaI to EcoRI to clone pKD13 by Ori end	cctaaGGTCTCgaattcTAGATTGATTTAAAACTTC
+ca671R	BsaI to HindIII to transfer cassette	cctaaGGTCTCtAGCTGGAACGAAAATCGCCCTC

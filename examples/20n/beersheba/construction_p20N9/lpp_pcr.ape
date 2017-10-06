@@ -1,0 +1,29 @@
+LOCUS       New_DNA                  319 bp ds-DNA     linear       11-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     restriction_site309..314
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site6..11
+                     /label=XbaI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 ccataTCTAG Atattgcttt tgtgaattaa tttgtatatc gaagcgccct gatgggcgct
+       61 ttttttattt aatcgataac cagaagcaat aaaaaatcaa atcggatttc actatataat
+      121 ctcactttat ctaagatgaa tccgatggaa gcatcctgtt ttctctcaat ttttttatct
+      181 aaaacccagc gttcgatgct tctttgagcg aacgatcaaa aataagtgcc ttcccatcaa
+      241 aaaaatattc tcaacataaa aaactttgtg taatacttgt aacgctacat ggagattaac
+      301 tcaatctaGG ATCCgactg    
+//

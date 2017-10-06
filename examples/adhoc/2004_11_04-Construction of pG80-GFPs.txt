@@ -1,0 +1,14 @@
+PCR ca813F/R on pPROBE-GFP[LVA]	(756 bp, BamHI/EcoRI)
+Sub into pG80-595		(BamHI/EcoRI)
+Product is pG80-GFPmut3
+----------------------------------------------------
+PCR 813F/729R on pGFPuv		(564 bp, BsmBI)
+PCR 729F/813R on pGFPuv		(220 bp, BsmBI)
+Ligate, PCR 813F/R		(756 bp, BamHI/EcoRI)
+Sub into pG80-595		(BamHI/EcoRI)
+Product is pG80-GFPuv
+----------------------------------------------------
+ca813F	Forward BamHI oligo for shuffling GFPs	
+CGATAGGATCCataaggaggaaaaacatatgagtaaaggagaagaac
+ca813R	Reverse EcoRI oligo for shuffling GFPs	
+GCTGAGAATTCTTATTTGTATAGTTCATCCATGCCATG

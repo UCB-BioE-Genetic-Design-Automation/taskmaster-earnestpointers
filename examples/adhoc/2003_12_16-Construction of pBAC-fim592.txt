@@ -1,0 +1,9 @@
+PCR ca592F/R on CFT073 Gen. (8838 bp)
+Digest BsaI, sub into
+pBAC581, BamHI/EcoRI Digest
+Product is pBAC-fim592 (14957 bp)
+----------------------------------------------------
+ca592F	Cloning fim operon
+	gagtaGGTCTCTgatcACTGTAATTATAAGGGAAAACGATGAAG
+ca592R	Cloning fim operon
+	cgaaaGGTCTCAaattAGTACCTGCATTAGCAATGCCCTGTGATTTC

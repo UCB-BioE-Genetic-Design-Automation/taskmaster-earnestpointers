@@ -1,0 +1,9 @@
+PCR 695F/592R on pG80-fimTF #4	(562 bp, BsaI)
+	!!Cuts once internal!!
+Sub into pKQ			(NcoI/EcoRI)
+Product is pKQ-fimTF695a, 2764 bp
+----------------------------------------------
+ca592R	Cloning fim operon	
+cgaaaGGTCTCAaattAGTACCTGCATTAGCAATGCCCTGTGATTTC
+ca695F	BsaI to NcoI oligo for CFT fimH (do with 592R)	
+ctgaaGGTCTCgCATGATTGTAATGAAACGAG

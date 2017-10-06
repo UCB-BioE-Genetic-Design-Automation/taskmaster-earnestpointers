@@ -1,0 +1,154 @@
+LOCUS       v_twist                 1897 bp ds-DNA     circular     03-APR-2016
+DEFINITION  -
+ACCESSION   -
+KEYWORDS    -
+SOURCE      -
+COMMENT     
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     primer_bind     12..32
+                     /label=Linearization primer F (Homology Left)
+                     /ApEinfo_fwdcolor=#14c0bd
+                     /ApEinfo_revcolor=#4ec02b
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     primer_bind     complement(43..58)
+                     /note="M13 primer R (-24)"
+                     /label=M13 primer R (-24)
+                     /ApEinfo_fwdcolor=#14c0bd
+                     /ApEinfo_revcolor=#4ec02b
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     primer_bind     complement(43..84)
+                     /label=M13R
+                     /ApEinfo_fwdcolor=#14c0bd
+                     /ApEinfo_revcolor=#4ec02b
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     primer_bind     complement(59..84)
+                     /note="M13 primer R (-48)"
+                     /label=M13 primer R (-48)
+                     /ApEinfo_fwdcolor=#14c0bd
+                     /ApEinfo_revcolor=#4ec02b
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     primer_bind     complement(85..103)
+                     /label=Twist Sanger primer R
+                     /ApEinfo_fwdcolor=#14c0bd
+                     /ApEinfo_revcolor=#4ec02b
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     primer_bind     complement(104..123)
+                     /label=Colony PCR primer R
+                     /ApEinfo_fwdcolor=#14c0bd
+                     /ApEinfo_revcolor=#4ec02b
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(176..849)
+                     /note="pUC origin"
+                     /label=pUC origin
+                     /ApEinfo_fwdcolor=#a2b8ff
+                     /ApEinfo_revcolor=#a2b8ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     CDS             complement(959..1774)
+                     /codon_start=1
+                     /gene="aph(3')-Ia"
+                     /note="kanR (confers resistance to kanamycin)"
+                     /product="aminoglycoside phosphotransferase from Tn903"
+                     /translation="MSHIQRETSCSRPRLNSNMDADLYGYKWARDNVGQSGATIYRLY
+                     G
+                     KPDAPELFLKHGKGSVANDVTDEMVRLNWLTEFMPLPTIKHFIRTPDDAWLLTTAIPG
+                     K
+                     TAFQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFRLAQAQSRMNNGLVD
+                     A
+                     SDFDDERNGWPVEQVWKEMHKLLPFSPDSVVTHGDFSLDNLIFDEGKLIGCIDVGRVG
+                     I ADRYQDLAILWNCLGEFSPSLQKRLFQKYGIDNPDMNKLQFHLMLDEFF"
+                     /label=aminoglycoside phosphotransferase from Tn903
+                     /ApEinfo_fwdcolor=#3d8be4
+                     /ApEinfo_revcolor=#3d8be4
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     primer_bind     complement(43..63)
+                     /label=M13-rev
+                     /ApEinfo_fwdcolor=cyan
+                     /ApEinfo_revcolor=green
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(969..1774)
+                     /label=KnR
+                     /ApEinfo_fwdcolor=#ff8040
+                     /ApEinfo_revcolor=#ff8040
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    1887..1892
+                     /label=BglII
+                     /ApEinfo_fwdcolor=#00ff80
+                     /ApEinfo_revcolor=#00ff80
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    1740..1745
+                     /label=XhoI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    6..11
+                     /label=MfeI
+                     /ApEinfo_fwdcolor=#8fc2c1
+                     /ApEinfo_revcolor=#8fc2c1
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(1328..1333)
+                     /label=BsmBI
+                     /ApEinfo_fwdcolor=#c959ff
+                     /ApEinfo_revcolor=#c959ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    1220..1225
+                     /label=HindIII
+                     /ApEinfo_fwdcolor=#a648ff
+                     /ApEinfo_revcolor=#a648ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    12..32
+                     /label=Twist linearization primer
+                     /ApEinfo_fwdcolor=#2bb361
+                     /ApEinfo_revcolor=#2bb361
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CCATAcaatt gATGATAAGT CTGCGATGGT GGATGCATGT GTCATGGTCA TAGCTGTTTC
+       61 CTGTGTGAAA TTGTTATCCG CTCAGAGGGC ACAATCCTAT TCCGCGCTAT CCGACAATCT
+      121 CCAAGACATT AGGTGGAGTT CAGTTCGGCG TATGGCATAT GTCGCTGGAA AGAACATGTG
+      181 AGCAAAAGGC CAGCAAAAGG CCAGGAACCG TAAAAAGGCC GCGTTGCTGG CGTTTTTCCA
+      241 TAGGCTCCGC CCCCCTGACG AGCATCACAA AAATCGACGC TCAAGTCAGA GGTGGCGAAA
+      301 CCCGACAGGA CTATAAAGAT ACCAGGCGTT TCCCCCTGGA AGCTCCCTCG TGCGCTCTCC
+      361 TGTTCCGACC CTGCCGCTTA CCGGATACCT GTCCGCCTTT CTCCCTTCGG GAAGCGTGGC
+      421 GCTTTCTCAT AGCTCACGCT GTAGGTATCT CAGTTCGGTG TAGGTCGTTC GCTCCAAGCT
+      481 GGGCTGTGTG CACGAACCCC CCGTTCAGCC CGACCGCTGC GCCTTATCCG GTAACTATCG
+      541 TCTTGAGTCC AACCCGGTAA GACACGACTT ATCGCCACTG GCAGCAGCCA CTGGTAACAG
+      601 GATTAGCAGA GCGAGGTATG TAGGCGGTGC TACAGAGTTC TTGAAGTGGT GGCCTAACTA
+      661 CGGCTACACT AGAAGAACAG TATTTGGTAT CTGCGCTCTG CTGAAGCCAG TTACCTTCGG
+      721 AAAAAGAGTT GGTAGCTCTT GATCCGGCAA ACAAACCACC GCTGGTAGCG GTGGTTTTTT
+      781 TGTTTGCAAG CAGCAGATTA CGCGCAGAAA AAAAGGATCT CAAGAAGATC CTTTGATCTT
+      841 TTCTACGGGG TCTGACGCTC TATTCAACAA AGCCGCCGTC CCGTCAAGTC AGCGTAAATG
+      901 GGTAGGGGGC TTCAAATCGT CCGCTCTGCC AGTGTTACAA CCAATTAACA AATTCTGATT
+      961 AGAAAAACTC ATCGAGCATC AAATGAAACT GCAATTTATT CATATCAGGA TTATCAATAC
+     1021 CATATTTTTG AAAAAGCCGT TTCTGTAATG AAGGAGAAAA CTCACCGAGG CAGTTCCATA
+     1081 GGATGGCAAG ATCCTGGTAT CGGTCTGCGA TTCCGACTCG TCCAACATCA ATACAACCTA
+     1141 TTAATTTCCC CTCGTCAAAA ATAAGGTTAT CAAGTGAGAA ATCACCATGA GTGACGACTG
+     1201 AATCCGGTGA GAATGGCAAA AGCTTATGCA TTTCTTTCCA GACTTGTTCA ACAGGCCAGC
+     1261 CATTACGCTC GTCATCAAAA TCACTCGCAT CAACCAAACC GTTATTCATT CGTGATTGCG
+     1321 CCTGAGCGAG ACGAAATACG CGATCGCTGT TAAAAGGACA ATTACAAACA GGAATCGAAT
+     1381 GCAACCGGCG CAGGAACACT GCCAGCGCAT CAACAATATT TTCACCTGAA TCAGGATATT
+     1441 CTTCTAATAC CTGGAATGCT GTTTTCCCGG GGATCGCAGT GGTGAGTAAC CATGCATCAT
+     1501 CAGGAGTACG GATAAAATGC TTGATGGTCG GAAGAGGCAT AAATTCCGTC AGCCAGTTTA
+     1561 GTCTGACCAT CTCATCTGTA ACATCATTGG CAACGCTACC TTTGCCATGT TTCAGAAACA
+     1621 ACTCTGGCGC ATCGGGCTTC CCATACAATC GATAGATTGT CGCACCTGAT TGCCCGACAT
+     1681 TATCGCGAGC CCATTTATAC CCATATAAAT CAGCATCCAT GTTGGAATTT AATCGCGGCC
+     1741 TCGAGCAAGA CGTTTCCCGT TGAATATGGC TCATAACACC CCTTGTATTA CTGTTTATGT
+     1801 AAGCAGACAG TTTTATTGTT CATGATGATA TATTTTTATC TTGTGCAATG TAACATCAGA
+     1861 GATTTTGAGA CACAACGTGG CTTTCCagat ctCAGTC  
+//

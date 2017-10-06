@@ -1,0 +1,34 @@
+PCR 687F/688R on pBAD-GFP736	(BamHI/EcoRI)
+Sub into pBAC581		(BamHI/EcoRI)
+Product is pBAC-AraC[9TAG] clone H2
+---------------------------------------------
+PCR 605F/788R on pBAC-AraC[9TAG]
+PCR 605F/787R on first PCR	(1056 bp, BamHI/HindIII)
+sub into pAC708			(BamHI/HindIII)
+Product is pAC-AraC787, sequence fully
+---------------------------------------------
+ca787R	Reverse HindIII AraC[LVA] oligo part 2	
+GTCTCaagcTTATTAAGCTACTAAAGCGTAGTTTTCGTCGTTTGC
+ca788R	Reverse HindIII AraC[LVA] oligo part 1	
+AAGCGTAGTTTTCGTCGTTTGCAGCTGACAACTTGACGGCTACATC
+
+
+
+***changes to part2 for the rest
+
+
+PCR 789F/R on MG1655 gen.	(703 bp, BsaI)
+PCR 749F/???R on pAC-AraC787	(?? bp, EcoRI)
+Ligate
+PCR 789F/???R on ligation	(???? bp, BamHI/HindIII)
+Sub into pAC708			(BamHI/HindIII)
+Product is pAC-hnsAraC[LVA], 3674 bp
+---------------------------------------------
+PCR 789F/785R on pAC-hnsAraC[LVA]	(1825 bp, BsaI)
+Sub into pBAC750			(BamHI/EcoRI)
+Product is pBACu-hnsAraC[TAG], 8345 bp
+----------------------------------------------------
+ca789F	Cloning hns 5' UTR	
+ctgaaGGTCTCggatccGAAATATAGCTGTGCCATCAG
+ca789R	Cloning hns 5' UTR	
+gagttGGTCTCGaattCGCACGAAGAGTACGGATGTTG

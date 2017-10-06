@@ -1,0 +1,11 @@
+PCR 783F/R on Y. pseud. gen.	(1938 bp, BamHI/EcoRI)
+PCR 783F/784R on Y. pseud. gen.	(2781 bp, BamHI/EcoRI)
+Sub into pAC581			(BamHI/EcoRI)
+Products are pHA-inv783 (bp) and pHA-inv784 (bp)
+-------------------------------------------------
+ca783F	Forward BamHI to clone invasin	
+CTGAAggatccGTTTGACGTATGACAGGTATGC
+ca783R	Reverse EcoRI to clone invasin at 625	
+GCTAGgaattcGACTCTAACGTGATGGTTGAAGCC
+ca784R	Reverse EcoRI to clone invasin at 907	
+GCTAGgaattcGATTGTCTGCTGGCCTCGAGACTGG

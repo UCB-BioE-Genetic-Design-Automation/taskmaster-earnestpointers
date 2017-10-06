@@ -1,0 +1,15 @@
+pKD646 (3644 bp) is okay, pKD455-rpoS won't work
+b/c it has KnR in it already
+----------------------------------------
+PCR 589F/647R on pKD646		(1547 bp, BsaI)
+----------------------------------------
+PCR ca588F/590R on Ec gen.	(2111 bp, XhoI/EcoRI)
+sub XhoI/EcoRI into pGFPuv
+Isolate a white colony
+Product is pHA-rpoS		(5134 bp)
+----------------------------------------
+PCR 590F/588R on pHA-rpoS	(5153 bp, BsaI)
+	!cuts once internal
+----------------------------------------
+Ligate together the pHA and pKD646 PCRs
+Product is pHA647-rpoS		(6644 bp)

@@ -1,0 +1,17 @@
+Digest pBADmychisLacZ	(3200 bp, NcoI/HindIII)
+Sub into pAC708		(NcoI/HindIII)
+Product is pAC-lacZ, 5335 bp
+-----------------------------------------------
+put library into xhoi/hindiii sites after linker insertion
+include a stop right before hindIII
+-------------------------------------------
+
+
+NEW PLAN
+
+put pG80-Pbad-CmR into the genome on a pG80, confirm phenotype (want G80 without AraC, the existing strategy does that)
+do PCR library directly off pBADmychislacZ...include AraC and lacZ, use BsaI, should be just one
+oligo, other comes from araC-kid expts
+there is no BsaI site until after lacZ anyway
+sub directly into pBAC568 (or pG80-568) go into a GH::pG80-PbadAraC, outgrowth, select for CmR
+	Then secondary screen for blue clones

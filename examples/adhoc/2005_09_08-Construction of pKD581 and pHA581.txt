@@ -1,0 +1,3 @@
+PCR 581F/803R on pBAC874t	(1080 bp, BsmBI/EcoRI)
+Sub into pGLN and pKD908N	(BamHI/EcoRI)
+Products are pHA581 and pKD581

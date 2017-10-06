@@ -1,0 +1,5 @@
+PCR ca977F/1026R on pBAC905	(bp, BamHI/EcoRI)
+Sub into pBAC872s and pBACr-mgr901	(BamHI/EcoRI)
+Products are pBACr-AraPir997 and pBACr-MgrPir997 libs
+-----------------------------------------------
+PCR with KanR oligo, NotI dig, blunt closed, screen eipcr pdts for plasmid loss

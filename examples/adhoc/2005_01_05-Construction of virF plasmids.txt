@@ -1,0 +1,19 @@
+===================Ptet virF=============
+PCR ca840F/R on pWR100		(875 bp, BamHI/EcoRI)
+Paste into pG80-581		(BamHI/EcoRI)
+Product is pBAC-virF840
+Paste into pAC581		(BamHI/EcoRI)
+Product is pAC-virF840
+===================wt virF===============
+PCR ca839F/ca840R on pWR100	(1429 bp, BamHI/EcoRI)
+Paste into pG80-568		(BamHI/EcoRI)
+Product is pBAC-virF839
+Paste into pBAC/708		(BamHI/EcoRI)
+Product is pAC-virF839
+------------------------------------------------------
+ca839F	Forward BamHI for virF with its promoter
+CACATggatcCGTATAAGCCGAACCGTTATC
+ca840F	Forward BamHI for virF for Ptet
+CACATggatcCAGGAGGAATAATTTATGATGGATATGGGAC
+ca840R	Reverse PstI/EcoRI for virF
+GACTAgaattcTCCGCActgcagGAAAACCCATCTGGCAATAG

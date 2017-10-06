@@ -1,0 +1,18 @@
+To change 9TAG to Ser:
+PCR 605F/735R on pBAC-TetAra	(200 bp, BsmBI)
+PCR 879F/606R on pBAC-TetAra	(800 bp, BsmBI)
+Ligate, PCR 605F/606R		(1084 bp, BamHI/EcoRI)
+Sub into pBAC874t		(BamHI/EcoRI)
+Product is pBACr-TetAra879
+-------------------------------------------
+To change 238TAG to Ser:
+PCR 605F/731R on pBAC-TetAra	(700 bp, BsmBI)
+PCR 880F/606R on pBAC-TetAra	(300 bp, BsmBI)
+Ligate, PCR 605F/606R		(1084 bp, BamHI/EcoRI)
+Sub into pBAC874t		(BamHI/EcoRI)
+Product is pBACr-TetAra880
+-------------------------------------------
+ca879F	AraC[9Ser]	
+gagtacgtctctAAAATGATCCCagtCTGCCGGGATAC
+ca880F	AraC[238Ser]	
+gagtacgtctctCGAAGagtCTTTTGAGCACC

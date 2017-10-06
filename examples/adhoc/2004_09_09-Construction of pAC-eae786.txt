@@ -1,0 +1,9 @@
+PCR 786F/R on EHEC gen.		(2032 bp, BsaI)
+	!!Cuts once internal!!
+Sub into pAC581			(BamHI/EcoRI)
+Product is pAC-eae786, 4557 bp
+-----------------------------------------------
+ca786F	Forward BsaI/BamHI oligo to clone intimin
+ctgaaGGTCTCGGATCCTAACTCATTGTGGTGGAGCC
+ca786R	Reverse BsaI/EcoRI oligo to clone intimin
+gagttGGTCTCGAATTCCCCTTGGTTTGATCAAAAAATATAAC

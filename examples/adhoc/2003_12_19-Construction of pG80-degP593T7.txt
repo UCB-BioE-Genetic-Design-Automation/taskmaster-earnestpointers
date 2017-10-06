@@ -1,0 +1,18 @@
+CA593F/R on Ec Genomic (~190 bp)
+Digest with BsaI
+**old CA564F/R on BL21(DE3) Genomic (~2670 bp)
+Digest with BsmBI, ligate together
+PCR CA593F/ca564R (2843 bp)
+Subclone BamHI/EcoRI into pG80ko
+Product is pG80-degP593T7 (5177 bp)
+----------------------------------------------
+ca593F	Forward BamHI degP 5' UTR
+	cagtaGGATCCtgggatgaataccgacgtc
+ca593R	Reveres BsaI degP 5' UTR
+	cgttaggtctcgtcatGTATTTCAGTCTCGATTAACAG
+
+
+
+
+
+

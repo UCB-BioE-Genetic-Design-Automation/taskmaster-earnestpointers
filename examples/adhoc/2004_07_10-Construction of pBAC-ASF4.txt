@@ -1,0 +1,6 @@
+PCR 728F/592R on ASF3		(1067 bp, BsaI)
+Sub into pBAC581		(BamHI/EcoRI)
+Product is pBAC-ASF3, 7164 bp
+----------------------------------------------
+ca728F	Forward BsaI to BamHI to transfer ASF3	
+gagtaGGTCTCtgatcGGCAGTTTTTCTTATTGAGG

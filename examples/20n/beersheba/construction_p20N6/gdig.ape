@@ -1,0 +1,78 @@
+LOCUS       g_BBamil                 775 bp ds-DNA     linear       31-MAR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    29..63
+                     /label=Pcon promoter
+                     /ApEinfo_fwdcolor=#ffff00
+                     /ApEinfo_revcolor=#ffff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    765..770
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    23..28
+                     /label=SpeI
+                     /ApEinfo_fwdcolor=#00ffff
+                     /ApEinfo_revcolor=#00ffff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    1..5
+                     /label=XhoI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    771..775
+                     /label=XbaI
+                     /ApEinfo_fwdcolor=#00ffff
+                     /ApEinfo_revcolor=#00ffff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(12..17,19..22)
+                     /label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(7..12,21..22)
+                     /label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    join(90..523,525..755)
+                     /label=amilCP
+                     /ApEinfo_fwdcolor=#6d6cff
+                     /ApEinfo_revcolor=#6d6cff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    759..764
+                     /label=HindIII
+                     /ApEinfo_fwdcolor=#a648ff
+                     /ApEinfo_revcolor=#a648ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 TCGAGtGAGG AGGTCTCAcc agACTAGTtt gacggctagc tcagtcctag gtacagtgct
+       61 agctactaga gaaataggag aaatactagA TGAGTGTGAT CGCTAAACAA ATGACCTACA
+      121 AGGTTTATAT GTCAGGCACG GTCAATGGAC ACTACTTTGA GGTCGAAGGC GATGGAAAAG
+      181 GTAAGCCCTA CGAGGGGGAG CAGACGGTAA AGCTCACTGT CACCAAGGGC GGACCTCTGC
+      241 CATTTGCTTG GGATATTTTA TCACCACAGT GTCAGTACGG AAGCATACCA TTCACCAAGT
+      301 ACCCTGAAGA CATCCCTGAC TATGTAAAGC AGTCATTCCC GGAGGGCTAT ACATGGGAGA
+      361 GGATCATGAA CTTTGAAGAT GGTGCAGTGT GTACTGTCAG CAATGATTCC AGCATCCAAG
+      421 GCAACTGTTT CATCTACCAT GTCAAGTTCT CTGGTTTGAA CTTTCCTCCC AATGGACCTG
+      481 TCATGCAGAA GAAGACACAG GGCTGGGAAC CCAACACTGA GCGACTCTTT GCACGAGATG
+      541 GAATGCTGCT AGGAAACAAC TTTATGGCTC TGAAGTTAGA AGGAGGCGGT CACTATTTGT
+      601 GTGAATTTAA AACTACTTAC AAGGCAAAGA AGCCTGTGAA GATGCCAGGG TATCACTATG
+      661 TTGACCGCAA ACTGGATGTA ACCAATCACA ACAAGGATTA CACTTCGGTT GAGCAGTGTG
+      721 AAATTTCCAT TGCACGCAAA CCTGTGGTCG CCTAAtaaAA GCTTggatcc TCTAG
+//

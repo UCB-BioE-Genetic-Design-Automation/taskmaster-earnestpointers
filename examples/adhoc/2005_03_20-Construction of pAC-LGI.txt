@@ -1,0 +1,6 @@
+PCR ca792F/ca867R on pAC-Lux-GFP	(2591 bp, NotI/BglII)
+Sub into pAC-TetInv			(NotI/BamHI)
+Product is pAC-LGI
+------------------------------------------------------
+ca867R	Reverse BglII oligo for GFP (LGI)
+CACTGagatctTAAGCTACTAAAGCGTAGTTTTC

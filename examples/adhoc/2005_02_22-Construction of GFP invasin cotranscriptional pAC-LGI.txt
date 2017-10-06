@@ -1,0 +1,8 @@
+PCR ca837F/ca607F on pAC-Lux-GFP	(2702 bp, NotI/BamHI)
+Sub into pAC-TetInv			(NotI/BamHI)
+Product is pAC-LGI
+------------------------------------------------------
+ca837F	Forward NotI oligo for lux	
+GGTATGCGGCCGCTTAATTTTTAAAGTATGGGCAATC
+ca607F	Forward BsmBI to BamHI for T7-GFP[LVA}
+ggactCGTCTCggatccTTAGCTCCTGAAAATCTCGCC

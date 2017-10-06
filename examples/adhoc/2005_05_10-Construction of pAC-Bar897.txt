@@ -1,0 +1,8 @@
+PCR ca897F/R on B. am. gen.	(509 bp, BamHI/EcoRI)
+Sub into pAC581			(BamHI/EcoRI)
+Product is pAC-Bar897
+------------------------------------------------
+ca897F	Forward BamHI oligo for Barnase mychis
+GCTATggatccGGAATCAGCTTCACATGATG
+ca897R	Reverse EcoRI oligo for Barnase mychis
+cacatGAATTCGATCTGATTTTTGTAAAGGTCTG

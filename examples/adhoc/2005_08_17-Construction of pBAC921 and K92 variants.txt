@@ -1,0 +1,28 @@
+PCR 921F/R on pBAC872		(2147 bp, NheI/BamHI)
+Sub into pBAC874t		(SpeI/BamHI)
+Product is pBAC921
+-----------------------------------------------
+PCR 922F/R on Bos12 gen.	(9517 bp, NotI/SpeI)
+Sub into pBAC921		(NotI/SpeI)
+Product is pBAC922
+-----------------------------------------------
+PCR 923F/924R on Bos12 gen.	(10471 bp, SpeI/EcoRI)
+Sub into pBAC921		(SpeI/EcoRI)
+Product is pBAC923
+-----------------------------------------------
+Digest insert of pBAC922	(8907 bp, NotI/SpeI)
+Sub into pBAC923		(16869 bp, NotI/SpeI)
+Product is pBAC924
+-----------------------------------------------
+ca921F	Forward NheI oligo to silence SpeI site in pBAC874t	GGATCAAGTgCTAGcTTAAGCTCACGAC
+ca921R	Reverse BamHI/SpeI oligo to move SpeI site in pBAC874t	CGTCAggatcctACTAGTgGGTATGGAGAAACAGTAG
+ca922F	Forward NotI oligo for K92 5'	
+GGTAaGCGGCCGCatgtgcaacaggacgcgttac
+ca922R	Reverse (BamHI) oligo for K92 5'	
+GGAGACGCAGCGTATTAATCC
+ca923F	Forward (SpeI) oligo for K92 3'	
+gagctatgcacaacattatg
+ca923R	Reverse EcoRI oligo for K92 3'	
+ctagcGAATTCGGTGAAATGTGCCAACCTTC
+ca924R	Reverse EcoRI oligo for K92 3'
+caggtGAATTCTGATCATCCAGTTAACGCTG

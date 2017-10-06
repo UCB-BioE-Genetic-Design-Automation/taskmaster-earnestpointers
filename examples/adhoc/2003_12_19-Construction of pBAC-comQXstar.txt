@@ -1,0 +1,22 @@
+-->straight overlapping ORFs
+PCR ca595F/R on pED318 (1148 bp)
+sub BamHI/EcoRI into pBAC581
+Product is pBAC-comQX595 (7279 bp)
+
+-->separated ORFs
+PCR ca595F/ca596R on pED318 (990 bp)
+PCR ca596F/ca595R on pED318 (219 bp)
+Digest each with AlwNI, ligate
+PCR ca595F/ca596R (1190 bp)
+sub BamHI/EcoRI into pBAC581
+Product is pBAC-comQX596 (7321 bp)
+---------------------------------------------
+ca595F	Forward BamHI to clone comX/comQ
+	CTGCAggatccGGAATGGGAGGGGGGAAGTCG
+ca595R	Forward BamHI to clone comX/comQ
+	GAGATgaattcCACCTATTAATCACCCCATTG
+ca596R	Reverse AlwNI to PCR comQ
+	CTCATCAGCGCCTGTTAGGTCTTGCATCTTGTATC
+ca596F	Forward AlwNI oligo to add RBS to comX
+	gaccaCAGgcgCTGGCTAACAGGAGGAATTAACCATGC
+	AAGACCTAATTAACTAC

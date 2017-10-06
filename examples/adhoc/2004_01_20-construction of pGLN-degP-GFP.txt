@@ -1,0 +1,18 @@
+PCR 593F/R on Ec Gen. (195 bp)
+Digest BsaI
+PCR ca553F/ca552R on pHA-spv555 (932 bp)
+Digest BsaI *cuts once internal!
+Ligate, PCR ca593F/ca559R (1098 bp)
+Sub BamHI/EcoRI into pGLNmychisA
+Product is pGLN-degP-GFP (3837 bp)
+-----------------------------------------
+ca593F	Forward BamHI degP 5' UTR
+	cagtaGGATCCtgggatgaataccgacgtc
+ca593R	Reveres BsaI degP 5' UTR
+	cgttaggtctcgtcatGTATTTCAGTCTCGATTAACAG
+ca552R	Reverse SphI oligo to clone GFP-T locus (CAV's RgfpT0)
+	gcggcggcatgcccttagctcctgaaaatctcgcc
+ca553F	Forward BsaI oligo to clone GFP-T0 for ligation-PCR	
+	gagtaGGTCTCTATGAgtaaaggagaagaacttttcactgg	
+ca559R	Reverse EcoRI oligo to make pKG[LVA]559
+	gcggcgGAATTCccttagctcctgaaaatctcgc

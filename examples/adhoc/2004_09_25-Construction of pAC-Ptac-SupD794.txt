@@ -1,0 +1,8 @@
+PCR 776F/794R on pMAL-c2x	(311 bp, BamHI/EcoRI)
+Paste into pAC-supDb		(BamHI/EcoRI)
+Product is pAC-Ptac-SupD794, 2483 bp
+-----------------------------------------------------
+ca776F	Forward BsaI/BamHI oligo to clone Ptac	
+agttGGTCTCggatccGTTATCGACTGCACGGTGC
+ca794R	Reverse oligo to clone Ptac from pMAL-c2x	
+gacatGAATTCTGAAGTGCTCGTGAAAACACC

@@ -1,0 +1,21 @@
+PCR 727F/729R on pWH1012gfp+	(588 bp, BsmBI)
+PCR 729F/727R on pWH1012gfp+	(228 bp, BsmBI)
+Ligate, PCR 727F/R		(788 bp, BsaI)
+Sub into pAC708			(EcoRI/HindIII)
+Product is pAC-GFP+, 3993 bp
+----------------**REVISION**-------------------
+EIPCR 729F/R on pWH1012gfp+	(~5kb, BsmBI)
+Product is pWHGFP+729
+-----------------------------------------------
+PCR 727F/R on pWHGFP+729	(788 bp, BsaI)
+Sub into pAC708			(EcoRI/HindIII)
+Product is pAC-GFP+, 3993 bp
+-----------------------------------------------
+ca727F	Forward EcoRI oligo to clone GFP+	
+ggataGGTCTCGaattcGATCCCCAGCTTCTAGCTAGAGG
+ca727R	Reverse HindIII oligo to clone GFP+	
+gagttGGTCTCGagcttGATTATTTGTAGAGCTCATC
+ca729F	Forward BsmBI EIPCR to silence BamHI in GFP+	
+ggataCGTCTCgGATCtGTTCAACTAGCAGACC
+ca729R	Reverse BsmBI EIPCR to silence BamHI in GFP+	
+cagctCGTCTCaGATCCATCTTCAATGTTGTG

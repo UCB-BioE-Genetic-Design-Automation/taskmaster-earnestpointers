@@ -1,0 +1,24 @@
+PCR ca588F/R on E. coli genome	(1071 bp, BsaI)
+PCR ca589F/R on pKD13		(1336 bp, BsaI)
+*old PCR ca581F/R on pPROTet.E	(143 bp, BsmBI)
+PCR ca590F/R on E. coli genome	(1059 bp, BsaI)
+gp and ligate after digests
+PCR ca588F/ca590R (3527 bp)
+sub XhoI/EcoRI into pKD440-GFP
+-----------------------------------------------
+ca588F	5' homologous fragment
+	CGAAActcgagGCCTGCAAATACTAATTCTG
+ca588R	5' homologous fragment
+	cgaaaGGTCTCAGACGGAACATTCAAGCAAAAG
+ca589F	FRT-Kan cassette (P1)
+	gagtaGGTCTCTCGTCgtgtaggctggagctgcttc
+ca589R	FRT-Kan cassette (P4)
+	cgaaaGGTCTCAgatcATTCCGGGGATCCGTCGACC
+ca590F	3' homologous fragment/ORF
+	gagtaGGTCTCTTCTGCGGGTAGGAGCCACCTTATGAG
+ca590R	3' homologous fragment/ORF
+	GAGTGgaattcGGCCTTTCTGACAGATGCTTAC
+ca591F	PCR of full length for recomb
+	GCCTGCAAATACTAATTCTG
+ca591R	PCR of full length for recomb
+	GGCCTTTCTGACAGATGCTTAC

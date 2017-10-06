@@ -1,0 +1,23 @@
+ca581F/R on pPROTet.E   (155 bp)
+ca582F/R on pHA-spv555  (3213 bp)
+ca583F/R on pBADmychisA (413 bp)
+Digest each with BsmBI, ligate
+	**582 cuts in half**
+PCR ca581F/ca583R (~3670 bp)
+Digest BsmBI 
+paste into EcoRI/BamHI of pBAC568
+	1815 + 5664, keep large
+Product pBAC581 (9349 bp)
+--------------------------------------------------
+ca581F	Tet Promoter PCR
+	GGAGACGTCTCTgatcGCGGCCGCTCCCTATCAGTGATAGAG
+ca581R	Tet Promoter PCR
+	CGTTACGTCTCGCAGAggatccCGGTCAGTGCGTCCTGCTGATG
+ca582F	GFP, Ori, Bla from pHA-spv555
+	GGAGACGTCTCTTCTGTTTATTTTCAGGAGTC
+ca582R	GFP, Ori, Bla from pHA-spv555
+	CGTTACGTCTCGCCTGACGGATGGCCTTTTTGCG
+ca583F	TrrnB from pBADmychisA
+	GGAGACGTCTCTcaggCATATGGGAATTCGAAGCTTG
+ca583R	TrrnB from pBADmychisA
+	CGTTACGTCTCGaattaGTTCACCGACAAACAACAG

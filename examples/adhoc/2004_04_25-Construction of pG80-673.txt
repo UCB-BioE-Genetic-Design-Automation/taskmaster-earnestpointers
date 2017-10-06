@@ -1,0 +1,3 @@
+PCR 599R/673F on pG80-G674b	(4581 bp, BamHI/EcoRI)
+Digest pG80-sin576		(BamHI/EcoRI, gp smaller)
+Ligate, product is pG80-673

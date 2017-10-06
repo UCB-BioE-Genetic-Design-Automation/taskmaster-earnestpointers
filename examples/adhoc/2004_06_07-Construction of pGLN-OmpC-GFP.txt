@@ -1,0 +1,5 @@
+ca652F/R on MC1061 gen.		(764 bp, BsaI)
+553F/559R on pHA-spv555		(921 bp, BsaI)
+Ligate, PCR 652F/559R		(1668 bp, BamHI/EcoRI)
+Sub p80-581			(BamHI/EcoRI)
+Product is pG80-ompC-GFP, bp

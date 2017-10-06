@@ -1,0 +1,40 @@
+---------> GFP cassette
+PCR 553F/552R on pHA-spv555 	(932 bp, BsaI)
+	!cuts once internal!
+
+----> csgBAC
+682F/R on MG1655		(937 bp, BsaI)
+Ligate, PCR 682F/559R		(1841 bp, BamHI/EcoRI)
+Product is pGLN-csgB-GFP
+
+----> csgD  (Probably will require pre-PCR)
+683F/R on MG1655		(1023 bp, BsaI)
+Ligate, PCR 683F/559R		(1927 bp, BamHI/EcoRI)
+Product is pGLN-csgD-GFP
+
+----> wca
+684F/R on MG1655		(745 bp, BsaI)
+Ligate, PCR 684F/559R		(1656 bp, BamHI/EcoRI)
+Product is pGLN-wca-GFP
+
+----> flu
+685F/R on MG1655		(460 bp, BsaI)
+Ligate, PCR 685F/559R		(1364 bp, BamHI/EcoRI)
+Product is pGLN-flu-GFP
+--------------------------------------------------
+ca682F	Forward BamHI oligo for csgBAC 5' UTR	
+cgttaGGATCCtgaagagatatcgtccag
+ca682R	Reverse BsaI oligo for csgBAC 5' UTR	
+gcagaGGTCTCcTCATGTTGTCACCCTGGACC
+ca683F	Forward BamHI oligo for csgD 5' UTR	
+cgttaGGATCCTTTGCCCGGTTGCTACTAC
+ca683R	Reverse BsaI oligo for csgD 5' UTR	
+gcagaGGTCTCcTCATGATGAAACCCCGCTTTTTTTATTG
+ca684F	Forward BamHI oligo for wca 5' UTR	
+cgttaGGATCCGGACCAGTTCGATCACAATC
+ca684R	Reverse BsaI oligo for wca 5' UTR	
+gcagaGGTCTCcTCATTGTTTATTTATCACTTTGGCAG	
+ca685F	Forward BamHI oligo for flu 5' UTR	
+cgttaGGATCCGGCGGAGAGCGTCTGTATTG
+ca685R	Reverse BsaI oligo for flu 5' UTR	
+gcacaGGTCTCcTCATCAGCTTTTCCTTAGATTGAG

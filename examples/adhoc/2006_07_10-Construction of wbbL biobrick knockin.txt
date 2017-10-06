@@ -1,0 +1,19 @@
+----------------------------------------
+\\\\Basic part for wbbL knockin Bca1019
+----------------------------------------
+Basic parts:
+pSB1A2	Bca9001	[F-Cm-F][TT][P_tet]
+pSB1A2	Bca9014	[wbbL1]
+
+Constructs:
+pSB1A2	Bca9035	[F-Cm-F][TT][P_tet][wbbL1]
+
+Knockin:
+PCR ca1017F/ca1018R on Bca9035	(2109 bp, DpnI)
+Transform pKD46/Bos12
+Product is BO1017
+------------------------------------------
+ca1017F	Forward knockin oligo for WbbL	
+GTTTGATGAACTAGTTAATTTTATTACTGAAGAACATTGAAatggtatcacgaggcagaatttcag
+ca1018R	Reverse knockin internal to wbbL
+GATGaaattcgatcaaagttg

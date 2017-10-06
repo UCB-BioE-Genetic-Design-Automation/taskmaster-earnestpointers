@@ -1,0 +1,8 @@
+PCR ca931F/R on Bos12 gen.	(830 bp, BamHI/EcoRI)
+Sub into pAC581
+Product is pAC-wbb931
+-------------------------------------------
+ca931F	Forward wbbL cloning
+CAGGTggatccNNNGGAATTAACCatggtatatataataatcg
+ca931R	Reverse wbbL cloning
+CTAGAgaattcTTACGGGTGAAAAACTGATG

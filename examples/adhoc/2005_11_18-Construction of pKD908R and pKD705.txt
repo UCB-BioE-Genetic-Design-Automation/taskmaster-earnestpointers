@@ -1,0 +1,6 @@
+PCR 832F/875R on pG80ko		(1375 bp, i. NotI/Vent, ii. EcoRI, gp smaller)
+Sub into pKD908N		(i. XhoI/Vent, ii. EcoRI)
+Product is pKD908R
+-----------------------------------------------------------------------------
+EIPCR 604R/705F on pKD908R-2	(3135 bp, SpeI/Vent)
+Product is pKD705

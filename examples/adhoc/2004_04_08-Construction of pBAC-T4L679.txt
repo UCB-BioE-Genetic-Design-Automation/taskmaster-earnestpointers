@@ -1,0 +1,11 @@
+PCR 679F/R on pBAD-T4Lig	(1621 bp, BsaI)
+	!Cuts once internal!
+Sub pBAC581			(BamHI/EcoRI)
+Product is pBAC-T4L679,  bp
+---------------------------------------------
+ca679F	Forward BsaI/BamHI oligo to transfer RBS from 
+	pBAD/pGLN derivatives	
+gagtaGGTCTCtgatcTAACAGGAGGAATTAACCATG
+ca679R	Reverse BsaI/EcoRI oligo to transfer ORFs from
+	pBAD/pGLN derivatives
+gcagaGGTCTCcaattGCCAAGCTGTAGACCGTTTAAAC

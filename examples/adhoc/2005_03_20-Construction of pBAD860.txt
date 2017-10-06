@@ -1,0 +1,7 @@
+EIPCR ca860F/R on pBAD-GFP	(5665 bp, BamHI/BglII)
+Ligate, product is pBAD860
+-------------------------------------------------
+ca860F	Forward BglII oligo to remove BamHI site in pBAD-GFP
+CAGTAagatcttacctgacgctttttatcgc
+ca860R	Reverse BamHI oligo to remove BamHI site in pBAD-GFP
+GACTAGGATCCGCTAATCTTATGG

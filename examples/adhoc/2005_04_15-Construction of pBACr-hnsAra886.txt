@@ -1,0 +1,8 @@
+PCR ca886F/R on MG1655 gen.	(bp, NotI/BamHI)
+Sub into pBACr-TetAra879 "9ser"	(NotI/BamHI)
+Product is pBACr-hnsAra886
+------------------------------------------------
+ca885F	Cloning hns 5' UTR	
+GGTATGCGGCCGcGAAATATAGCTGTGCCATCAG
+ca885R	Cloning hns 5' UTR	
+gagttGGATCcGCACGAAGAGTACGGATGTTG

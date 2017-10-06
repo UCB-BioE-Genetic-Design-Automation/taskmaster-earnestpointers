@@ -1,0 +1,18 @@
+Starts with pAC-AraC787
+------------Construction of hns--------------
+PCR 749F/745R on pAC-AraC787	(989 bp, EcoRI/HindIII)
+Sub into pGLN-pho741		(EcoRI/HindIII)
+Product is pGLN-AraC787, 4572 bp
+---------------------------------------------
+PCR 789F/R on MG1655 gen.	(703 bp, BsaI)
+Sub into pGLN-AraC787		(BamHI/EcoRI)
+Product is pHA-hnsAraC[9TAG]LVA
+---------------------------------------------
+PCR 645/560R on pHA-hnsAraC[9TAG]LVA	(2019 bp, BamHI/BsaI)
+Sub into pG80-568			(BamHI/EcoRI)
+Product is pBAC-hnsAraC, 7651 bp
+---------------------------------------------
+ca789F	Cloning hns 5' UTR	
+ctgaaGGTCTCggatccGAAATATAGCTGTGCCATCAG
+ca789R	Cloning hns 5' UTR	
+gagttGGTCTCGaattCGCACGAAGAGTACGGATGTTG

@@ -1,0 +1,50 @@
+LOCUS       20N3_analysis            173 bp ds-DNA     linear       03-MAR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    complement(57..62)
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(join(158..161,163..168))
+                     /label=BsaI
+                     /ApEinfo_fwdcolor=#c9cc9d
+                     /ApEinfo_revcolor=#c9cc9d
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(join(158..159,168..173))
+                     /label=BseRI
+                     /ApEinfo_fwdcolor=#9ac688
+                     /ApEinfo_revcolor=#9ac688
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(join(63..63,70..75,93..98))
+                     /label=Medium/High Promoter pattern J23101 - A
+                     /ApEinfo_fwdcolor=#6d74ff
+                     /ApEinfo_revcolor=#6d74ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(1..13)
+                     /label=mRFP1
+                     /ApEinfo_fwdcolor=#ff8699
+                     /ApEinfo_revcolor=#ff8699
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    complement(119..157)
+                     /label=Terminator/Promoter TP1
+                     /ApEinfo_fwdcolor=#ff4d4e
+                     /ApEinfo_revcolor=#ff4d4e
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CGGAGGAAGC CATccttgac gtcctcaact ctttatttgg tatattggtt ACTAGAggat
+       61 ccTgattatA TAATAtcata tataccaatt ttTGTAAATA GCTCCAAGCA CAGCCATCAG
+      121 CGTACCAAAA GACGCCTTTC GGCGTCCTAA CTTTTACctg gTGAGACCTC CTC
+//

@@ -1,0 +1,12 @@
+PCR ca1019F/R on Y. pseud. gen.		(bp, BamHI/EcoRI)
+Sub into pAC581				(BamHI/EcoRI)
+Product is pAC-SalS1019
+---------------------------------------------------
+Cotrans with pBACr899 for phenotype
+---------------------------------------------------
+Transferrable into pSB1A2-Bca9008 for biobrick
+---------------------------------------------------
+ca1019F	Forward BamHI for irp9 salicylate synthetase
+cctgaGGATCCacagagaggtaagggatgaaaatc
+ca1019R	Reverse EcoRI for irp9 salicylate synthetase
+gacttGAATTCttacaccattaaatagggcgc

@@ -1,0 +1,10 @@
+PCR 814F/623R on pLC113	(2195 bp, BsaI)
+PCR 670F/696R on pKD13	(1360 bp, BsaI)
+Ligate, PCR 696R/814R	(1521 bp, BamHI/EcoRI)
+Paste into pG80-581	(BamHI/EcoRI)
+Product is pG80-814, 3777 bp
+-----------------------------------------
+ca814F	Forward BsaI to BamHI oligo to create nahR cassette
+cctaaGGTCTCagatcGACCTCGCTTGGGTTATTGC
+ca814R	Reverse EcoRI oligo to create nahR cassette
+CGATAgaattcTGAAAACAAGTGGATCTATG

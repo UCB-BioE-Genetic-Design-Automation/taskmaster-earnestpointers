@@ -1,0 +1,11 @@
+PCR 605F/803R on pBAC872	(2278 bp, NotI/EcoRI)
+Sub into pBR581			(NotI/EcoRI)
+Product is pBR872
+----------------------------------------------------
+EIPCR 927F/744R on pBR872	(bp, BsmBI)
+	!!Cuts once internal!!
+Product is pBR927
+----------------------------------------------------
+ca927F	Forward BsmBI oligo for GFPmut3 amber TAG
+gagttCGTCTCgTTTCtagTATGGTGTTCAATGCTTTTC
+ca744R	3' EIPCR oligo to make GFP S56TAG seryl amber suppression reporter	cagctCGTCTCtGAAAGTAGTGACAAGTGTTGG

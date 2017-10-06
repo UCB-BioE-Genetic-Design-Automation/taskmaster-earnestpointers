@@ -1,0 +1,43 @@
+LOCUS       New_DNA                   93 bp ds-DNA     linear       28-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     primer_bind     64..83
+                     /label=T7 Universal
+                     /ApEinfo_fwdcolor=#b19943
+                     /ApEinfo_revcolor=#b19943
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     promoter        64..83
+                     /label=P_T7
+                     /ApEinfo_fwdcolor=RosyBrown
+                     /ApEinfo_revcolor=RosyBrown
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     terminator      12..63
+                     /label=T_21imm
+                     /ApEinfo_fwdcolor=Crimson
+                     /ApEinfo_revcolor=Crimson
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site83..88
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     restriction_site6..11
+                     /label=XbaI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 CCATAtctag attgttcaga acgctcggtc ttgcacaccg ggcgtttttt ctttgtgagt
+       61 ccaTAATACG ACTCACTATA GGggatccAG ATC  
+//

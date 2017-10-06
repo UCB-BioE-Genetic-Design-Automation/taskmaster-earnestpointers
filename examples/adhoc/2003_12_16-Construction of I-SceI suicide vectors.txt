@@ -1,0 +1,28 @@
+----> Cloning I-SceI ORF into BAC under TetR
+prePCR ca584F/R on S. cerevisiae mito (1080 bp)
+PCR ca585F/R on 584 product (745 bp)
+Digest BamHI/EcoRI
+Past into pBAC581, BamHI/EcoRI
+	3196 + 6157, keep large
+Product is pBAC-ISceI584 (5876 bp, KanR)
+
+----> Cloning I-SceI restriction site on high-copy
+PCR 586F/R on S. cerevisiae mito (362 bp)
+Sub XhoI/EcoRI
+Digest pGFPuv with XhoI/EcoRI
+	300 + 3000, save 3000
+Ligate, look for white cfu
+Product is pUC586 (3397 bp, AmpR)
+---------------------------------------------------
+ca584F	I-SceI pre-PCR
+	cagcgaagcttataacaactttc
+ca584R	I-SceI pre-PCR
+	GAGGTGGCAAACATAGCTTAC
+ca585F	Cloning I-SceI into pBAC581
+	CACGCggatccTTGAGGAATTAACCatgaaaaatattaaaaaaaatcaag
+ca585R	Cloning I-SceI into pBAC581
+	CCAGAgaattcTTATTTTAAAAAAGTTTCGGATG
+ca586F	Cloning I-SceI cut site into pGFPuv
+	cgaagCTCGAGctgtgcgataattgtaacac
+ca586R	Cloning I-SceI cut site into pGFPuv
+	GAGGCGAATTCCATTATGGTTCTTGACGATAC

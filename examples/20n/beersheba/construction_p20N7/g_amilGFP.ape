@@ -1,0 +1,60 @@
+LOCUS       New_DNA                  757 bp ds-DNA     linear       03-APR-2016
+DEFINITION  .
+ACCESSION   
+VERSION     
+SOURCE      .
+  ORGANISM  .
+COMMENT     
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     misc_feature    18..23
+                     /label=BglII
+                     /ApEinfo_fwdcolor=#00ff80
+                     /ApEinfo_revcolor=#00ff80
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    6..11
+                     /label=BamHI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    747..752
+                     /label=EcoRI
+                     /ApEinfo_fwdcolor=#00ff00
+                     /ApEinfo_revcolor=#00ff00
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    741..746
+                     /label=MfeI
+                     /ApEinfo_fwdcolor=#8fc2c1
+                     /ApEinfo_revcolor=#8fc2c1
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    12..17
+                     /label=HindIII
+                     /ApEinfo_fwdcolor=#a648ff
+                     /ApEinfo_revcolor=#a648ff
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+     misc_feature    42..737
+                     /label=amilGFP
+                     /ApEinfo_fwdcolor=#ffef13
+                     /ApEinfo_revcolor=#ffef13
+                     /ApEinfo_graphicformat=arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0
+ORIGIN
+        1 ccataGGATC CaagcttAGA TCTaaatagg agaaatacta gATGTCTTAT TCAAAGCATG
+       61 GCATCGTACA AGAAATGAAG ACGAAATACC ATATGGAAGG CAGTGTCAAT GGCCATGAAT
+      121 TTACGATCGA AGGTGTAGGA ACTGGGTACC CTTACGAAGG GAAACAGATG TCCGAATTAG
+      181 TGATCATCAA GCCTGCGGGA AAACCCCTTC CATTCTCCTT TGACATACTG TCATCAGTCT
+      241 TTCAATATGG AAACCGTTGC TTCACAAAGT ACCCGGCAGA CATGCCTGAC TATTTCAAGC
+      301 AAGCATTCCC AGATGGAATG TCATATGAAA GGTCATTTCT ATTTGAGGAT GGAGCAGTTG
+      361 CTACAGCCAG CTGGAACATT CGACTCGAAG GAAATTGCTT CATCCACAAA TCCATCTTTC
+      421 ATGGCGTAAA CTTTCCCGCT GATGGACCCG TAATGAAAAA GAAGACCATT GACTGGGATA
+      481 AGTCCTTCGA AAAAATGACT GTGTCTAAAG AGGTGCTAAG AGGTGACGTG ACTATGTTTC
+      541 TTATGCTCGA AGGAGGTGGT TCTCACAGAT GCCAATTTCA CTCCACTTAC AAAACAGAGA
+      601 AGCCGGTCAC ACTGCCCCCG AATCATGTCG TAGAACATCA AATTGTGAGG ACCGACCTTG
+      661 GCCAAAGTGC AAAAGGCTTT ACAGTCAAGC TGGAAGCACA TGCCGCGGCT CATGTTAACC
+      721 CTTTGAAGGT TAAATAAtaa CAATTGgaat tcCATCG  
+//

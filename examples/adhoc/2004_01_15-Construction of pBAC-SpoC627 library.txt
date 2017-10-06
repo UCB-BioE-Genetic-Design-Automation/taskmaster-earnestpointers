@@ -1,0 +1,9 @@
+PCR ca627F/ca627R on Bs gen. (426 bp)
+Digest BsaI/BamHI
+Ligate into pBAC-QE626 (BamHI/EcoRI dig)
+Library is pBAC-SpoC627 (6551 bp, 7E7 mem.)
+---------------------------------------------------------------
+ca627F	Forward BamHI RBS library oligo to clone SpoC	
+	GCAAAggatccNNAGGAGNNNNNNNNNNNTGAGCAGCCAGCCTGAACCAAAGAAG	
+ca627R	Reverse BsaI/EcoRI to clone SpoC	
+	gagttGGTCTCGaattCTTAAGAAGCCTTATGCTCTAACCTC	

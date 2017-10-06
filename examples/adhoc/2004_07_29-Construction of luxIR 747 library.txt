@@ -1,0 +1,13 @@
+PCR 742F/747R on pPROBE-luxIR	(980 bp, BglII)
+PCR 747F/746R on pPROBE-luxIR	(1744 bp, BglII)
+Ligate, PCR 742F/746R		(2708 bp, BamHI/BsaI)
+Sub into pBAC-568		(BamHI/EcoRI)
+Product is pBAC-lux746 for the unmutated variant
+Library is pBAC-lux747 lib, 8350 bp
+-----------------------------------------------
+ca746R	Reverse GFP BsaI to EcoRI oligo to transfer pPROBE reporters	
+gagttGGTCTCgAATTgccttagctcctgaaaatctcgc
+ca747F	Forward Mutagenic BglII oligo to mutate RBS of luxIR	
+GCAATagatctNNNGGAGGNNNNNRTGACTATAATGATAAAAAAATCGG
+ca747R	Reverse Constant BglII oligo to mutate RBS of luxIR	
+CACTGagatctGCGTTTATTCGACTATAACAAAC

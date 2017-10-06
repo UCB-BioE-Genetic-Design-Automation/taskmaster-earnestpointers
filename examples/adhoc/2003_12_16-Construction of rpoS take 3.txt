@@ -1,0 +1,14 @@
+PCR ca588F/590R on Ec gen.	(2111 bp)
+sub XhoI/EcoRI into pKD455-GFP
+Product is pKD455-rpoS		(5583 bp)
+-----------------------------------------
+PCR 590F/588R on pKD455-rpoS	( bp, BsaI)
+	*Cuts twice internally!
+-----------------------------------------
+Preparation of insert:
+PCR 624F/589R on pKD13		(1365 bp, BsaI)
+ca581F/562F on pBAC581		(4769 bp, BsmBI)
+	*cuts once internally!
+Ligate, PCR 589F/581R		(1429 bp, BsaI/BsmBI)
+Ligate with pKD455-rpoS PCR
+Product is pKD455-rpoSKO, 6975 bp

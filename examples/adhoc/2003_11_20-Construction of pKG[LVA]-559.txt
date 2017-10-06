@@ -1,0 +1,27 @@
+Construction of GFP[LVA] transposon,  General Scheme:
+PCR RBS through T0 term, sub into XbaI/EcoRI sites
+Subclone the XhoI/EcoRI fragment into pKD455-GFP
+Later transfer into the DeLorenzo transposition plasmid
+
+-->Construction of pKG[LVA]-559
+
+PCR ca559F/R on pPROBE-GFP[LVA] (~970 bp)
+Digest XbaI/EcoRI
+Sub into XbaI/EcoRI sites of pKG437
+	Cuts: 754 + 2013
+	Product: 2926 bp
+
+-->Construction of pKD455-GFP[LVA]
+
+PCR with CA440F/ca559R on pKG[LVA]-559 (~1170 bp)
+Digest XhoI/EcoRI
+sub into XhoI/EcoRI sites of pKD455-GFP
+	Cuts:  3490 (+ 670 + 298)
+	Product: 4651 bp
+	
+>ca559F	Forward XbaI oligo to make pKG[LVA]559
+cacgtTCTAGAcctaactaactaaagattaac	
+>ca559R	Reverse EcoRI oligo to make pKG[LVA]559
+gcggcgGAATTCccttagctcctgaaaatctcgc	
+>ca440F	Forward BsmBI/XhoI oligo to amplify pKG derivatives
+GGAGACGTCTCCTCGAGTcgttcatccatagttgcctg	

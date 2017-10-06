@@ -1,0 +1,15 @@
+PCR 778F/R on MG1655 gen.	(275 bp, BamHI/EcoRI)
+Sub into pAC-supDb		(BamHI/EcoRI)
+Product is pAC-katE-supD, 2447 bp
+-------------------------------------------------
+PCR 778F/745R on pAC-katE-supD	(437 bp, BsaI)
+	**cuts once internal**
+Sub into pG80-671		(BamHI/ECoRI)
+Product is pBACn-katE-supD, 7341 bp
+-------------------------------------------------
+Confirm activity, transfer into genome
+-------------------------------------------------
+ca778F	Forward BsaI/BamHI oligo to clone 5' UTR of katE
+ctgaaGGTCTCGGATCCcattactggcttcactaaacgc
+ca778R	Reverse EcoRI oligo to clone 5' UTR of katE
+GGAGAgaattcGACTGGTGCTGATGTGGGTTC

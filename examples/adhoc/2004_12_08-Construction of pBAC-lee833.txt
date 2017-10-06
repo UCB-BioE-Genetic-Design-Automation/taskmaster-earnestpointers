@@ -1,0 +1,18 @@
+PCR 833F/834R on LEE plasmid	(1078 bp, BstEII)
+PCR 834F/833R on LEE plasmid	(917 bp, BstEII)
+Ligate, PCR 833F/R		(1978 bp, BamHI/EcoRI)
+Sub into pBAC832		(BamHI/EcoRI)
+Product is pBAC834, 7792 bp
+------------------------------------------------
+Digest pBAC834			(BstEII)
+Transform pKD46/LEE/MC1061
+Product is pBAC-lee833, 41213
+------------------------------------------------
+ca833F	Forward BamHI oligo for LEE cloning	
+CACTCggatcCATCTGTTGCATTGAGCCTTTAC
+ca833R	Reverse EcoRI oligo for LEE cloning	
+GATGCGAATTCGTAACCGTTACGACAACACCTC
+ca834F	Forward oligo for 3' flank	
+CGATAGGTgACCGCCAGGTGACTTCATTTACTC
+ca834R	Reverse BstEII oligo for 5' flank	
+CGATAGGTcACCGCATGGAAAGCAGATGATCG

@@ -1,0 +1,11 @@
+prepcr 670F/R on BS gen.	(1156  bp)
+PCR 686F/691R on prepcr		(445 bp, BamHI/EcoRI)
+Sub into pG80-673		(BamHI/EcoRI)
+Product is pG80-691, 4970 bp
+-----------------------------------------------------
+ca690F	prepcr for SpoIIG  1156 bp	
+ggtaattgctacagacttggc
+ca690R	prepcr for SpoIIG  1156 bp	
+GATCGTACAGCTGGTTACCGG
+ca691R	Reverse EcoRI oligo for IIG-5'UTR	
+CGTACGAATTCTTTCTTGCCTCACGCTGTTC

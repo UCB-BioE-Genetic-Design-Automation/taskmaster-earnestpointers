@@ -1,0 +1,13 @@
+ca675F/R on BS gen	(851 bp, BamHI/EcoRI)
+Sub pG80-581 for CRIM	(BamHI/EcoRI)
+Product pG80-sin675, 3149 bp
+---------------------------------------------
+ca675F	BamHI oligo to clone sin operon	ccactGGATCCttttttaccattcgacatcattctc
+ca675R	EcoRI oligo to clone sin operon	CGAATgaattcGGATAAAAATTAATAACAGC
+
+
+
+
+
+
+******** do CRIM first, then can do a knockout of sinI, then cut and paste both later into bac

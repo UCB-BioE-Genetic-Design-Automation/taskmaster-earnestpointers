@@ -1,0 +1,8 @@
+PCR ca859F/R on pCP20	(1314 bp, BamHI/BsaI)
+Sub into pAC581		(BamHI/ECoRI)
+Product is pAC-flp859
+----------------------------------------
+ca859F	Forward oligo to clone FRT into pAC581	
+CTCACggatccAGGAGGAATTAACCATGCCACAATTTGATATATT
+ca859R	Reverse oligo to clone FRT into pAC581	
+cGtgaAATTTgagaccTTATATGCGTCTATTTATGTAG

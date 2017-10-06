@@ -1,0 +1,49 @@
+>2016_04_18	Project description: ebetsu
+This is the project for E. coli temperature-sensitive T7 induction.  The goal is to make a Ptet-T7RNAP in the genome under repression by a temperature-sensitive TetR.
+
+>2016_06_07	Cloning of tetR1 parts
+The series p20N119-p20N124 are the 6 promoter strengths driving tetR1 (operon level constructs).  All but LOW and SLOW worked on the first two clones.  I would have gotten 3 of 6 if I had only sequenced the A clone.  There are definitely some side products, which is not too surprising at this point.  I colony pcr'd (ca998/G00101) 6 more each of p20N122 and p20N123.  The gel is stragglers_gel.jpg.  Going left to right it's clones 1 through 6 of p20N122, ladder, then 1 through 6 of p20N123.  I picked lanes 2 and 4 for p20N122 renaming them clones C and D.  I picked lanes 5 and 6 of p20N123 renaming them clones C and D.  I zymo'd the colony pcr's and sent for sequencing.  This is actually a pretty efficient way of handling the screening because it lets me see second-day color for the colonies that were iffy picks, and doesn't waste unnecessary screening by at least a factor of two.
+
+>2016_06_07	Next steps for tetR
+The next step will be to join the constitutive tetR parts with Ptet driving amilGFP.  I will be using amilGFP in it's "reporter" context; ie, with BamHI and EcoRI flanking. The is because 1) I don't have it in the scar context, and 2) the pink1 and pink2 reporters don't look so hot in liquid.  The pink2 is nice on plates, visible at 16 hrs pretty well, excited by UV. It's not great enough to justify replacing amilGFP.  It's not excellent.  The pink1 is crappy in all contexts.  After making these connections (cassette level constructs), I should have repression and loss of amilGFP.  I will confirm that phenotype, then do EIPCR libraries.  Those libraries are described in the excel sheet TetR mutation design.xlsx.  They target residues known to generate temperature sensitive variants.  I saturate the known site along with the previous and next amino acid.  Total it's 4 libraries derived from 5 known TS mutants, which is all the sites described in the only paper I found.  I will screen these for being green at 37 and white at 30, and go with whatever looks best.
+
+>2016_06_07	Construction of additional P_T7 bin variants
+I construction p20N160 and p20N161, which put TP_T71 in the bin B and bin C contexts, respectively.  I realized I needed it in a different bin to test out T7 RNAP should things go there.  Clone A and B of each were good.
+
+>2016_06_11	Analysis of tetR cassettes
+The golden gate of all 6 tetR cassettes (p20N164-p20N169) (Ptet-amilGFP.Pcon-tetR) went very smoothly.  Good colony yield, but fair amount of background.  I didn't do background substraction, so seems about right.  The minipreps were super messy, but all map correct.  See gel tetr.jpg.  The gel goes p20N164-p20N169, left to right, clone A's then clone B's. Mapped with EcoRI/XhoI. Have perfect partial sequence confirmation on for 5 of them, and perfect full coverage for LOW. See spreadsheet ebetsu_cassettes.txt for results. All six show negligible fluorescence. See file TetR-Ptet amilGFP.xlsx, collected on 100 uL of saturated culture prior to miniprep. I'm going to go with SLOW (p20N168) for the libraries.
+
+>2016_06_19	tetR TS libraries
+The design and results are all in the excel file: TetR mutation design.xlsx.  The IPCRs all looked great, done at 50 uL scale on 100x diluted p20N168 as template. Did on 4K45.  All went fine on first go, but tried concentrating and processing all the material, wasted a lot of cells.  Got very few colonies.  Redid it on cloning scale, and got normal EIPCR/BsmBI yield for that, with more colonies on A and B, and less of C and D.  (nomenclature isn't really A,B,C,D, but I use those letterings often and refer to the order in the "design" worksheet of the excel file, per lib.  I picked everything pickable on all libs, which was mostly A's and B's.  I picked the C's and D's clean but there weren't all that many of them.  Total I picked full 2 384 well plates.  So, these were naive.  I gridded after ON growth in 8% glycerol/2YT directly onto LB agar + carb plates.  Grew 24 hrs at 30 and 37, then chose colonies that looked greener at 37 than at 30.  Those 'hits' were grown in a 24-well plate (see "secondary screen" worksheet.  I tecan'd those, chose the 'real' hits, and mini'd and sequenced those.  I also picked 3 strong constitutive greens, and a no-amilGFP control of something unrelated as a white negative.  I also mini'd and sequenced 1 of those (C6).  There was an interesting colony C5 that was not taken further.
+
+The hits are all cannonical, no stops, no errors, members of the designed libraries.  I annotated the sequencing files to show confirmed regions.  The sequences of mutations identified look random amongst the hits (mostly), quite different from wildtype, and inconsistent with the seed mutant sequence from which I designed the libraries.
+
+Clone D2 from library B has the highest induced activity, very similar in fluoroescence to the 3 "dead tetR" green mutants picked.  The one "dead" clone I sequenced, C6, has a proline, which is often deleterious, so it is entirely plausible that this is inactive, though I would have preferred to see a stop or frameshift.  I will proceed with D2 for making mutants of Ptet.  However, I think I should find more "ON" mutants that repress better at 30.  This one is usable to proceed, so going with it though it is only a 5x effect.
+
+>2016_06_24	p20N173 -- rename of D2
+I diluted TetR ts hit D2 100x and retransformed, picked a clone, which I've renamed p20N173.  I designate it as clone A.  Did a snow stock and mini.
+
+>2016_06_29	p20N171, p20N172, and p20N174 cloning
+Went very smoothly.  I mini'd and mapped 2 of each with BsaI, see gel 2016_06_29-bsai.jpg.  The gel is BsaI mapping of (in order):
+
+N171-A
+N171-B
+N172-A
+N172-B
+N174-A
+N174-B
+
+All six look fine.  Sequencing A of each.
+
+>2016_07_28	Construction of Ptet variants
+File Design of Ptet libs.xlsx describes the construction of Ptet promoter variants of p20N190.  I picked representative colonies, or oddball colonies for each.  Some I got no colonies.  I grew them up at 30 and 37 then Tecan'd them.  That is in file:  
+
+2016_07_29-FLUOR.xlsx
+
+I picked 10 colonies that showed interesting activity and sequenced.  Those reads are in:
+
+2016-07-25_273603_47315_data
+
+The higher activity ones are non-canonical.  The HIGH, MED, UBER1 and UBER2 variants all are interesting.  I need to re-characterize these alongside p20N190 (has wt Ptet).
+
+I got few colonies from the library.  Like 4.  I did not examine those.
