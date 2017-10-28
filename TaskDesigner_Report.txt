@@ -1,0 +1,15 @@
+BasicConversionTest:15.691500000000001
+MastermixTest:357.25499999999994
+OptimizationTest:1332.7349999999997
+>BasicConversionTest
+runtime: 94
+failures: 
+
+>MastermixTest
+runtime: 3
+failures: 
+
+>OptimizationTest
+runtime: 19
+failures: 
+
