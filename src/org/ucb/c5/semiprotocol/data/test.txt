@@ -1,0 +1,14 @@
+addContainer	pcr_plate_96	alibaba_oligos	deck/A1	FALSE
+addContainer	pcr_plate_96	alibaba_pcrs_1	deck/A2	FALSE
+
+transfer	alibaba_oligos/D3	alibaba_oligos/A1	2
+transfer	alibaba_oligos/A6	alibaba_pcrs_1/A2	6
+transfer	alibaba_oligos/E2	alibaba_pcrs_1/A2	56
+
+transfer	alibaba_oligos/E1	alibaba_pcrs_1/A2	56
+transfer	alibaba_oligos/E2	alibaba_pcrs_1/A2	56
+transfer	alibaba_oligos/E3	alibaba_pcrs_1/A2	56
+
+transfer	alibaba_oligos/A1	alibaba_pcrs_1/H12	32
+transfer	alibaba_oligos/A2	alibaba_pcrs_1/H12	32
+transfer	alibaba_oligos/A3	alibaba_pcrs_1/H12	32
