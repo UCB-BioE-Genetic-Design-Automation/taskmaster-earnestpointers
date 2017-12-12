@@ -192,8 +192,8 @@ public class View extends BorderPane{
 
     // =================================================================================================================
     // Function Name: addHBox
-    // Feature Description: Progress bar and next button near bottom of interface
-    // Implementation Description: Hbox parent node and multiple Button child nodes
+    // Feature Description: Next Button box, Progress Box, Task information box
+    // Implementation Description: Hbox parent node and Button child node
     // Input: Button
     // =================================================================================================================
     private HBox addHBox(Button message){
@@ -210,8 +210,8 @@ public class View extends BorderPane{
 
     // =================================================================================================================
     // Function Name: addHBox
-    // Feature Description: Progress bar and next button near bottom of interface
-    // Implementation Description: Hbox parent node and multiple Button child nodes
+    // Feature Description: Welcome message box
+    // Implementation Description: Hbox parent node and Button child node
     // Input: String
     // =================================================================================================================
     private HBox addHBox(String id) {
